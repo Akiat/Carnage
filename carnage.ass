@@ -11,14 +11,14 @@ Video Aspect Ratio: c1.77778
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: C:/Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
-Video File: C:/Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
+Audio File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
+Video File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 136
-Active Line: 159
-Video Position: 19721
+Scroll Position: 114
+Active Line: 118
+Video Position: 14397
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,10 +98,10 @@ Dialogue: 0,0:06:16.52,0:06:19.50,Default,,0,0,0,,Mais seulement une décennie p
 Dialogue: 0,0:06:19.50,0:06:22.85,Default,,0,0,0,,il était de nouveau accepté d'abattre les autres animaux.
 Dialogue: 0,0:06:24.85,0:06:28.87,Default,,0,0,0,,La viande, la dernière nourriture rationnée, est de nouveau en libre circulation après 14 ans.
 Dialogue: 0,0:06:28.87,0:06:32.22,Default,,0,0,0,,Et la fin du rationnement a également permis l'ascension d'un chef célèbre
-Dialogue: 0,0:06:33.12,0:06:35.20,Default,,0,0,0,,S'il vous plait... / Merci de ???? j'ai l'impression qu'elle dit foie gras a la fin.. OUHLALA CETTE PHRASE ME SOULE
+Dialogue: 0,0:06:33.12,0:06:35.20,Default,,0,0,0,,S'il vous plait... / Merci de ???? j'ai l'impression qu'elle dit foie gras a la fin.. OUHLALA CETTE PHRASE ME SOULE. ou bien elle dit programme???? putainnnn
 Dialogue: 0,0:06:35.20,0:06:38.87,Default,,0,0,0,,Le public peut voir tourner joyeusement un cochon devant un rotissoir (Bonne trad ????) (moi je dirais que oui mais pas sur :/ )
 Dialogue: 0,0:06:38.87,0:06:41.87,Default,,0,0,0,,???? ???????????????????????????????????????????????????????????????????????????? (rajoutés par Naelle parce que c'est chaud cette partie...)
-Dialogue: 0,0:06:41.87,0:06:45.10,Default,,0,0,0,,En 1956, Fanny Cradock a fait salle pleine au Royal Albert Hall
+Dialogue: 0,0:06:41.87,0:06:45.10,Default,,0,0,0,,En 1956, Fanny Cradock faisait salle pleine au Royal Albert Hall
 Dialogue: 0,0:06:45.16,0:06:48.60,Default,,0,0,0,,Grâce à/Avec sa performance de découpe d'un cochon qu'elle disposa dans une grand plat.
 Dialogue: 0,0:06:48.60,0:06:51.57,Default,,0,0,0,,???? ''He is well and truly ??????????''
 Dialogue: 0,0:06:51.57,0:06:54.64,Default,,0,0,0,,Allons y... Et nous y sommes !
@@ -109,30 +109,31 @@ Dialogue: 0,0:06:54.64,0:06:58.98,Default,,0,0,0,,Les personnes mangeant encore 
 Dialogue: 0,0:07:04.86,0:07:11.30,Default,,0,0,0,,Au cours des vingt années suivantes, Fanny consacra sa vie à amener le charme (ou ''le coté glamour'', tout simplement?) de la viande dans la maison de tous les Anglais.
 Dialogue: 0,0:07:11.61,0:07:14.98,Default,,0,0,0,,???? coupant votre gorge
 Dialogue: 0,0:07:14.98,0:07:19.54,Default,,0,0,0,,CHIANT A TRADUIRE PAS ENVIE ???
-Dialogue: 0,0:07:20.73,0:07:27.16,Default,,0,0,0,,Et à la fin des année 70, pour être une famille anglaise réussie, les hommes essayent de faire du vélo en ... en portant un chapeau. ??? WTF cette trad
-Dialogue: 0,0:07:27.16,0:07:30.80,Default,,0,0,0,,????
+Dialogue: 0,0:07:20.64,0:07:24.22,Default,,0,0,0,,Et à la fin des années 70, pour être une bonne famille anglaise 
+Dialogue: 0,0:07:24.30,0:07:27.16,Default,,0,0,0,,les maris devaient participer à une compétition de tricycle (j'ai deliberement choisi de ne pas parler des chapeaux parce qu'on s'en bat la race)
+Dialogue: 0,0:07:27.16,0:07:30.80,Default,,0,0,0,,à laquelle ils perdaient si leurs femmes ne fourraient pas la dinde assez vite.
 Dialogue: 0,0:07:35.25,0:07:40.21,Default,,0,0,0,,Mais ce style de vie ne plaisait pas a tout le monde, et certains décidèrent de ne plus consommer d'animaux.
-Dialogue: 0,0:07:40.30,0:07:42.21,Default,,0,0,0,,Et ils se sont nommer : Les véganes
+Dialogue: 0,0:07:40.30,0:07:42.21,Default,,0,0,0,,Et ils se nommaient : les véganes.
 Dialogue: 0,0:07:43.01,0:07:46.01,Default,,0,0,0,,Mon nom est Harold Bland et voici ma femme Teny.
-Dialogue: 0,0:07:46.33,0:07:49.41,Default,,0,0,0,,Pour les autres véganes, il n'y avait pas plus inspirant que Fany Cradec (???)
-Dialogue: 0,0:07:49.98,0:07:52.13,Default,,0,0,0,,Nous somme véganes depuis 10 ans
+Dialogue: 0,0:07:46.33,0:07:49.41,Default,,0,0,0,,Mais les premiers véganes n'étaient pas aussi passionnants que Fanny Cradock..
+Dialogue: 0,0:07:49.98,0:07:52.13,Default,,0,0,0,,Nous sommes véganes depuis 10 ans,
 Dialogue: 0,0:07:52.65,0:07:54.62,Default,,0,0,0,,Et bien-sûr notre enfant est aussi végane.
-Dialogue: 0,0:07:55.74,0:07:59.21,Default,,0,0,0,,Nous avons vu qu'un régime végane peut-être parfaitement sain pour le corps humain.
-Dialogue: 0,0:07:59.74,0:08:02.64,Default,,0,0,0,,??? toutes les activités d'extérieure dont nous avons l'habitude de pratiquer.
-Dialogue: 0,0:08:03.06,0:08:04.37,Default,,0,0,0,,Nous avons juste ???
-Dialogue: 0,0:08:04.80,0:08:08.26,Default,,0,0,0,,Nous allons faire du vélo, du camping, du canoë, de la marche...
-Dialogue: 0,0:08:08.76,0:08:10.05,Default,,0,0,0,,Toutes sortes de choses.
-Dialogue: 0,0:08:10.30,0:08:11.92,Default,,0,0,0,,Maintenant voyons ce que les véganes mangent !
-Dialogue: 0,0:08:12.17,0:08:15.54,Default,,0,0,0,,In time ??? les véganes ne pouvaient être regarder comme des héros
-Dialogue: 0,0:08:15.54,0:08:19.56,Default,,0,0,0,,Mais pour l'instant, ???
-Dialogue: 0,0:08:20.72,0:08:25.97,Default,,0,0,0,,Vous trouverez des recettes clair dans notre livre de cuisine, "Que cuisiner ?", par Eva Batt
+Dialogue: 0,0:07:55.74,0:07:59.21,Default,,0,0,0,,Nous avons constaté que le régime végane peut maintenir n'importe qui en parfaite santé.
+Dialogue: 0,0:07:59.74,0:08:02.64,Default,,0,0,0,,Nous continuons d'ailleurs de pratiquer toutes nos activités préférées
+Dialogue: 0,0:08:03.06,0:08:04.37,Default,,0,0,0,,Avec autant d'intéret qu'avant!
+Dialogue: 0,0:08:04.80,0:08:08.26,Default,,0,0,0,,Nous faisons du vélo, du canoë, de la marche, allons au camping...
+Dialogue: 0,0:08:08.76,0:08:10.05,Default,,0,0,0,,Toutes sortes de choses. (je trouve qu'il y a un truc qui va pas)
+Dialogue: 0,0:08:10.30,0:08:11.92,Default,,0,0,0,,A présent, voyons ce que les véganes mangent !
+Dialogue: 0,0:08:12.17,0:08:15.54,Default,,0,0,0,,Avec le temps, les véganes allaient etre considérés comme de réels précurseurs/héros/pionniers
+Dialogue: 0,0:08:15.54,0:08:19.56,Default,,0,0,0,,Mais pour l'instant, ils demeuraient seulement autour d'une table garnie de nourriture brunatre et de fruits.
+Dialogue: 0,0:08:20.72,0:08:25.97,Default,,0,0,0,,Vous trouverez des recettes simples dans le livre de cuisine, "Qu'est-ce qui mijote?", par Eva Batt.
 Dialogue: 0,0:08:26.36,0:08:27.36,Default,,0,0,0,,Merci Erika.
-Dialogue: 0,0:08:28.22,0:08:35.49,Default,,0,0,0,,Si vous souhaitez des recettes, ou plus d'informations, a propos des autres aspects du véganisme
-Dialogue: 0,0:08:35.92,0:08:37.01,Default,,0,0,0,,Pourtant personne ne l'a fait...
-Dialogue: 0,0:08:38.56,0:08:42.26,Default,,0,0,0,,Pendant la période des années 70 ???, la vie devint encore plus dur pour le mouvement végane.
-Dialogue: 0,0:08:42.30,0:08:46.18,Default,,0,0,0,,Quand les animaux que nous consommions, ne ressemblait plus à des animaux...
-Dialogue: 0,0:08:46.37,0:08:49.00,Default,,0,0,0,,???
-Dialogue: 0,0:08:49.00,0:08:54.30,Default,,0,0,0,,Les entreprise de nourriture américaines trouvèrent de nouvelles façon de déguiser la chair animale ???
+Dialogue: 0,0:08:28.22,0:08:35.49,Default,,0,0,0,,Si vous souhaitez des recettes, ou plus d'informations à propos des autres aspects du véganisme
+Dialogue: 0,0:08:35.92,0:08:37.01,Default,,0,0,0,,Pourtant personne n'en fit rien.
+Dialogue: 0,0:08:38.56,0:08:42.26,Default,,0,0,0,,Pendant les années 70 et 80, la vie devint encore plus dure pour le mouvement végane.
+Dialogue: 0,0:08:42.30,0:08:46.18,Default,,0,0,0,,Quand les animaux consommés ne ressemblaient même plus des animaux... 
+Dialogue: 0,0:08:46.37,0:08:49.00,Default,,0,0,0,,''(Now eat that!) À s'en lécher des doigts!''
+Dialogue: 0,0:08:49.00,0:08:54.30,Default,,0,0,0,,Les chaines de fast food des États-Unis trouvaient toujours de nouvelles façons de déguiser la chair animale en jouets comestibles pour enfants
 Dialogue: 0,0:08:54.41,0:09:00.25,Default,,0,0,0,,Comme ce rap... ???
 Dialogue: 0,0:09:00.25,0:09:03.46,Default,,0,0,0,,??? Tu sais...
 Dialogue: 0,0:09:03.46,0:09:05.74,Default,,0,0,0,,???
@@ -140,7 +141,7 @@ Dialogue: 0,0:09:05.74,0:09:12.10,Default,,0,0,0,,Les enfants ne voulaient peut 
 Dialogue: 0,0:09:12.10,0:09:14.10,Default,,0,0,0,,??? C'est très bon !
 Dialogue: 0,0:09:15.41,0:09:22.45,Default,,0,0,0,,"??? Burger King... Regardez moi les enfants, quand je tourne ma bague, c'est magique ! On ??? Burger King !"
 Dialogue: 0,0:09:22.49,0:09:25.04,Default,,0,0,0,,Les parents étaient charmés par des personnages comme "Burger King" (Roi du burger)
-Dialogue: 0,0:09:25.04,0:09:27.18,Default,,0,0,0,,??? si vous pensez que c'est un "Roi magique" 
+Dialogue: 0,0:09:25.04,0:09:27.18,Default,,0,0,0,,??? si vous pensez que c'est un "Roi magique"
 Dialogue: 0,0:09:27.18,0:09:32.48,Default,,0,0,0,,Utiliser un personnage comme ça, permettait de détourner l'attention du génocide. ???
 Dialogue: 0,0:09:32.48,0:09:35.88,Default,,0,0,0,,Ok... Souris et dis "Cheeseburger !"
 Dialogue: 0,0:09:35.88,0:09:36.89,Default,,0,0,0,,"Cheeseburger !"
@@ -170,7 +171,7 @@ Dialogue: 0,0:11:28.53,0:11:30.12,Default,,0,0,0,,Était complètement acceptabl
 Dialogue: 0,0:11:30.12,0:11:31.69,Default,,0,0,0,,Merci ???
 Dialogue: 0,0:11:32.00,0:11:36.97,Default,,0,0,0,,En réalité, les animaux continuaient à être élevés intensivement, et des maladies continuaient à apparaître.
 Dialogue: 0,0:11:37.10,0:11:43.36,Default,,0,0,0,,Sur les 3 derniers mois, 1607 cas ont été reportés en Angleterre.
-Dialogue: 0,0:11:45.82,0:11:51.40,Default,,0,0,0,,Et en 2001, dix millions d'animaux ont été exterminés durant la crise (de la vache folle ???) 
+Dialogue: 0,0:11:45.82,0:11:51.40,Default,,0,0,0,,Et en 2001, dix millions d'animaux ont été exterminés durant la crise (de la vache folle ???)
 Dialogue: 0,0:11:51.69,0:11:53.70,Default,,0,0,0,,??? un mois de vie ???
 Dialogue: 0,0:11:57.52,0:12:02.80,Default,,0,0,0,,Un cochon a survécu ! Parce que 6 ans plus tôt, il avait commencé une émission de télé-réalité nommée "Pig at The Ritz".
 Dialogue: 0,0:12:03.32,0:12:06.42,Default,,0,0,0,,Il y avait une règle pour le public ??? (bizarre non ???) et une autre pour les célébrités...
