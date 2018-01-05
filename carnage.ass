@@ -11,14 +11,14 @@ Video Aspect Ratio: c1.77778
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: ../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
-Video File: ../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
+Audio File: C:/Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
+Video File: C:/Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.625000
 Scroll Position: 87
-Active Line: 96
-Video Position: 12297
+Active Line: 109
+Video Position: 13643
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -101,7 +101,7 @@ Dialogue: 0,0:06:28.87,0:06:32.22,Default,,0,0,0,,Et la fin du rationnement a é
 Dialogue: 0,0:06:33.12,0:06:35.20,Default,,0,0,0,,S'il vous plait... / Merci de ???? j'ai l'impression qu'elle dit foie gras a la fin.. OUHLALA CETTE PHRASE ME SOULE
 Dialogue: 0,0:06:35.20,0:06:38.87,Default,,0,0,0,,Le public peut voir tourner joyeusement un cochon devant un rotissoir (Bonne trad ????) (moi je dirais que oui mais pas sur :/ )
 Dialogue: 0,0:06:38.87,0:06:41.87,Default,,0,0,0,,???? ???????????????????????????????????????????????????????????????????????????? (rajoutés par Naelle parce que c'est chaud cette partie...)
-Dialogue: 0,0:06:41.87,0:06:45.10,Default,,0,0,0,,En 1956, Fanny Cradock a fait salle pleine au Royal Albert Hall 
+Dialogue: 0,0:06:41.87,0:06:45.10,Default,,0,0,0,,En 1956, Fanny Cradock a fait salle pleine au Royal Albert Hall
 Dialogue: 0,0:06:45.16,0:06:48.60,Default,,0,0,0,,Grâce à/Avec sa performance de découpe d'un cochon qu'elle disposa dans une grand plat.
 Dialogue: 0,0:06:48.60,0:06:51.57,Default,,0,0,0,,???? ''He is well and truly ??????????''
 Dialogue: 0,0:06:51.57,0:06:54.64,Default,,0,0,0,,Allons y... Et nous y sommes !
@@ -134,5 +134,5 @@ Dialogue: 0,0:08:42.30,0:08:46.18,Default,,0,0,0,,Quand les animaux que nous con
 Dialogue: 0,0:08:46.37,0:08:49.00,Default,,0,0,0,,???
 Dialogue: 0,0:08:49.00,0:08:54.30,Default,,0,0,0,,Les entreprise de nourriture américaines trouvèrent de nouvelles façon de déguiser la chair animale ???
 Dialogue: 0,0:08:54.41,0:09:00.25,Default,,0,0,0,,Comme ce rap... ???
-Dialogue: 0,0:09:00.25,0:09:03.46,Default,,0,0,0,,???
-Dialogue: 0,0:09:03.46,0:09:05.46,Default,,0,0,0,,
+Dialogue: 0,0:09:00.25,0:09:03.46,Default,,0,0,0,,??? Tu sais...
+Dialogue: 0,0:09:03.46,0:09:05.74,Default,,0,0,0,,
