@@ -15,10 +15,8 @@ Audio File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
 Video File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 6
-Active Line: 6
-Video Position: 952
+Video Zoom Percent: 0.750000
+Video Position: 218
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,8 +24,8 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.72,0:00:10.67,Default,,0,0,0,,Nous y avons beaucoup réfléchi
-Dialogue: 0,0:00:10.75,0:00:15.97,Default,,0,0,0,,L'Angleterre crée actuellement la plus paisible et la plus heureuse des humanité jamais connue
+Dialogue: 0,0:00:08.72,0:00:10.67,Default,,0,0,0,,Quand on y pense,
+Dialogue: 0,0:00:10.75,0:00:15.97,Default,,0,0,0,,l'Angleterre crée actuellement la plus paisible et la plus heureuse des humanité jamais connue
 Dialogue: 0,0:00:15.97,0:00:18.90,Default,,0,0,0,,La violence a été remplacée par la compassion
 Dialogue: 0,0:00:18.90,0:00:22.00,Default,,0,0,0,,La dépression guérie grâce à l'intimité
 Dialogue: 0,0:00:22.00,0:00:26.85,Default,,0,0,0,,Mais l'histoire a été remplacée par un silence
@@ -110,7 +108,7 @@ Dialogue: 0,0:07:04.86,0:07:11.30,Default,,0,0,0,,Au cours des vingt années sui
 Dialogue: 0,0:07:11.61,0:07:14.98,Default,,0,0,0,,Même si le saucisson n'a pas l'air appétissant, c'est très bon
 Dialogue: 0,0:07:14.98,0:07:19.54,Default,,0,0,0,,Comme vous le seriez pour un cannibale.
 Dialogue: 0,0:07:20.64,0:07:24.22,Default,,0,0,0,,Et à la fin des années 70, pour être une bonne famille anglaise
-Dialogue: 0,0:07:24.30,0:07:27.16,Default,,0,0,0,,les maris devaient participer à une compétition de tricycle 
+Dialogue: 0,0:07:24.30,0:07:27.16,Default,,0,0,0,,les maris devaient participer à une compétition de tricycle
 Dialogue: 0,0:07:27.16,0:07:30.80,Default,,0,0,0,,à laquelle ils perdaient si leurs femmes ne fourraient pas la dinde assez vite.
 Dialogue: 0,0:07:35.25,0:07:40.21,Default,,0,0,0,,Mais ce style de vie ne plaisait pas a tout le monde, et certains décidèrent de ne plus consommer d'animaux.
 Dialogue: 0,0:07:40.30,0:07:42.21,Default,,0,0,0,,Et ils se nommaient : les véganes.
@@ -135,7 +133,7 @@ Dialogue: 0,0:08:42.30,0:08:46.18,Default,,0,0,0,,En effet, les animaux consomm�
 Dialogue: 0,0:08:46.37,0:08:49.00,Default,,0,0,0,,''Appétissant! À s'en lécher des doigts!''
 Dialogue: 0,0:08:49.00,0:08:54.30,Default,,0,0,0,,Les chaines de fast food des États-Unis trouvaient toujours de nouvelles façons de déguiser la chair animale en jouets comestibles
 Dialogue: 0,0:08:54.41,0:09:00.25,Default,,0,0,0,,''Nous aimons ce rap, il déchire!\NMais nous aimerions mieux sauter dans la sauce barbecue!''
-Dialogue: 0,0:09:00.25,0:09:03.46,Default,,0,0,0,,''Tu sais que tu veux manger Macdonald's!'' 
+Dialogue: 0,0:09:00.25,0:09:03.46,Default,,0,0,0,,''Tu sais que tu veux manger Macdonald's!''
 Dialogue: 0,0:09:03.46,0:09:05.74,Default,,0,0,0,,''A l'abordage, mes p'tits poissons panés!"
 Dialogue: 0,0:09:05.74,0:09:12.10,Default,,0,0,0,,Les enfants n'auraient surement pas mangé un poisson mort dans leur assiette, mais mangeaient sans problème les poissons pannées recommandés par le capitaine !
 Dialogue: 0,0:09:12.10,0:09:14.10,Default,,0,0,0,,''C'est très bon!''
@@ -146,7 +144,7 @@ Dialogue: 0,0:09:25.04,0:09:27.18,Default,,0,0,0,,et préféraient l'imaginer co
 Dialogue: 0,0:09:27.18,0:09:32.48,Default,,0,0,0,,plutôt que comme un homme déguisé pour détourner leur attention du génocide.
 Dialogue: 0,0:09:32.48,0:09:35.88,Default,,0,0,0,,Ok... Souris et dis "Cheeseburger !"
 Dialogue: 0,0:09:35.88,0:09:36.89,Default,,0,0,0,,"Cheeseburger !"
-Dialogue: 0,0:09:36.89,0:09:41.21,Default,,0,0,0,,Et les cheveux de Ronald Mc Donalds étaient rouges parce que c'était un clown, pas parce qu'il avait du sang sur les mains. 
+Dialogue: 0,0:09:36.89,0:09:41.21,Default,,0,0,0,,Et les cheveux de Ronald Mc Donalds étaient rouges parce que c'était un clown, pas parce qu'il avait du sang sur les mains.
 Dialogue: 0,0:09:41.58,0:09:43.64,Default,,0,0,0,,''Pas avant que vous ne souriez!''
 Dialogue: 0,0:09:45.64,0:09:48.48,Default,,0,0,0,,Le clown, le capitaine, et le roi...
 Dialogue: 0,0:09:49.30,0:09:52.81,Default,,0,0,0,,Détournaient tous l'attention du public, de ceci:
@@ -166,30 +164,27 @@ Dialogue: 0,0:11:00.65,0:11:03.30,Default,,0,0,0,,"Babe mange du cochon ?"\N"Du 
 Dialogue: 0,0:11:03.82,0:11:08.13,Default,,0,0,0,,Donc, dans le film oscarisé Babe,
 Dialogue: 0,0:11:08.13,0:11:11.50,Default,,0,0,0,,Il était essentiel que le héros, qui était un cochon vivant dans une ferme
 Dialogue: 0,0:11:11.50,0:11:14.84,Default,,0,0,0,,échappe à la mort grâce à ses talents de berger.
-Dialogue: 0,0:11:16.68,0:11:20.89,Default,,0,0,0,,En 1995, emmener vos enfants voir un cochon échapper à la mort...
-Dialogue: 0,0:11:21.22,0:11:23.48,Default,,0,0,0,,''C'est l'heure !''
-Dialogue: 0,0:11:23.48,0:11:25.30,Default,,0,0,0,,''Le Happy Meal "Babe" de Mc Donalds !''
-Dialogue: 0,0:11:25.30,0:11:27.42,Default,,0,0,0,,puis les emmener manger le célèbre ''Happy Meal''...
-Dialogue: 0,0:11:28.53,0:11:30.12,Default,,0,0,0,,Était complètement acceptable/totalement normal.
+Dialogue: 0,0:11:16.68,0:11:27.37,Default,,0,0,0,,En 1995, emmener vos enfants voir un cochon échapper à la mort...\N(''C'est l'heure !'' ... ''Le Happy Meal "Babe" de Mc Donalds !'')\N...puis les emmener manger le célèbre ''Happy Meal'',
+Dialogue: 0,0:11:28.53,0:11:30.12,Default,,0,0,0,,était totalement normal.
 Dialogue: 0,0:11:30.12,0:11:31.69,Default,,0,0,0,,''Merci beaucoup!''
 Dialogue: 0,0:11:32.00,0:11:36.97,Default,,0,0,0,,En réalité, l'élevage intensif continuait, et des maladies continuaient à apparaître.
 Dialogue: 0,0:11:37.10,0:11:43.36,Default,,0,0,0,,''Sur les 3 derniers mois, 1607 cas ont été signalés en Grande-Bretagne.''
 Dialogue: 0,0:11:45.82,0:11:51.40,Default,,0,0,0,,Et en 2001, dix millions d'animaux furent exterminés durant l'épidémie de fièvre aphteuse,
-Dialogue: 0,0:11:51.69,0:11:53.70,Default,,0,0,0,,privés de plusieurs mois de leur courte vie. (pas sure pour cette trad. ca fait tache)
+Dialogue: 0,0:11:51.69,0:11:53.70,Default,,0,0,0,,privés de leur courte vie. 
 Dialogue: 0,0:11:57.52,0:12:02.80,Default,,0,0,0,,Un cochon survécut, car 6 ans plus tôt, il avait commencé l'émission de télé-réalité "Pig at The Ritz".
-Dialogue: 0,0:12:03.32,0:12:06.42,Default,,0,0,0,,Il y avait un régime (ca va ce terme?) pour les animaux ordinaires, et un autre pour les célébrités...
+Dialogue: 0,0:12:03.32,0:12:06.42,Default,,0,0,0,,C'était deux poids, deux mesures: une pour les animaux ordinaires, et une autre pour les célébrités...
 Dialogue: 0,0:12:15.76,0:12:18.08,Default,,0,0,0,,Malgré tout cela, au commencement du nouveau millénaire,
 Dialogue: 0,0:12:18.32,0:12:22.13,Default,,0,0,0,,l'industrie de la viande régnait dans les coeurs et les esprits des Anglais,
 Dialogue: 0,0:12:22.13,0:12:24.24,Default,,0,0,0,,''Une viande de boeuf de qualité, ca se reconnaît!''
 Dialogue: 0,0:12:24.24,0:12:29.86,Default,,0,0,0,,La majorité des gens considéraient la chair animale comme indispensable à leur bonne santé et leur bonheur.
-Dialogue: 0,0:12:31.21,0:12:35.65,Default,,0,0,0,,Il est très difficile de briser le cycle de la maltraitance/ se débarasser d'habitudes oppressives, surtout si vous n'êtes même pas conscients d'être maltraités/d'etre opprimés.
+Dialogue: 0,0:12:31.21,0:12:35.65,Default,,0,0,0,,Il est très difficile de se débarrasser d'habitudes oppressives, surtout si vous n'êtes même pas conscients d'être opprimés.
 Dialogue: 0,0:12:36.88,0:12:39.28,Default,,0,0,0,,Les enfants alors habitués aux viandes transformées
 Dialogue: 0,0:12:39.34,0:12:42.56,Default,,0,0,0,,pleines de sucres, de sel et de gras, les rendant si délicieuses.
 Dialogue: 0,0:12:42.56,0:12:44.86,Default,,0,0,0,,souffraient subitement de nouvelles sortes de cancers.
 Dialogue: 0,0:12:45.18,0:12:47.25,Default,,0,0,0,,Il y eut une rapide augmentation de maladies cardiaques.
 Dialogue: 0,0:12:47.33,0:12:50.41,Default,,0,0,0,,Les scientifiques découvraient de fascinants nouveaux types de diabète.
 Dialogue: 0,0:12:50.68,0:12:53.00,Default,,0,0,0,,Et l'obésité était une épidémie...
-Dialogue: 0,0:12:55.40,0:13:01.50,Default,,0,0,0,,On entendait des véganes dire: ''pourquoi continuent-ils à consommer toute cette viande?''
+Dialogue: 0,0:12:55.40,0:13:01.50,Default,,0,0,0,,On entendait les véganes dire: ''pourquoi continuent-ils à consommer toute cette viande?''
 Dialogue: 0,0:13:03.42,0:13:08.81,Default,,0,0,0,,Mais dans ce temps là, les gens mangeaient de la viande car ils pensaient alors que c'était tout ce qu'ils méritaient...
 Dialogue: 0,0:13:11.98,0:13:15.24,Default,,0,0,0,,Tout ce temps, il y avait une alternative...
 Dialogue: 0,0:13:16.40,0:13:20.37,Default,,0,0,0,,''Si tu prends du poids en mangeant trop d'bouffe, je ne te traiterais jamais de "vache".
@@ -208,7 +203,7 @@ Dialogue: 0,0:13:56.01,0:13:59.45,Default,,0,0,0,,Ce trio de gros sacs se dirige
 Dialogue: 0,0:13:59.45,0:14:02.89,Default,,0,0,0,,Attention, les gros plein de soupe, la police du lard arrive!
 Dialogue: 0,0:14:02.89,0:14:06.42,Default,,0,0,0,,Cette période d'humiliation durera jusqu'à la fin de la décennie,
 Dialogue: 0,0:14:06.42,0:14:09.85,Default,,0,0,0,,jusqu'à ce que l'on comprenne que rabaisser des gens à la télé n'améliorait pas leur santé.
-Dialogue: 0,0:14:09.89,0:14:14.17,Default,,0,0,0,,Et Gillian Mckeith chuta... (pas sure pour chuter)
+Dialogue: 0,0:14:09.89,0:14:14.17,Default,,0,0,0,,Et Gillian Mckeith chuta... 
 Dialogue: 0,0:14:15.80,0:14:19.32,Default,,0,0,0,,Personne n'est coupable... Nous avons tous été victimes.
 Dialogue: 0,0:14:19.32,0:14:21.90,Default,,0,0,0,,La plupart de mes patients étaient enfants à cette époque.
 Dialogue: 0,0:14:22.29,0:14:23.86,Default,,0,0,0,,On leur donnait de la viande à l'école,
@@ -236,8 +231,8 @@ Dialogue: 0,0:16:15.80,0:16:19.68,Default,,0,0,0,,Sera-t-il un jour possible pou
 Dialogue: 0,0:16:19.74,0:16:25.06,Default,,0,0,0,,comment il a pu etre possible pour leurs parents et grands parents\Nd'ingérer les fluides et les parties du corps de leurs compagnons animaux?
 Dialogue: 0,0:16:26.08,0:16:29.92,Default,,0,0,0,,Nous avons demandé à quelques jeunes s'ils seraient prêts à remonter dans le temps.
 Dialogue: 0,0:16:35.04,0:16:36.70,Default,,0,0,0,,Je veux comprendre ce qu'il s'est passé.
-Dialogue: 0,0:16:36.70,0:16:44.04,Default,,0,0,0,,I heard steps what the fuckkkkkkkkkkkkkkkkkkkkk are you sayinggggggggggggggggggggggggggggggggggggggggggggggggggg
-Dialogue: 0,0:16:44.04,0:16:46.04,Default,,0,0,0,,Et je devais quitter la maison.
+Dialogue: 0,0:16:36.70,0:16:43.89,Default,,0,0,0,,Quand je vais chez grand père, je dois m'empêcher de l'imaginer manger de la viande,
+Dialogue: 0,0:16:44.04,0:16:46.04,Default,,0,0,0,,sinon je me sens obligé de quitter la maison.
 Dialogue: 0,0:16:50.02,0:16:52.62,Default,,0,0,0,,Grâce à la dernière technologie multisensorielle de réalité virtuelle en date,
 Dialogue: 0,0:16:52.62,0:16:57.96,Default,,0,0,0,,ces volontaires ont fait un bond de 50 ans en arrière, dans une rôtisserie de poulets réputée
 Dialogue: 0,0:16:57.96,0:17:02.94,Default,,0,0,0,,qui en 2017 servait plus d'un demi-million de poulets malades par semaine.
