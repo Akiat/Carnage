@@ -11,14 +11,14 @@ Video Aspect Ratio: c1.77778
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Audio File: C:/Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
-Video File: C:/Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
+Audio File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
+Video File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 179
-Active Line: 202
-Video Position: 24512
+Scroll Position: 211
+Active Line: 214
+Video Position: 25573
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -131,101 +131,113 @@ Dialogue: 0,0:08:26.36,0:08:27.36,Default,,0,0,0,,Merci Erika.
 Dialogue: 0,0:08:28.22,0:08:35.49,Default,,0,0,0,,Si vous souhaitez des recettes, ou plus d'informations à propos des autres aspects du véganisme
 Dialogue: 0,0:08:35.92,0:08:37.01,Default,,0,0,0,,Pourtant personne n'en fit rien.
 Dialogue: 0,0:08:38.56,0:08:42.26,Default,,0,0,0,,Pendant les années 70 et 80, la vie devint encore plus dure pour le mouvement végane.
-Dialogue: 0,0:08:42.30,0:08:46.18,Default,,0,0,0,,Quand les animaux consommés ne ressemblaient même plus des animaux...
+Dialogue: 0,0:08:42.30,0:08:46.18,Default,,0,0,0,,En effet, les animaux consommés ne ressemblaient même plus des animaux...
 Dialogue: 0,0:08:46.37,0:08:49.00,Default,,0,0,0,,''(Now eat that!) À s'en lécher des doigts!''
 Dialogue: 0,0:08:49.00,0:08:54.30,Default,,0,0,0,,Les chaines de fast food des États-Unis trouvaient toujours de nouvelles façons de déguiser la chair animale en jouets comestibles pour enfants
-Dialogue: 0,0:08:54.41,0:09:00.25,Default,,0,0,0,,Comme ce rap... ???
-Dialogue: 0,0:09:00.25,0:09:03.46,Default,,0,0,0,,??? Tu sais...
-Dialogue: 0,0:09:03.46,0:09:05.74,Default,,0,0,0,,???
-Dialogue: 0,0:09:05.74,0:09:12.10,Default,,0,0,0,,Les enfants ne voulaient peut être pas d'un poisson mort dans leur assiette, mais mangeait sans problème les poissons pannées recommandés par le capitaine !
-Dialogue: 0,0:09:12.10,0:09:14.10,Default,,0,0,0,,??? C'est très bon !
-Dialogue: 0,0:09:15.41,0:09:22.45,Default,,0,0,0,,"??? Burger King... Regardez moi les enfants, quand je tourne ma bague, c'est magique ! On ??? Burger King !"
-Dialogue: 0,0:09:22.49,0:09:25.04,Default,,0,0,0,,Les parents étaient charmés par des personnages comme "Burger King" (Roi du burger)
-Dialogue: 0,0:09:25.04,0:09:27.18,Default,,0,0,0,,??? si vous pensez que c'est un "Roi magique"
-Dialogue: 0,0:09:27.18,0:09:32.48,Default,,0,0,0,,Utiliser un personnage comme ça, permettait de détourner l'attention du génocide. ???
+Dialogue: 0,0:08:54.41,0:09:00.25,Default,,0,0,0,,''“We like this rap/It really rocks/But we'd rather jump/In the barbecue sauce/Cause we can!'' (a traduire??)
+Dialogue: 0,0:09:00.25,0:09:03.46,Default,,0,0,0,,''Tu sais que tu veux Macdo!'' (You know you want Macdonalds!)
+Dialogue: 0,0:09:03.46,0:09:05.74,Default,,0,0,0,,''Fingers, ahoy!'' (a traduire??)
+Dialogue: 0,0:09:05.74,0:09:12.10,Default,,0,0,0,,Les enfants n'auraient surement pas mangé un poisson mort dans leur assiette, mais mangeaient sans problème les poissons pannées recommandés par le capitaine !
+Dialogue: 0,0:09:12.10,0:09:14.10,Default,,0,0,0,,''C'est très bon!''
+Dialogue: 0,0:09:15.41,0:09:17.60,Default,,0,0,0,,''Voici le merveilleux et magique Roi du Burger, il peut vraiment tout faire!'' 
+Dialogue: 0,0:09:17.60,0:09:22.56,Default,,0,0,0,,''Regardez moi les enfants, quand je tourne ma bague, c'est magique!''\N''Wow, nous sommes à Burger King!''
+Dialogue: 0,0:09:22.64,0:09:25.04,Default,,0,0,0,,Les parents étaient séduits par des personnages comme "Burger King" (Roi du burger)
+Dialogue: 0,0:09:25.04,0:09:27.18,Default,,0,0,0,,et préféraient l'imaginer comme un roi aux pouvoirs magiques
+Dialogue: 0,0:09:27.18,0:09:32.48,Default,,0,0,0,,plutôt que comme un homme déguisé (de la sorte) pour détourner leur attention du génocide. 
 Dialogue: 0,0:09:32.48,0:09:35.88,Default,,0,0,0,,Ok... Souris et dis "Cheeseburger !"
 Dialogue: 0,0:09:35.88,0:09:36.89,Default,,0,0,0,,"Cheeseburger !"
-Dialogue: 0,0:09:36.89,0:09:41.21,Default,,0,0,0,,Je pensais (???) que les cheveux de Mc Donalds étaient rouge parce que c'était un clown, pas parce qu'il consommait du ??? et du sang...
-Dialogue: 0,0:09:41.58,0:09:43.64,Default,,0,0,0,,??? apprenez à sourire !
+Dialogue: 0,0:09:36.89,0:09:41.21,Default,,0,0,0,,Et les cheveux de Ronald Mc Donalds étaient rouges parce que c'était un clown, pas parce qu'il avait du sang sur les mains. (texte litteral: not because he couldnt stop swimming in blood)
+Dialogue: 0,0:09:41.58,0:09:43.64,Default,,0,0,0,,(''Not till you learn to smile!'' -il parle a un pirate qui veut un cheeseburger dans la pub) ''Pas avant que vous ne souriez!''
 Dialogue: 0,0:09:45.64,0:09:48.48,Default,,0,0,0,,Le clown, le capitaine, et le roi...
-Dialogue: 0,0:09:49.30,0:09:52.81,Default,,0,0,0,,On détourné l'attention du public, de ceci...
-Dialogue: 0,0:10:06.80,0:10:13.42,Default,,0,0,0,,Une décénie après, l'élevage intensif, utilisé pour réduire le coup de production de la viande, ont conduit à l'apparition de nouvelles maladies.
-Dialogue: 0,0:10:14.21,0:10:19.05,Default,,0,0,0,,Les vaches, étaient devenues folles, et les humains aussi s'ils les mangeaient...
-Dialogue: 0,0:10:20.80,0:10:23.28,Default,,0,0,0,,??? centraliser le marketing de la viande
-Dialogue: 0,0:10:23.28,0:10:28.48,Default,,0,0,0,,Mais durant la crise de la vache folle, le ministère de l'agriculture britannique voulaient montrer qu'il était sans danger de manger de la viande de boeuf.
-Dialogue: 0,0:10:28.48,0:10:31.14,Default,,0,0,0,,En faisant manger un burger à sa petite fille de 4 ans...
-Dialogue: 0,0:10:35.20,0:10:37.92,Default,,0,0,0,,??? ce n'est pas cher !
+Dialogue: 0,0:09:49.30,0:09:52.81,Default,,0,0,0,,Détournaient tous l'attention du public, de ceci:
+Dialogue: 0,0:10:06.80,0:10:13.42,Default,,0,0,0,,Dix ans plus tard, l'élevage intensif, qui rendait la production de viande bon marché, provoqua de nouvelles maladies.
+Dialogue: 0,0:10:14.21,0:10:19.05,Default,,0,0,0,,Les vaches devenaient folles, et les humains aussi s'ils les mangeaient...
+Dialogue: 0,0:10:20.80,0:10:23.28,Default,,0,0,0,,Les enfants étaient la cible centrale (du marketing) de l'industrie de la viande.
+Dialogue: 0,0:10:23.28,0:10:28.48,Default,,0,0,0,,Alors pendant l'épidemie de la vache folle, le ministre de l'agriculture persuada que la viande etait sans danger
+Dialogue: 0,0:10:28.48,0:10:31.14,Default,,0,0,0,,En faisant manger un burger à sa petite fille de 4 ans.
+Dialogue: 0,0:10:35.20,0:10:37.92,Default,,0,0,0,,Regardez, ce n'est vraiment pas cher !
 Dialogue: 0,0:10:38.41,0:10:41.02,Default,,0,0,0,,Et vous n'avez pas peur de la manger ?
-Dialogue: 0,0:10:41.02,0:10:47.56,Default,,0,0,0,,Mon cher, j'ai 70 ans, donc même si je couve une maladie pendant 10 ans, ça ne fait rien !
-Dialogue: 0,0:10:47.77,0:10:49.56,Default,,0,0,0,,Vous voyez ce que je veux dire ?
-Dialogue: 0,0:10:49.64,0:10:54.90,Default,,0,0,0,,Pendant que des animaux sont abattus et tués à une échelle jamais vue auparavant,
-Dialogue: 0,0:10:54.90,0:11:00.65,Default,,0,0,0,,les années 1990 voient apparaître des blockbusters ou l'on vous apprend à aimer les animaux, et à les sauver de la mort.
+Dialogue: 0,0:10:41.02,0:10:47.56,Default,,0,0,0,,Mon cher, j'ai 70 ans, donc même si je couve une maladie pendant 10 ans, je m'en fiche!
+Dialogue: 0,0:10:47.77,0:10:49.56,Default,,0,0,0,,Vous voyez/Vous comprenez?
+Dialogue: 0,0:10:49.64,0:10:54.90,Default,,0,0,0,,Pendant que des animaux étaient abattus et tués à une échelle jamais vue auparavant,
+Dialogue: 0,0:10:54.90,0:10:57.74,Default,,0,0,0,,les années 1990 voyaient apparaître des blockbusters 
+Dialogue: 0,0:10:57.82,0:11:00.65,Default,,0,0,0,,dans lesquels les enfants aimaient les animaux, et les sauvaient de la mort.
 Dialogue: 0,0:11:00.65,0:11:03.30,Default,,0,0,0,,"Babe mange du cochon ?"\N"Du porc..."
-Dialogue: 0,0:11:03.82,0:11:08.13,Default,,0,0,0,,Donc, quand un film oscarisé, parlant d'un cochon dans une ferme,
-Dialogue: 0,0:11:08.13,0:11:14.62,Default,,0,0,0,,??? le héro, un cochon vivant dans une ferme, est sauvé de la mort grâce à ses talents de berger.
-Dialogue: 0,0:11:16.68,0:11:20.89,Default,,0,0,0,,En 1994, amener vos enfants voir un cochon échapper à la mort...
-Dialogue: 0,0:11:21.22,0:11:23.48,Default,,0,0,0,,C'est l'heure !
-Dialogue: 0,0:11:23.48,0:11:25.30,Default,,0,0,0,,Le Happy Meal "cochon" de Mc Donalds !
-Dialogue: 0,0:11:25.30,0:11:27.42,Default,,0,0,0,,Suivi du célèbre Happy Meal...
-Dialogue: 0,0:11:28.53,0:11:30.12,Default,,0,0,0,,Était complètement acceptable.
-Dialogue: 0,0:11:30.12,0:11:31.69,Default,,0,0,0,,Merci ???
-Dialogue: 0,0:11:32.00,0:11:36.97,Default,,0,0,0,,En réalité, les animaux continuaient à être élevés intensivement, et des maladies continuaient à apparaître.
-Dialogue: 0,0:11:37.10,0:11:43.36,Default,,0,0,0,,Sur les 3 derniers mois, 1607 cas ont été reportés en Angleterre.
-Dialogue: 0,0:11:45.82,0:11:51.40,Default,,0,0,0,,Et en 2001, dix millions d'animaux ont été exterminés durant la crise (de la vache folle ???)
-Dialogue: 0,0:11:51.69,0:11:53.70,Default,,0,0,0,,??? un mois de vie ???
-Dialogue: 0,0:11:57.52,0:12:02.80,Default,,0,0,0,,Un cochon a survécu ! Parce que 6 ans plus tôt, il avait commencé une émission de télé-réalité nommée "Pig at The Ritz".
-Dialogue: 0,0:12:03.32,0:12:06.42,Default,,0,0,0,,Il y avait une règle pour le public ??? (bizarre non ???) et une autre pour les célébrités...
-Dialogue: 0,0:12:15.76,0:12:21.96,Default,,0,0,0,,Malgré tout cela, dans ce nouveau millénaire, la domination totale de l'industrie de la viande était au supérieur à la compassion et à la conscience des Anglais...
-Dialogue: 0,0:12:22.13,0:12:24.24,Default,,0,0,0,,Je reconnais la viande de boeuf de qualité quand je la vois !
-Dialogue: 0,0:12:24.24,0:12:29.86,Default,,0,0,0,,Il étaient considéré comme essentiel de manger de la chair animale, pour être en bonne santé et heureux.
-Dialogue: 0,0:12:31.21,0:12:35.65,Default,,0,0,0,,Il est très difficile de briser des habitudes oppressives, plus encore quand vous n'avez pas l'impression d'oppresser. (Being abused ? être abusé ? Ca change la phrase je sais pas si c'est ca...)
-Dialogue: 0,0:12:36.88,0:12:42.20,Default,,0,0,0,,Les enfants ont donc craqué ??? pour les viandes transformées, pleine de sucre, de sel et de gras, les rendant si délicieuses.
-Dialogue: 0,0:12:42.56,0:12:44.86,Default,,0,0,0,,Nous souffrons certainement de nouvelles sortes de cancers. (Ca m'étonnerais que ce soit "Nous souffrons" non ???)
-Dialogue: 0,0:12:45.18,0:12:47.25,Default,,0,0,0,,Il y a eu une rapide augmentation des problèmes cardiaques.
-Dialogue: 0,0:12:47.33,0:12:50.41,Default,,0,0,0,,Les scientifiques ont découvert de fascinant nouveaux type de diabète.
-Dialogue: 0,0:12:50.68,0:12:53.00,Default,,0,0,0,,Et l'obésité, était une épidémie...
-Dialogue: 0,0:12:55.40,0:13:01.50,Default,,0,0,0,,??? végane dire, pourquoi sont-ils revenus à toute cette viande ? (MAUVAISE TRAD c'est sur ???)
-Dialogue: 0,0:13:03.42,0:13:08.81,Default,,0,0,0,,Les gens mangeaient alors de la viande parce qu'il pensaient que c'est ce qu'il méritaient...
+Dialogue: 0,0:11:03.82,0:11:08.13,Default,,0,0,0,,Donc, dans le film oscarisé Babe,
+Dialogue: 0,0:11:08.13,0:11:11.50,Default,,0,0,0,,Il était essentiel que le héros, qui était un cochon vivant dans une ferme
+Dialogue: 0,0:11:11.50,0:11:14.84,Default,,0,0,0,,échappe à la mort grâce à ses talents de berger.
+Dialogue: 0,0:11:16.68,0:11:20.89,Default,,0,0,0,,En 1995, emmener vos enfants voir un cochon échapper à la mort...
+Dialogue: 0,0:11:21.22,0:11:23.48,Default,,0,0,0,,''C'est l'heure !''
+Dialogue: 0,0:11:23.48,0:11:25.30,Default,,0,0,0,,''Le Happy Meal "Babe" de Mc Donalds !''
+Dialogue: 0,0:11:25.30,0:11:27.42,Default,,0,0,0,,puis les emmener manger le célèbre ''Happy Meal''...
+Dialogue: 0,0:11:28.53,0:11:30.12,Default,,0,0,0,,Était complètement acceptable/totalement normal.
+Dialogue: 0,0:11:30.12,0:11:31.69,Default,,0,0,0,,''Merci beaucoup!''
+Dialogue: 0,0:11:32.00,0:11:36.97,Default,,0,0,0,,En réalité, l'élevage intensif continuait, et des maladies continuaient à apparaître.
+Dialogue: 0,0:11:37.10,0:11:43.36,Default,,0,0,0,,''Sur les 3 derniers mois, 1607 cas ont été signalés en Grande-Bretagne.''
+Dialogue: 0,0:11:45.82,0:11:51.40,Default,,0,0,0,,Et en 2001, dix millions d'animaux furent exterminés durant l'épidémie de fièvre aphteuse,
+Dialogue: 0,0:11:51.69,0:11:53.70,Default,,0,0,0,,privés de plusieurs mois de leur courte vie. (pas sure pour cette trad. ca fait tache)
+Dialogue: 0,0:11:57.52,0:12:02.80,Default,,0,0,0,,Un cochon survécut, car 6 ans plus tôt, il avait commencé l'émission de télé-réalité "Pig at The Ritz".
+Dialogue: 0,0:12:03.32,0:12:06.42,Default,,0,0,0,,Il y avait un régime (ca va ce terme?) pour les animaux ordinaires, et un autre pour les célébrités...
+Dialogue: 0,0:12:15.76,0:12:18.08,Default,,0,0,0,,Malgré tout cela, au commencement du nouveau millénaire, 
+Dialogue: 0,0:12:18.32,0:12:22.13,Default,,0,0,0,,l'industrie de la viande régnait dans les coeurs et les esprits des Anglais,
+Dialogue: 0,0:12:22.13,0:12:24.24,Default,,0,0,0,,''Une viande de boeuf de qualité, ca se reconnaît!''
+Dialogue: 0,0:12:24.24,0:12:29.86,Default,,0,0,0,,La majorité des gens considéraient la chair animale comme indispensable à leur bonne santé et leur bonheur.
+Dialogue: 0,0:12:31.21,0:12:35.65,Default,,0,0,0,,Il est très difficile de briser le cycle de la maltraitance/ se débarasser d'habitudes oppressives, surtout si vous n'êtes même pas conscients d'être maltraités/d'etre opprimés.
+Dialogue: 0,0:12:36.88,0:12:39.28,Default,,0,0,0,,Les enfants alors habitués aux viandes transformées 
+Dialogue: 0,0:12:39.34,0:12:42.56,Default,,0,0,0,,pleines de sucres, de sel et de gras, les rendant si délicieuses.
+Dialogue: 0,0:12:42.56,0:12:44.86,Default,,0,0,0,,souffraient subitement de nouvelles sortes de cancers. 
+Dialogue: 0,0:12:45.18,0:12:47.25,Default,,0,0,0,,Il y eut une rapide augmentation de maladies cardiaques.
+Dialogue: 0,0:12:47.33,0:12:50.41,Default,,0,0,0,,Les scientifiques découvraient de fascinants nouveaux types de diabète.
+Dialogue: 0,0:12:50.68,0:12:53.00,Default,,0,0,0,,Et l'obésité était une épidémie...
+Dialogue: 0,0:12:55.40,0:13:01.50,Default,,0,0,0,,On entendait des véganes dire: ''pourquoi continuent-ils à consommer toute cette viande?''
+Dialogue: 0,0:13:03.42,0:13:08.81,Default,,0,0,0,,Mais dans ce temps là, les gens mangeaient de la viande car ils pensaient alors que c'était tout ce qu'ils méritaient...
 Dialogue: 0,0:13:11.98,0:13:15.24,Default,,0,0,0,,Tout ce temps, il y avait une alternative...
-Dialogue: 0,0:13:16.40,0:13:20.37,Default,,0,0,0,,Si tu gagnes du poids avec trop d'bouffe, je ne t'appellerai jamais "vache". ????? WTF
+Dialogue: 0,0:13:16.40,0:13:20.37,Default,,0,0,0,,''Si tu prends du poids en mangeant trop d'bouffe, je ne te traiterais jamais de "vache". 
 Dialogue: 0,0:13:20.44,0:13:22.46,Default,,0,0,0,,Je te respecte, toi et les vaches.
-Dialogue: 0,0:13:22.46,0:13:24.46,Default,,0,0,0,,N'utilise pas "vache" comme une insulte.
-Dialogue: 0,0:13:24.46,0:13:26.46,Default,,0,0,0,,Si tu mange chaque figue...\NMais les véganes restaient ridicules.
-Dialogue: 0,0:13:26.46,0:13:28.00,Default,,0,0,0,,Et vraiment ??? a la télévision.
-Dialogue: 0,0:13:28.00,0:13:30.00,Default,,0,0,0,,Voici ce que Jacky mange.
-Dialogue: 0,0:13:30.00,0:13:32.08,Default,,0,0,0,,Êtes vous ballonnée ?\NYes...
-Dialogue: 0,0:13:32.08,0:13:36.72,Default,,0,0,0,,En 2004, une végétarienne, Gillian Mckeith, a été autorisée a passer à la télévision.
-Dialogue: 0,0:13:36.96,0:13:39.06,Default,,0,0,0,,Mais seulement si vous acceptiez d'aider d'autres personnes (BAD TRAD ???)
-Dialogue: 0,0:13:39.06,0:13:43.24,Default,,0,0,0,,en les blâmant d'être trop stupides de ne pas faire l'opposé de ce que leur disait leur culture. (??? pas sur de la négation...)
-Dialogue: 0,0:13:44.33,0:13:48.10,Default,,0,0,0,,Mangez vous comme une sorte de plouc en mauvaise santé ?
-Dialogue: 0,0:13:48.10,0:13:52.26,Default,,0,0,0,,Les émissions de télévision étaient faite pour humilier les gens jusqu'à ce qu'ils maigrissent.
-Dialogue: 0,0:13:52.38,0:13:56.01,Default,,0,0,0,,Je vais retrouver une des familles les plus factice ????  que j'ai pu rencontrer dans ma vie
-Dialogue: 0,0:13:56.01,0:13:59.45,Default,,0,0,0,,???
-Dialogue: 0,0:13:59.45,0:14:02.89,Default,,0,0,0,,???
-Dialogue: 0,0:14:02.89,0:14:06.42,Default,,0,0,0,,Cette période d'humiliation durera jusqu'à la fin de la décennie, 
+Dialogue: 0,0:13:22.46,0:13:24.46,Default,,0,0,0,,N'utilise pas "vache" comme une insulte!''
+Dialogue: 0,0:13:24.46,0:13:28.00,Default,,0,0,0,,Mais les véganes étaient toujours ridicules, et n'étaient pas souvent autorisés à passer à la télévision. 
+Dialogue: 0,0:13:28.00,0:13:30.00,Default,,0,0,0,,Voici ce que Jackie mange.
+Dialogue: 0,0:13:30.00,0:13:32.08,Default,,0,0,0,,Êtes vous ballonnée ?\N Oui!
+Dialogue: 0,0:13:32.08,0:13:36.72,Default,,0,0,0,,En 2004, une végétarienne, Gillian Mckeith, fut enfin autorisée a passer à la télévision.
+Dialogue: 0,0:13:36.96,0:13:39.06,Default,,0,0,0,,A la seule condition qu'elle aide les personnes en surpoids
+Dialogue: 0,0:13:39.06,0:13:43.24,Default,,0,0,0,,en les accusant d'être trop stupides pour ne pas arrêter de faire ce que leur dictait leur culture. 
+Dialogue: 0,0:13:44.33,0:13:48.10,Default,,0,0,0,,Vous mangez comme un plouc en mauvaise santé!
+Dialogue: 0,0:13:48.10,0:13:52.26,Default,,0,0,0,,Le but derrière ces émissions était d'humilier les gens jusqu'à ce qu'ils maigrissent.
+Dialogue: 0,0:13:52.38,0:13:56.01,Default,,0,0,0,,Je vais retrouver une des familles les plus grosses que j'ai pu rencontrer dans ma vie.
+Dialogue: 0,0:13:56.01,0:13:59.45,Default,,0,0,0,,Ce trio de gros sacs se dirigent vers une mort prématurée!
+Dialogue: 0,0:13:59.45,0:14:02.89,Default,,0,0,0,,Attention, les gros plein de soupe, la police du lard arrive!
+Dialogue: 0,0:14:02.89,0:14:06.42,Default,,0,0,0,,Cette période d'humiliation durera jusqu'à la fin de la décennie,
 Dialogue: 0,0:14:06.42,0:14:09.85,Default,,0,0,0,,jusqu'à ce que l'on comprenne que rabaisser des gens à la télé n'améliorait pas leur santé.
-Dialogue: 0,0:14:09.89,0:14:14.17,Default,,0,0,0,,Et Gillian Mckeith chuta...
-Dialogue: 0,0:14:15.80,0:14:19.32,Default,,0,0,0,,Personne n'a a payer... Nous sommes tous des victimes
-Dialogue: 0,0:14:19.32,0:14:21.90,Default,,0,0,0,,La plupart de mes patients étaient enfant à cette époque.
-Dialogue: 0,0:14:22.29,0:14:23.86,Default,,0,0,0,,Ca parle de meated school ???
-Dialogue: 0,0:14:24.78,0:14:27.14,Default,,0,0,0,,et ??? quand vous rentriez à la maison.
-Dialogue: 0,0:14:27.56,0:14:29.92,Default,,0,0,0,,Et le jour suivant, tout recommençait...
-Dialogue: 0,0:14:29.92,0:14:33.84,Default,,0,0,0,,???
+Dialogue: 0,0:14:09.89,0:14:14.17,Default,,0,0,0,,Et Gillian Mckeith chuta... (pas sure pour chuter)
+Dialogue: 0,0:14:15.80,0:14:19.32,Default,,0,0,0,,Personne n'est coupable... Nous avons tous été victimes.
+Dialogue: 0,0:14:19.32,0:14:21.90,Default,,0,0,0,,La plupart de mes patients étaient enfants à cette époque.
+Dialogue: 0,0:14:22.29,0:14:23.86,Default,,0,0,0,,On leur donnait de la viande à l'école,
+Dialogue: 0,0:14:24.78,0:14:27.14,Default,,0,0,0,,et encore plus de viande à la maison.
+Dialogue: 0,0:14:27.56,0:14:29.92,Default,,0,0,0,,Et le jour suivant, c'était la même chose...
+Dialogue: 0,0:14:29.92,0:14:33.84,Default,,0,0,0,,Nos parents nous faisaient juste ce que leurs propres parents leur avaient fait.
 Dialogue: 0,0:14:34.46,0:14:36.20,Default,,0,0,0,,Pas de honte...
 Dialogue: 0,0:14:37.84,0:14:39.00,Default,,0,0,0,,Pas de honte !
 Dialogue: 0,0:14:39.29,0:15:01.52,Default,,0,0,0,,Pas de honte ! Pas de honte ! Pas de honte ! ...
 Dialogue: 0,0:15:03.78,0:15:05.17,Default,,0,0,0,,Bien joué !
-Dialogue: 0,0:15:11.08,0:15:15.05,Default,,0,0,0,,Il dit eat meat ou pas a la fin ???
-Dialogue: 0,0:15:15.14,0:15:19.12,Default,,0,0,0,,La décennie suivante, manger de la viande et mourir précocement était tellement normal,
-Dialogue: 0,0:15:19.12,0:15:23.12,Default,,0,0,0,,que pour gagner une élection, les politiciens devaient créer des événements spécifiques sur la viande,
-Dialogue: 0,0:15:23.12,0:15:26.73,Default,,0,0,0,,pour montrer qu'il n'y avait plus personne (de touché ???) par des problèmes cardiaques.
-Dialogue: 0,0:15:29.73,0:15:32.40,Default,,0,0,0,,Et les leaders politiques auraient été inéligible
-Dialogue: 0,0:15:32.40,0:15:35.36,Default,,0,0,0,,s'ils avaient prétendu quelque chose qui aujourd'hui parait grotesque. ??? il manque un truc la
+Dialogue: 0,0:15:11.08,0:15:15.05,Default,,0,0,0,,"Mangeeee-ez de la viaaaaaaaaaa-a-ande!''
+Dialogue: 0,0:15:15.14,0:15:19.12,Default,,0,0,0,,Dans les années 2010, manger de la viande et mourir prématurément était tellement normal,
+Dialogue: 0,0:15:19.12,0:15:23.12,Default,,0,0,0,,que pour gagner une éléction, les policitiens devaient organiser des évènements où la viande était à l'honneur
+Dialogue: 0,0:15:23.12,0:15:26.73,Default,,0,0,0,,pour montrer qu'ils étaient des gars comme tout le monde, à l'abri de problèmes cardiaques.
+Dialogue: 0,0:15:29.73,0:15:32.40,Default,,0,0,0,,Et les leaders politiques aurait tout simplement été non-éligibles
+Dialogue: 0,0:15:32.40,0:15:35.36,Default,,0,0,0,,s'ils avaient prétendu ne pas apprécier ce qui nous semble aujourd'hui grotesque.
 Dialogue: 0,0:15:35.36,0:15:36.34,Default,,0,0,0,,Assez compliqué...
-Dialogue: 0,0:15:40.14,0:15:46.74,Default,,0,0,0,,En 2015, le public était indigné, quand le premier ministre du Royaume Uni a été accusé d'avoir eu des rapport sexuels avec un cochon mort.
-Dialogue: 0,0:15:47.30,0:15:52.02,Default,,0,0,0,,Quelque part, mettre un pénis dans un cochon était pire que d'en tuer un,
-Dialogue: 0,0:15:52.58,0:15:56.06,Default,,0,0,0,,et de le mettre dans un sandwich...
-Dialogue: 0,0:15:56.06,0:16:00.53,Default,,0,0,0,,Et cette culture de la viande, conduite politiquement, a atteint son pic en 2017.
-Dialogue: 0,0:16:01.40,0:16:05.44,Default,,0,0,0,,Quand un (vendeur ???) de steak, devint le leader du monde libre....
-Dialogue: 0,0:16:07.08,0:16:11.40,Default,,0,0,0,,Rien ne changeait, même quand un photographe immortalisait une tranche de bacon avec un téton...
-Dialogue: 0,0:16:15.80,0:16:20.52,Default,,0,0,0,,
+Dialogue: 0,0:15:40.14,0:15:46.74,Default,,0,0,0,,En 2015, le public était indigné quand le premier ministre du Royaume Uni fut accusé d'avoir eu des rapport sexuels avec un cochon mort.
+Dialogue: 0,0:15:47.30,0:15:52.02,Default,,0,0,0,,D'une certaine façon, mettre son pénis dans un cochon était pire que d'en tuer un,
+Dialogue: 0,0:15:52.58,0:15:56.06,Default,,0,0,0,,puis de le mettre dans un sandwich...
+Dialogue: 0,0:15:56.06,0:16:00.53,Default,,0,0,0,,Et cette culture de la viande en politique atteignit son point culminant en 2017.
+Dialogue: 0,0:16:01.40,0:16:05.44,Default,,0,0,0,,Quand une marque de steak, devint le leader du monde libre....
+Dialogue: 0,0:16:07.08,0:16:11.40,Default,,0,0,0,,Rien ne changeait, même quand apparut une photo d'une tranche de bacon avec un téton...
+Dialogue: 0,0:16:15.80,0:16:19.68,Default,,0,0,0,,Sera-t-il un jour possible pour les jeunes de 2067 de comprendre
+Dialogue: 0,0:16:19.74,0:16:25.06,Default,,0,0,0,,comment il a pu etre possible pour leurs parents et grands parents\Nd'ingérer les fluides et les parties du corps de leurs compagnons animaux?
+Dialogue: 0,0:16:26.08,0:16:29.92,Default,,0,0,0,,Nous avons demandé à quelques jeunes s'ils seraient prêts à remonter dans le temps.
+Dialogue: 0,0:16:35.04,0:16:36.70,Default,,0,0,0,,Je veux comprendre ce qu'il s'est passé.
+Dialogue: 0,0:16:36.70,0:16:44.04,Default,,0,0,0,,I heard steps what the fuckkkkkkkkkkkkkkkkkkkkk are you sayinggggggggggggggggggggggggggggggggggggggggggggggggggg
+Dialogue: 0,0:16:44.04,0:16:46.04,Default,,0,0,0,,Et je devais quitter la maison.
+Dialogue: 0,0:16:50.02,0:16:52.62,Default,,0,0,0,,Grâce à la dernière technologie multisensorielle de réalité virtuelle en date,
+Dialogue: 0,0:16:52.62,0:16:57.96,Default,,0,0,0,,ces volontaires ont fait un bond de 50 ans en arrière, dans une rôtisserie de poulets réputée 
+Dialogue: 0,0:16:57.96,0:17:02.94,Default,,0,0,0,,qui en 2017 servait plus d'un demi-million de poulets malades par semaine.
