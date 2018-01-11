@@ -16,7 +16,9 @@ Video File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Video Position: 218
+Scroll Position: 208
+Active Line: 226
+Video Position: 27328
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -170,7 +172,7 @@ Dialogue: 0,0:11:30.12,0:11:31.69,Default,,0,0,0,,''Merci beaucoup!''
 Dialogue: 0,0:11:32.00,0:11:36.97,Default,,0,0,0,,En réalité, l'élevage intensif continuait, et des maladies continuaient à apparaître.
 Dialogue: 0,0:11:37.10,0:11:43.36,Default,,0,0,0,,''Sur les 3 derniers mois, 1607 cas ont été signalés en Grande-Bretagne.''
 Dialogue: 0,0:11:45.82,0:11:51.40,Default,,0,0,0,,Et en 2001, dix millions d'animaux furent exterminés durant l'épidémie de fièvre aphteuse,
-Dialogue: 0,0:11:51.69,0:11:53.70,Default,,0,0,0,,privés de leur courte vie. 
+Dialogue: 0,0:11:51.69,0:11:53.70,Default,,0,0,0,,privés de leur courte vie.
 Dialogue: 0,0:11:57.52,0:12:02.80,Default,,0,0,0,,Un cochon survécut, car 6 ans plus tôt, il avait commencé l'émission de télé-réalité "Pig at The Ritz".
 Dialogue: 0,0:12:03.32,0:12:06.42,Default,,0,0,0,,C'était deux poids, deux mesures: une pour les animaux ordinaires, et une autre pour les célébrités...
 Dialogue: 0,0:12:15.76,0:12:18.08,Default,,0,0,0,,Malgré tout cela, au commencement du nouveau millénaire,
@@ -203,7 +205,7 @@ Dialogue: 0,0:13:56.01,0:13:59.45,Default,,0,0,0,,Ce trio de gros sacs se dirige
 Dialogue: 0,0:13:59.45,0:14:02.89,Default,,0,0,0,,Attention, les gros plein de soupe, la police du lard arrive!
 Dialogue: 0,0:14:02.89,0:14:06.42,Default,,0,0,0,,Cette période d'humiliation durera jusqu'à la fin de la décennie,
 Dialogue: 0,0:14:06.42,0:14:09.85,Default,,0,0,0,,jusqu'à ce que l'on comprenne que rabaisser des gens à la télé n'améliorait pas leur santé.
-Dialogue: 0,0:14:09.89,0:14:14.17,Default,,0,0,0,,Et Gillian Mckeith chuta... 
+Dialogue: 0,0:14:09.89,0:14:14.17,Default,,0,0,0,,Et Gillian Mckeith chuta...
 Dialogue: 0,0:14:15.80,0:14:19.32,Default,,0,0,0,,Personne n'est coupable... Nous avons tous été victimes.
 Dialogue: 0,0:14:19.32,0:14:21.90,Default,,0,0,0,,La plupart de mes patients étaient enfants à cette époque.
 Dialogue: 0,0:14:22.29,0:14:23.86,Default,,0,0,0,,On leur donnait de la viande à l'école,
@@ -236,3 +238,18 @@ Dialogue: 0,0:16:44.04,0:16:46.04,Default,,0,0,0,,sinon je me sens obligé de qu
 Dialogue: 0,0:16:50.02,0:16:52.62,Default,,0,0,0,,Grâce à la dernière technologie multisensorielle de réalité virtuelle en date,
 Dialogue: 0,0:16:52.62,0:16:57.96,Default,,0,0,0,,ces volontaires ont fait un bond de 50 ans en arrière, dans une rôtisserie de poulets réputée
 Dialogue: 0,0:16:57.96,0:17:02.94,Default,,0,0,0,,qui en 2017 servait plus d'un demi-million de poulets malades par semaine.
+Dialogue: 0,0:17:09.36,0:17:15.42,Default,,0,0,0,,Birthy est un jeune architecte, sa grand mère travaillait dans ce restaurant avant de devenir vegan puis de se suicider.
+Dialogue: 0,0:17:21.00,0:17:24.22,Default,,0,0,0,,Comment pouviez vous manger un oiseau ?! Un oiseau...
+Dialogue: 0,0:17:26.66,0:17:28.76,Default,,0,0,0,,Comment pouvait-on manger un oiseau ?
+Dialogue: 0,0:17:29.34,0:17:31.24,Default,,0,0,0,,Les émissions de télévision ???
+Dialogue: 0,0:17:32.10,0:17:33.32,Default,,0,0,0,,"Et maintenant..."
+Dialogue: 0,0:17:33.82,0:17:36.69,Default,,0,0,0,,La star...
+Dialogue: 0,0:17:36.85,0:17:42.85,Default,,0,0,0,,J'aime apprécier... Ce son...
+Dialogue: 0,0:17:42.85,0:17:43.60,Default,,0,0,0,,C'est le son ....
+Dialogue: 0,0:17:43.60,0:17:46.60,Default,,0,0,0,,Ce qui apparaît comme un documentaire à propos de "lunatic"... ???
+Dialogue: 0,0:17:47.41,0:17:49.86,Default,,0,0,0,,Est en fait une émission de cuisine populaire.
+Dialogue: 0,0:17:50.08,0:17:52.65,Default,,0,0,0,,Allez-y ma chère...
+Dialogue: 0,0:17:57.46,0:17:59.82,Default,,0,0,0,,Tout ça va trop loin pour Patricia.
+Dialogue: 0,0:17:59.82,0:18:01.82,Default,,0,0,0,,Nous arrêtons de filmer...
+Dialogue: 0,0:18:03.52,0:18:08.96,Default,,0,0,0,,De retour au début des années 2000, \Nles anglais étaient complètement déconnectés des animaux qu'ils mettaient dans leur bouche.
+Dialogue: 0,0:18:10.25,0:18:13.14,Default,,0,0,0,,
