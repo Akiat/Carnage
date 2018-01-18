@@ -16,9 +16,9 @@ Video File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 295
-Active Line: 313
-Video Position: 36096
+Scroll Position: 339
+Active Line: 358
+Video Position: 40331
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -245,7 +245,7 @@ Dialogue: 0,0:17:29.34,0:17:31.24,Default,,0,0,0,,Les émissions de télévision
 Dialogue: 0,0:17:32.10,0:17:33.32,Default,,0,0,0,,"Et maintenant..."
 Dialogue: 0,0:17:33.82,0:17:36.69,Default,,0,0,0,,La star...
 Dialogue: 0,0:17:36.85,0:17:42.85,Default,,0,0,0,,J'aime et je respecter le poulet... Ce son...
-Dialogue: 0,0:17:43.60,0:17:46.60,Default,,0,0,0,,Ce qui nous apparaît désormais comme un documentaire à propos d'un malade mental... 
+Dialogue: 0,0:17:43.60,0:17:46.60,Default,,0,0,0,,Ce qui nous apparaît désormais comme un documentaire à propos d'un malade mental...
 Dialogue: 0,0:17:47.41,0:17:49.86,Default,,0,0,0,,Est en fait une émission de cuisine populaire.
 Dialogue: 0,0:17:50.08,0:17:52.65,Default,,0,0,0,,Allez-y ma chère...
 Dialogue: 0,0:17:57.46,0:17:59.82,Default,,0,0,0,,Tout ça va trop loin pour Patricia.
@@ -315,7 +315,7 @@ Dialogue: 0,0:21:57.29,0:22:00.21,Default,,0,0,0,,"Aimeriez-vous que je mange la
 Dialogue: 0,0:22:02.13,0:22:06.60,Default,,0,0,0,,Mais comme la plupart des performances d'art contemporain, elle était vouée à l'incompréhension du public.
 Dialogue: 0,0:22:06.60,0:22:11.01,Default,,0,0,0,,Et cet art marginal renforça le mythe des véganes extravagants ne cherchant qu'a attirer l'attention.
 Dialogue: 0,0:22:11.01,0:22:14.97,Default,,0,0,0,,Dés lors, le public en avait eu ras le bol qu'on lui dise que la viande était synonyme de meurtre.
-Dialogue: 0,0:22:15.05,0:22:17.93,Default,,0,0,0,,Mais, des musiciens encourageaient à réduire la consommation de viande depuis des années, 
+Dialogue: 0,0:22:15.05,0:22:17.93,Default,,0,0,0,,Mais, des musiciens encourageaient à réduire la consommation de viande depuis des années,
 Dialogue: 0,0:22:17.96,0:22:21.78,Default,,0,0,0,,Alors Paul McCartney lança une campagne un peu plus gaie, les "lundis sans viande".
 Dialogue: 0,0:22:21.78,0:22:29.61,Default,,0,0,0,,Les lundis sans viande !\NOn est lundiiii, c'est sans viaaaande, c'est un jour sympaaaa ! Yeaaahh !
 Dialogue: 0,0:22:29.61,0:22:33.58,Default,,0,0,0,,Ce qui désormais nous parait presque aussi offensant que des "mardis sans racisme".
@@ -327,16 +327,65 @@ Dialogue: 0,0:22:55.96,0:22:58.33,Default,,0,0,0,,Et il était maintenant sans d
 Dialogue: 0,0:22:58.33,0:23:00.61,Default,,0,0,0,,Et de toute façon, la plupart des gens voulaient coucher avec eux.
 Dialogue: 0,0:23:01.41,0:23:06.68,Default,,0,0,0,,Quand est-ce que ca vous est arrivé ?\N"Ahah, il y a un végane dans la salle !"\N"YEAAAAAHHHH"
 Dialogue: 0,0:23:06.68,0:23:08.68,Default,,0,0,0,,Les véganes avaient fait beaucoup de chemin.
-Dialogue: 0,0:23:10.28,0:23:15.84,Default,,0,0,0,,Harry Bonnie, vous êtes, à 50 ans, un ancien boxeur et parachutiste assez athlétique. 
+Dialogue: 0,0:23:10.28,0:23:15.84,Default,,0,0,0,,Harry Bonnie, vous êtes, à 50 ans, un ancien boxeur et parachutiste assez athlétique.
 Dialogue: 0,0:23:16.56,0:23:19.01,Default,,0,0,0,,Ça fait plus de 14 ans que je suis végane,
 Dialogue: 0,0:23:19.25,0:23:23.68,Default,,0,0,0,,et honnêtement, je peux dire que je ne me suis jamais senti aussi en forme et en paix.
 Dialogue: 0,0:23:25.05,0:23:28.45,Default,,0,0,0,,J'ai arrêté de boire du lait quand j'ai découvert la cruauté \Nque cette industrie infligeait aux vaches et aux veaux.
 Dialogue: 0,0:23:31.73,0:23:35.58,Default,,0,0,0,,Admettons le, Erika, le lait des vaches, c'est pour les veaux.
 Dialogue: 0,0:23:35.58,0:23:37.72,Default,,0,0,0,,Pas pour les humains !
-Dialogue: 0,0:23:39.93,0:23:45.61,Default,,0,0,0,,En 2015, les véganes underground étaient les plus efficaces pour diffuser le message.
+Dialogue: 0,0:23:39.93,0:23:45.61,Default,,0,0,0,,En 2015, les artistes de la scène musicale "grime" étaient les plus efficaces pour diffuser le message.
 Dialogue: 0,0:23:45.86,0:23:47.81,Default,,0,0,0,,Je suis à Nando's  avec un un wrap vegan
 Dialogue: 0,0:23:47.82,0:23:49.93,Default,,0,0,0,,Ou je suis à Leon, avec un curry,
 Dialogue: 0,0:23:50.40,0:23:52.24,Default,,0,0,0,,Ça dépend du resto l'plus proche,\NV-GANG !
 Dialogue: 0,0:23:52.24,0:23:55.16,Default,,0,0,0,,Maintenant j'y vois plus clair,\NPas d'viande, pas d'fromage, pas d'lait, pas d'oeufs
 Dialogue: 0,0:23:55.21,0:23:56.76,Default,,0,0,0,,Tu m'crois pas ? Demande à ma meuf Sarah !
 Dialogue: 0,0:23:56.76,0:23:59.14,Default,,0,0,0,,C'est ce qui me définit, ce ne sont pas des rumeurs
+Dialogue: 0,0:23:59.14,0:24:02.00,Default,,0,0,0,,???
+Dialogue: 0,0:24:02.01,0:24:04.10,Default,,0,0,0,,C'est ce que vous êtes. Je suis.. Je suis un végane.
+Dialogue: 0,0:24:04.10,0:24:10.76,Default,,0,0,0,,Big up au mec qui sait, à la fille qui sait, aux prof qui savent,\Naux parents et aux enfants qui savent.\NSi tu sais pas, le gars le sait mieux...
+Dialogue: 0,0:24:10.76,0:24:13.68,Default,,0,0,0,,Les jeunes ont certainement ??? les véganes ???
+Dialogue: 0,0:24:13.68,0:24:16.41,Default,,0,0,0,,Le nombre de végane a augmenté de 300% chez les adolescents.
+Dialogue: 0,0:24:16.41,0:24:20.22,Default,,0,0,0,,Grâce à internet, la propagande de l'industrie de la viande commença à se déconstruire.
+Dialogue: 0,0:24:20.22,0:24:25.52,Default,,0,0,0,,Et en 2015, Troy King Jones agé de 13 ans écoutait déjà du "JME" dans sa chambre.
+Dialogue: 0,0:24:25.76,0:24:30.85,Default,,0,0,0,,Honnêtement, j'adore le style grime, et particulièrement JME, puisqu'il est végane
+Dialogue: 0,0:24:30.93,0:24:34.41,Default,,0,0,0,,et qu'il a dit avoir arrêter les produits animaux du jour au lendemain, donc j'étais ???
+Dialogue: 0,0:24:34.44,0:24:37.81,Default,,0,0,0,,Donc j'étais genre "Oh ! Je vais faire ça !"\NEt j'ai simplement arrêté !
+Dialogue: 0,0:24:37.81,0:24:42.50,Default,,0,0,0,,Tout juste 5 ans plus tard, Troy publia "Du sang sur nos fourchettes" (manque un mot mais important ???)
+Dialogue: 0,0:24:43.86,0:24:45.76,Default,,0,0,0,,J'ai écris ce livre quand j'étais gosse.
+Dialogue: 0,0:24:46.12,0:24:49.20,Default,,0,0,0,,J'étais très révolté pendant une grande partie de mon adolescence.
+Dialogue: 0,0:24:49.20,0:24:52.30,Default,,0,0,0,,GODDDDD ARRETE D'AVALER LES MOTS PTINNN
+Dialogue: 0,0:24:52.30,0:24:57.53,Default,,0,0,0,,Troy King Jones est une figure importante de la communauté végane,
+Dialogue: 0,0:24:57.53,0:25:01.94,Default,,0,0,0,,Ce soir nous recevons l'activiste, réalisateur et personnalité végane emblématique Troy King Jones,
+Dialogue: 0,0:25:01.94,0:25:04.65,Default,,0,0,0,,Mais avant, il est temps d'acheter une botte ? xD ???
+Dialogue: 0,0:25:04.65,0:25:09.42,Default,,0,0,0,,Troy a passer la première partie de carrière chez PETA (People for the Ethical Treatment of Animals)
+Dialogue: 0,0:25:11.86,0:25:16.61,Default,,0,0,0,,Une période qu'il n'a pas trouvé satisfaisante.
+Dialogue: 0,0:25:16.61,0:25:19.68,Default,,0,0,0,,J'En fait, je ne suis pas resté chez PETA très longtemps.
+Dialogue: 0,0:25:20.62,0:25:24.13,Default,,0,0,0,,Je me rappelle juste avoir souvent fait le mort et être ignoré par les passants.
+Dialogue: 0,0:25:29.94,0:25:32.80,Default,,0,0,0,,Troy créait des films qu'il diffusait sur le net.
+Dialogue: 0,0:25:32.82,0:25:38.10,Default,,0,0,0,,Ils montraient des horreurs comme le broyage ou gazage systématique des poussins mâles dans l'industrie des oeufs.
+Dialogue: 0,0:25:38.21,0:25:42.44,Default,,0,0,0,,Je ne fais plus de vidéo comme ça, on m'a conseillé de faire des versions plus légères.
+Dialogue: 0,0:25:44.66,0:25:49.86,Default,,0,0,0,,Pourtant, Troy a marqué les esprits avec cette courte vidéo, devenue virale et baptisé "Un jour dans la ferme de papa". (pas sur du début  je voudrais bien savoir ce qu'il dit ^^ ???)
+Dialogue: 0,0:25:52.62,0:25:55.58,Default,,0,0,0,,Ohhh ils sont trop mignons, je peux en avoir un papa ?
+Dialogue: 0,0:25:55.58,0:25:57.54,Default,,0,0,0,,Non on ne peut pas en garder un seul !
+Dialogue: 0,0:25:57.54,0:25:58.25,Default,,0,0,0,,Pourquoi papa ?!
+Dialogue: 0,0:25:58.25,0:25:59.72,Default,,0,0,0,,Parce que ce sont des mâles !
+Dialogue: 0,0:25:59.72,0:26:01.72,Default,,0,0,0,,Et on est dans une ferme tu te rappelles ?
+Dialogue: 0,0:26:01.72,0:26:04.76,Default,,0,0,0,,Donc les poussins mâles vont dans une ferme à poulet ? ??? bof bof
+Dialogue: 0,0:26:04.76,0:26:05.42,Default,,0,0,0,,No !
+Dialogue: 0,0:26:05.42,0:26:08.62,Default,,0,0,0,,Hmmm ! C'est quoi ça ?!
+Dialogue: 0,0:26:08.62,0:26:11.25,Default,,0,0,0,,Oh ! C'est la ou vont les poussins !
+Dialogue: 0,0:26:11.25,0:26:14.04,Default,,0,0,0,,C'est un château ?
+Dialogue: 0,0:26:14.04,0:26:15.05,Default,,0,0,0,,Yes !
+Dialogue: 0,0:26:15.05,0:26:19.89,Default,,0,0,0,,Ok papa !\NBye papa ! Bye petits poussins ! Je vous aime les gars !
+Dialogue: 0,0:26:23.92,0:26:25.06,Default,,0,0,0,,Oh papa, j'ai oublié !
+Dialogue: 0,0:26:25.09,0:26:26.52,Default,,0,0,0,,AHHHHH !!!!\NJeremy !
+Dialogue: 0,0:26:26.52,0:26:30.18,Default,,0,0,0,,AHHHHH !!!!\NOh god ! Oh god...
+Dialogue: 0,0:26:30.36,0:26:37.26,Default,,0,0,0,,J'ai même fais un film... Au cas ou vous voudriez vous asseoir et voir un film complet à propos du véganisme.
+Dialogue: 0,0:26:42.69,0:26:45.09,Default,,0,0,0,,En même temps que Troy développer son influence,
+Dialogue: 0,0:26:45.09,0:26:47.64,Default,,0,0,0,,La jeune universitaire ??? avait tout juste 23 ans,
+Dialogue: 0,0:26:47.64,0:26:50.78,Default,,0,0,0,,quand elle commença à faire le rapprochement entre l'exploitation des vaches
+Dialogue: 0,0:26:50.78,0:26:53.25,Default,,0,0,0,,avec ???
+Dialogue: 0,0:26:53.25,0:26:58.69,Default,,0,0,0,,L'association que nous appelons maintenant "La cinquième voie du féminisme" ???
+Dialogue: 0,0:26:59.17,0:27:02.97,Default,,0,0,0,,Le lait était si sexualisé que s'en était bizarre.
+Dialogue: 0,0:27:03.53,0:27:06.22,Default,,0,0,0,,Je veux dire, ???
+Dialogue: 0,0:27:06.22,0:27:08.22,Default,,0,0,0,,
