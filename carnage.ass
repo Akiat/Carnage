@@ -16,9 +16,9 @@ Video File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 384
-Active Line: 407
-Video Position: 45568
+Scroll Position: 434
+Active Line: 437
+Video Position: 48158
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -339,98 +339,129 @@ Dialogue: 0,0:23:47.82,0:23:49.93,Default,,0,0,0,,Ou je suis à Leon, avec un cu
 Dialogue: 0,0:23:50.40,0:23:52.24,Default,,0,0,0,,Ça dépend du resto l'plus proche,\NV-GANG !
 Dialogue: 0,0:23:52.24,0:23:55.16,Default,,0,0,0,,Maintenant j'y vois plus clair,\NPas d'viande, pas d'fromage, pas d'lait, pas d'oeufs
 Dialogue: 0,0:23:55.21,0:23:56.76,Default,,0,0,0,,Tu m'crois pas ? Demande à ma meuf Sarah !
-Dialogue: 0,0:23:56.76,0:23:59.14,Default,,0,0,0,,C'est ce qui me définit, ce ne sont pas des rumeurs
-Dialogue: 0,0:23:59.14,0:24:02.00,Default,,0,0,0,,???
-Dialogue: 0,0:24:02.01,0:24:04.10,Default,,0,0,0,,C'est ce que vous êtes. Je suis.. Je suis un végane.
-Dialogue: 0,0:24:04.10,0:24:10.76,Default,,0,0,0,,Big up au mec qui sait, à la fille qui sait, aux prof qui savent,\Naux parents et aux enfants qui savent.\NSi tu sais pas, le gars le sait mieux...
-Dialogue: 0,0:24:10.76,0:24:13.68,Default,,0,0,0,,Les jeunes ont certainement ??? les véganes ???
-Dialogue: 0,0:24:13.68,0:24:16.41,Default,,0,0,0,,Le nombre de végane a augmenté de 300% chez les adolescents.
-Dialogue: 0,0:24:16.41,0:24:20.22,Default,,0,0,0,,Grâce à internet, la propagande de l'industrie de la viande commença à se déconstruire.
-Dialogue: 0,0:24:20.22,0:24:25.52,Default,,0,0,0,,Et en 2015, Troy King Jones agé de 13 ans écoutait déjà du "JME" dans sa chambre.
+Dialogue: 0,0:23:56.76,0:23:59.14,Default,,0,0,0,,C'est ce qui me définit, tout ça fait partie de ma mue, 
+Dialogue: 0,0:23:59.14,0:24:02.00,Default,,0,0,0,,Il y a juste des choses à éliminer et desquelles il faut à jamais se débarasser pour devenir nous-mêmes.
+Dialogue: 0,0:24:02.01,0:24:04.10,Default,,0,0,0,,Qui nous sommes vraiment. Et moi, je suis un végane.
+Dialogue: 0,0:24:04.10,0:24:10.76,Default,,0,0,0,,Big up au mec qui sait, à la fille qui sait, aux profs qui savent,\Naux parents et aux enfants qui savent.\NSi tu sais pas, tâche de savoir...
+Dialogue: 0,0:24:10.76,0:24:13.68,Default,,0,0,0,,Les jeunes pouvaient désormais s'identifier à des véganes branchés et les imiter,
+Dialogue: 0,0:24:13.68,0:24:16.41,Default,,0,0,0,,Le nombre de véganes augmenta de 300% chez les adolescents.
+Dialogue: 0,0:24:16.41,0:24:20.22,Default,,0,0,0,,Grâce à internet, la bulle de propagande de l'industrie de la viande commença à éclater/ la propagande de l'industrie de la viande commença à se déconstruire. (lequel mettre?)
+Dialogue: 0,0:24:20.22,0:24:25.52,Default,,0,0,0,,Et en 2015, Troy King Jones, agé de 13 ans écoutait déjà du "JME" dans sa chambre.
 Dialogue: 0,0:24:25.76,0:24:30.85,Default,,0,0,0,,Honnêtement, j'adore le style grime, et particulièrement JME, puisqu'il est végane
-Dialogue: 0,0:24:30.93,0:24:34.41,Default,,0,0,0,,et qu'il a dit avoir arrêter les produits animaux du jour au lendemain, donc j'étais ???
+Dialogue: 0,0:24:30.93,0:24:34.41,Default,,0,0,0,,et qu'il a dit avoir arrêté les produits animaux du jour au lendemain,
 Dialogue: 0,0:24:34.44,0:24:37.81,Default,,0,0,0,,Donc j'étais genre "Oh ! Je vais faire ça !"\NEt j'ai simplement arrêté !
-Dialogue: 0,0:24:37.81,0:24:42.50,Default,,0,0,0,,Tout juste 5 ans plus tard, Troy publia "Du sang sur nos fourchettes" (manque un mot mais important ???)
-Dialogue: 0,0:24:43.86,0:24:45.76,Default,,0,0,0,,J'ai écris ce livre quand j'étais gosse.
+Dialogue: 0,0:24:37.81,0:24:42.50,Default,,0,0,0,,Tout juste 5 ans plus tard, Troy auto publia son livre "Du sang sur nos fourchettes".
+Dialogue: 0,0:24:43.86,0:24:45.76,Default,,0,0,0,,J'ai écrit ce livre quand j'étais gosse.
 Dialogue: 0,0:24:46.12,0:24:49.20,Default,,0,0,0,,J'étais très révolté pendant une grande partie de mon adolescence.
-Dialogue: 0,0:24:49.20,0:24:52.30,Default,,0,0,0,,GODDDDD ARRETE D'AVALER LES MOTS PTINNN
-Dialogue: 0,0:24:52.30,0:24:57.53,Default,,0,0,0,,Troy King Jones est une figure importante de la communauté végane,
+Dialogue: 0,0:24:49.20,0:24:52.30,Default,,0,0,0,,et la plupart du temps c'était parce que je n'avais toujours pas de poils sous les bras.
+Dialogue: 0,0:24:52.30,0:24:57.53,Default,,0,0,0,,''Troy King Jones est une figure importante de la communauté végane,
 Dialogue: 0,0:24:57.53,0:25:01.94,Default,,0,0,0,,Ce soir nous recevons l'activiste, réalisateur et personnalité végane emblématique Troy King Jones,
-Dialogue: 0,0:25:01.94,0:25:04.65,Default,,0,0,0,,Mais avant, il est temps d'acheter une botte ? xD ???
-Dialogue: 0,0:25:04.65,0:25:09.42,Default,,0,0,0,,Troy a passer la première partie de carrière chez PETA (People for the Ethical Treatment of Animals)
-Dialogue: 0,0:25:11.86,0:25:16.61,Default,,0,0,0,,Une période qu'il n'a pas trouvé satisfaisante.
-Dialogue: 0,0:25:16.61,0:25:19.68,Default,,0,0,0,,J'En fait, je ne suis pas resté chez PETA très longtemps.
+Dialogue: 0,0:25:01.94,0:25:04.65,Default,,0,0,0,,Mais avant, il est temps d'acheter une botte ? xD ??? putain je sais pas non plus faudra demander a elisa mdr
+Dialogue: 0,0:25:04.65,0:25:09.42,Default,,0,0,0,,Troy commença sa carrière chez PETA (People for the Ethical Treatment of Animals)
+Dialogue: 0,0:25:11.86,0:25:16.61,Default,,0,0,0,,Mais ne trouva pas franchement cela satisfaisant.
+Dialogue: 0,0:25:16.61,0:25:19.68,Default,,0,0,0,,En fait, je ne suis pas resté chez PETA très longtemps.
 Dialogue: 0,0:25:20.62,0:25:24.13,Default,,0,0,0,,Je me rappelle juste avoir souvent fait le mort et être ignoré par les passants.
-Dialogue: 0,0:25:29.94,0:25:32.80,Default,,0,0,0,,Troy créait des films qu'il diffusait sur le net.
-Dialogue: 0,0:25:32.82,0:25:38.10,Default,,0,0,0,,Ils montraient des horreurs comme le broyage ou gazage systématique des poussins mâles dans l'industrie des oeufs.
-Dialogue: 0,0:25:38.21,0:25:42.44,Default,,0,0,0,,Je ne fais plus de vidéo comme ça, on m'a conseillé de faire des versions plus légères.
-Dialogue: 0,0:25:44.66,0:25:49.86,Default,,0,0,0,,Pourtant, Troy a marqué les esprits avec cette courte vidéo, devenue virale et baptisé "Un jour dans la ferme de papa". (pas sur du début  je voudrais bien savoir ce qu'il dit ^^ ???)
+Dialogue: 0,0:25:29.94,0:25:32.80,Default,,0,0,0,,Troy montait des vidéos, qu'il diffusait sur le net.
+Dialogue: 0,0:25:32.82,0:25:38.10,Default,,0,0,0,,il y exposait des horreurs comme le broyage ou gazage systématique des poussins mâles dans l'industrie des oeufs.
+Dialogue: 0,0:25:38.21,0:25:42.44,Default,,0,0,0,,Je ne fais plus de vidéos comme ça, on m'a conseillé de faire des versions plus ''soft''.
+Dialogue: 0,0:25:44.66,0:25:49.86,Default,,0,0,0,,Pourtant, Troy réussit à marquer quelques esprits avec cette courte vidéo devenue virale: "Un jour dans la ferme de papa".
 Dialogue: 0,0:25:52.62,0:25:55.58,Default,,0,0,0,,Ohhh ils sont trop mignons, je peux en avoir un papa ?
-Dialogue: 0,0:25:55.58,0:25:57.54,Default,,0,0,0,,Non on ne peut pas en garder un seul !
+Dialogue: 0,0:25:55.58,0:25:57.54,Default,,0,0,0,,Non on ne peut garder aucun d'entre eux !
 Dialogue: 0,0:25:57.54,0:25:58.25,Default,,0,0,0,,Pourquoi papa ?!
 Dialogue: 0,0:25:58.25,0:25:59.72,Default,,0,0,0,,Parce que ce sont des mâles !
-Dialogue: 0,0:25:59.72,0:26:01.72,Default,,0,0,0,,Et on est dans une ferme tu te rappelles ?
-Dialogue: 0,0:26:01.72,0:26:04.76,Default,,0,0,0,,Donc les poussins mâles vont dans une ferme à poulet ? ??? bof bof
-Dialogue: 0,0:26:04.76,0:26:05.42,Default,,0,0,0,,No !
-Dialogue: 0,0:26:05.42,0:26:08.62,Default,,0,0,0,,Hmmm ! C'est quoi ça ?!
-Dialogue: 0,0:26:08.62,0:26:11.25,Default,,0,0,0,,Oh ! C'est la ou vont les poussins !
+Dialogue: 0,0:25:59.72,0:26:01.72,Default,,0,0,0,,Et souviens-toi, on est des producteurs d'oeufs !
+Dialogue: 0,0:26:01.72,0:26:04.76,Default,,0,0,0,,Donc les poussins mâles seront emmenés dans des fermes avec des poulets ?
+Dialogue: 0,0:26:04.76,0:26:05.42,Default,,0,0,0,,Euh, non !
+Dialogue: 0,0:26:05.42,0:26:08.62,Default,,0,0,0,,oh, mais c'est quoi ça ?!
+Dialogue: 0,0:26:08.62,0:26:11.25,Default,,0,0,0,,Oh ça? C'est là où vont les poussins !
 Dialogue: 0,0:26:11.25,0:26:14.04,Default,,0,0,0,,C'est un château ?
-Dialogue: 0,0:26:14.04,0:26:15.05,Default,,0,0,0,,Yes !
-Dialogue: 0,0:26:15.05,0:26:19.89,Default,,0,0,0,,Ok papa !\NBye papa ! Bye petits poussins ! Je vous aime les gars !
+Dialogue: 0,0:26:14.04,0:26:15.05,Default,,0,0,0,,... Oui !
+Dialogue: 0,0:26:15.05,0:26:19.89,Default,,0,0,0,,Okay! A plus tard papa ! \NA plus tard les petits poussins ! Je vous aime (les gars !) 
 Dialogue: 0,0:26:23.92,0:26:25.06,Default,,0,0,0,,Oh papa, j'ai oublié !
 Dialogue: 0,0:26:25.09,0:26:26.52,Default,,0,0,0,,AHHHHH !!!!\NJeremy !
-Dialogue: 0,0:26:26.52,0:26:30.18,Default,,0,0,0,,AHHHHH !!!!\NOh god ! Oh god...
-Dialogue: 0,0:26:30.36,0:26:37.26,Default,,0,0,0,,J'ai même fais un film... Au cas ou vous voudriez vous asseoir et voir un film complet à propos du véganisme.
-Dialogue: 0,0:26:42.69,0:26:45.09,Default,,0,0,0,,En même temps que Troy développer son influence,
-Dialogue: 0,0:26:45.09,0:26:47.64,Default,,0,0,0,,La jeune universitaire ??? avait tout juste 23 ans,
+Dialogue: 0,0:26:26.52,0:26:30.18,Default,,0,0,0,,AHHHHH !!!!\NOh mon dieu, oh mon dieu...
+Dialogue: 0,0:26:30.36,0:26:37.26,Default,,0,0,0,,J'ai même fait un long métrage... Au cas où les gens voudraient prendre le temps de voir un film complet à propos du véganisme. 
+Dialogue: 0,0:26:42.69,0:26:45.09,Default,,0,0,0,,En même temps que Troy devenait de plus en plus influent,
+Dialogue: 0,0:26:45.09,0:26:47.64,Default,,0,0,0,,La jeune universitaire Maude Polikoff avait tout juste 23 ans,
 Dialogue: 0,0:26:47.64,0:26:50.78,Default,,0,0,0,,quand elle commença à faire le rapprochement entre l'exploitation des vaches
-Dialogue: 0,0:26:50.78,0:26:53.25,Default,,0,0,0,,avec ???
-Dialogue: 0,0:26:53.25,0:26:58.69,Default,,0,0,0,,L'association que nous appelons maintenant "La cinquième voie du féminisme" ???
-Dialogue: 0,0:26:59.17,0:27:02.97,Default,,0,0,0,,Le lait était si sexualisé que s'en était bizarre.
-Dialogue: 0,0:27:03.53,0:27:06.22,Default,,0,0,0,,Je veux dire, ???
-Dialogue: 0,0:27:11.37,0:27:16.33,Default,,0,0,0,,L'obscénité, a forcing ??? selected against they will and then made it sexy ???
-Dialogue: 0,0:27:16.42,0:27:21.05,Default,,0,0,0,,Hmmmm.... Si crémeux ???
-Dialogue: 0,0:27:22.41,0:27:25.34,Default,,0,0,0,,
-Dialogue: 0,0:27:25.34,0:27:30.48,Default,,0,0,0,,dont il est devenu frustré quand de nombreux clips oppressifs \Nont commencé à utiliser du lait de vache pour les rendre sexy.
-Dialogue: 0,0:27:32.44,0:27:34.28,Default,,0,0,0,,"I got that MILF money"
-Dialogue: 0,0:27:35.42,0:27:37.84,Default,,0,0,0,,J'ai refusé qu'on me verse du lait de vache sur le corps
-Dialogue: 0,0:27:37.84,0:27:40.02,Default,,0,0,0,,"Mon sex-appeal attire tous les gars dans le coin"
-Dialogue: 0,0:27:40.02,0:27:42.88,Default,,0,0,0,,"Et ils disent il est meilleur que le tien. Bon sang..."
+Dialogue: 0,0:26:50.78,0:26:53.25,Default,,0,0,0,,et sa critique du système capitaliste et patriarchal/hiérarchique.
+Dialogue: 0,0:26:53.25,0:26:58.69,Default,,0,0,0,,C'est à dire les origines de ce qu'on appelle désormais, la cinquième phase du féminisme moderne. (pas sur pour ce truc de fifth way feminism)
+Dialogue: 0,0:26:59.17,0:27:02.97,Default,,0,0,0,,Les pubs sexualisaient tellement le lait que c'en était bizarre.
+Dialogue: 0,0:27:03.53,0:27:06.22,Default,,0,0,0,,Je veux dire, c'était un peu le lait caillé de cette industrie du viol.
+Dialogue: 0,0:27:11.37,0:27:16.33,Default,,0,0,0,,L'indécence obscène dans le fait de forcer les vaches à produire du lait contre leur gré, et de rendre le tout sexy.
+Dialogue: 0,0:27:16.42,0:27:21.05,Default,,0,0,0,,Hmmmm.... Si crémeux, un pur bonheur !
+Dialogue: 0,0:27:22.41,0:27:25.34,Default,,0,0,0,,Polikoff exposa ses idées dès le début de sa carrière de danseuse,
+Dialogue: 0,0:27:25.34,0:27:30.48,Default,,0,0,0,,quand elle fut exasperée par le nombre de fois \Noù on lui avait demandé de se verser du lait de vache sur les seins pour le tournage de clips.
+Dialogue: 0,0:27:32.44,0:27:34.28,Default,,0,0,0,,"I got that MILF money" (peut etre pas utile de le mettre, ca)
+Dialogue: 0,0:27:35.42,0:27:37.84,Default,,0,0,0,,J'ai refusé qu'on me verse du lait de vache sur le corps.
+Dialogue: 0,0:27:37.84,0:27:40.02,Default,,0,0,0,,"Mon milk-shake attire tous les gars du coin"
+Dialogue: 0,0:27:40.02,0:27:42.88,Default,,0,0,0,,"Et ils disent c'est sûr, ce lait est meilleur que le tien [...]"
 Dialogue: 0,0:27:42.90,0:27:44.86,Default,,0,0,0,,Parfois elles faisaient fondre du fromage sur leurs fesses.
 Dialogue: 0,0:27:44.86,0:27:46.86,Default,,0,0,0,,Ce n'était pas pour moi...
-Dialogue: 0,0:27:46.86,0:27:48.86,Default,,0,0,0,,Je suis retournée dans l'éducation.
+Dialogue: 0,0:27:46.86,0:27:48.86,Default,,0,0,0,,Je suis retournée dans le domaine de l'éducation.
 Dialogue: 0,0:27:48.86,0:27:51.25,Default,,0,0,0,,Qu'en est-il de la justice sociale ?
-Dialogue: 0,0:27:51.69,0:27:57.02,Default,,0,0,0,,Quand Poliakov? est devenue véganes, elle a réalisé que montrer la réalité de l'industrie des produits animaux n'était pas assez. (Bad trad sur le début)
-Dialogue: 0,0:27:57.22,0:28:00.70,Default,,0,0,0,,La structure de la société Britannique devait changer dans son ensemble.
-Dialogue: 0,0:28:01.17,0:28:04.24,Default,,0,0,0,,A cette époque l'Angleterre était un droit étrange,
-Dialogue: 0,0:28:04.24,0:28:06.24,Default,,0,0,0,,???
-Dialogue: 0,0:28:07.05,0:28:10.30,Default,,0,0,0,,Nous vivrons dans ce très ???
-Dialogue: 0,0:28:10.40,0:28:14.25,Default,,0,0,0,,La reine, pourtant animal parmi tant d'autre,
-Dialogue: 0,0:28:14.25,0:28:19.16,Default,,0,0,0,,était supérieur à toute la population Britannique.
-Dialogue: 0,0:28:19.86,0:28:24.42,Default,,0,0,0,,Donc je suppose que nous avons pensé que nous devrions être au-dessus de quelque chose.
-Dialogue: 0,0:28:24.97,0:28:29.64,Default,,0,0,0,,Ce qui était le plus obscène dans tout ça, c'est que la reine était une femme.
-Dialogue: 0,0:28:29.64,0:28:31.96,Default,,0,0,0,,
-Dialogue: 0,0:28:31.96,0:28:37.49,Default,,0,0,0,,
-Dialogue: 0,0:28:38.48,0:28:42.44,Default,,0,0,0,,La reine, tout comme beaucoup d'anglais adorait certains animaux,
-Dialogue: 0,0:28:42.44,0:28:44.44,Default,,0,0,0,,and really ate them, if ever ???
-Dialogue: 0,0:28:44.44,0:28:49.82,Default,,0,0,0,,Le problème a toujours été que les gens pensaient que les animaux étaient là pour eux.
-Dialogue: 0,0:28:49.82,0:28:53.78,Default,,0,0,0,,Et comment vous... Comment vous changez cette façon de pensé ?
-Dialogue: 0,0:28:53.78,0:28:59.64,Default,,0,0,0,,Si vous plongez votre regards dans les yeux d'une vache, vous pouvez voir qu'il y a une personne en elle.
-Dialogue: 0,0:29:00.46,0:29:03.01,Default,,0,0,0,,Mais qui a du temps à perdre avec une vache ?
-Dialogue: 0,0:29:04.64,0:29:08.64,Default,,0,0,0,,Mais si certains animaux pouvaient être manger, d'autres devaient être divertissants.
-Dialogue: 0,0:29:11.92,0:29:17.02,Default,,0,0,0,,Beaucoup d'anglais adorait déguiser leurs chats ou leurs chiens en super-héros et pirates,
+Dialogue: 0,0:27:51.69,0:27:57.02,Default,,0,0,0,,Mais Polikoff et d'autres nouveaux penseurs véganes réalisèrent/ se rendirent compte\Nque dénoncer les industries de la viande et du lait n'était pas suffisant.
+Dialogue: 0,0:27:57.22,0:28:00.70,Default,,0,0,0,,C'est la structure entière de la société britannique qui devait être remise en question.
+Dialogue: 0,0:28:01.17,0:28:04.24,Default,,0,0,0,,A cette époque vivre en Angleterre était vraiment étrange.
+Dialogue: 0,0:28:04.24,0:28:06.24,Default,,0,0,0,,C'était toujours une monarchie !
+Dialogue: 0,0:28:07.05,0:28:10.30,Default,,0,0,0,,Nous vivions dans un système hiérarchique si... ancré.
+Dialogue: 0,0:28:10.40,0:28:14.25,Default,,0,0,0,,La reine, étant pourtant juste un animal parmi tant d'autres,
+Dialogue: 0,0:28:14.25,0:28:19.16,Default,,0,0,0,,était supérieure à toute la population britannique.
+Dialogue: 0,0:28:19.86,0:28:24.42,Default,,0,0,0,,Donc j'imagine que nous avons pensé que nous-mêmes devrions être au-dessus de quelque chose.
+Dialogue: 0,0:28:24.97,0:28:29.64,Default,,0,0,0,,Ce système etait si indécemment/incroyablement patriarchal\Nque la reine n'était même pas considérée comme une femme.
+Dialogue: 0,0:28:29.64,0:28:33.72,Default,,0,0,0,,Pourtant, elle aussi était capable de produire du lait\Nmais personne ne voulait l'admettre
+Dialogue: 0,0:28:33.76,0:28:37.49,Default,,0,0,0,,Du lait était aussi sorti de ses mamelons un jour ou l'autre. C'est un fait.
+Dialogue: 0,0:28:38.48,0:28:42.44,Default,,0,0,0,,La reine, tout comme la plupart des anglais, adorait certains animaux,
+Dialogue: 0,0:28:42.44,0:28:44.44,Default,,0,0,0,,et ne mangeait (que rarement, voire) jamais aucun d'entre eux.
+Dialogue: 0,0:28:44.44,0:28:49.82,Default,,0,0,0,,Le problème est que les gens ont toujours pensé que les animaux étaient là pour eux.
+Dialogue: 0,0:28:49.82,0:28:53.78,Default,,0,0,0,,Et.. comment changeriez-vous cette façon de penser ?
+Dialogue: 0,0:28:53.78,0:28:59.64,Default,,0,0,0,,Si vous plongez votre regard dans celui d'une vache, vous pouvez voir que c'est un individu à part entière.
+Dialogue: 0,0:29:00.46,0:29:03.01,Default,,0,0,0,,Mais qui serait prêt à consacrer du temps à une vache ?
+Dialogue: 0,0:29:04.64,0:29:08.64,Default,,0,0,0,,Mais si certains animaux n'etaient pas considérés comme comestibles\NIls devaient au moins être divertissants.
+Dialogue: 0,0:29:11.92,0:29:17.02,Default,,0,0,0,,Beaucoup d'Anglais adoraient déguiser leurs chats ou leurs chiens en super-héros et pirates, 
 Dialogue: 0,0:29:18.62,0:29:21.78,Default,,0,0,0,,ou les faire participer à des compétitions de sauts d'obstacles.
-Dialogue: 0,0:29:25.37,0:29:28.68,Default,,0,0,0,,Et les gens était beaucoup plus intéressés par des chats léchant des bananes
+Dialogue: 0,0:29:25.37,0:29:28.68,Default,,0,0,0,,Ils trouvaient ça beaucoup plus intéressant de regarder des chats lécher des bananes,
 Dialogue: 0,0:29:28.68,0:29:32.89,Default,,0,0,0,,que de voir des vaches se faire transpercer le crâne.
 Dialogue: 0,0:29:33.10,0:29:37.76,Default,,0,0,0,,Bien-sûr pour un enfant de l'année 2067, ces distinctions ont peu de sens.
 Dialogue: 0,0:29:37.76,0:29:43.38,Default,,0,0,0,,Penses-tu qu'elle était considérée comme un animal de compagnie ou de la nourriture ?
 Dialogue: 0,0:29:43.77,0:29:45.26,Default,,0,0,0,,Comme un animal de compagnie.
-Dialogue: 0,0:29:45.26,0:29:47.26,Default,,0,0,0,,Non, elle était considéré comme de la nourriture.
-Dialogue: 0,0:29:55.37,0:29:58.33,Default,,0,0,0,,Au début des années 2000, la Grande-Bretagne était ???
-Dialogue: 0,0:29:58.62,0:30:02.08,Default,,0,0,0,,??? Je me sens vraiment mal pour les animaux, mais en fin de compte...
-Dialogue: 0,0:30:02.32,0:30:05.38,Default,,0,0,0,,Qu'est ce qu'il va arriver ? Je veux dire, il y a trop d'animaux sur cette planète,
+Dialogue: 0,0:29:45.26,0:29:47.26,Default,,0,0,0,,Non, elle était considérée comme de la nourriture.
+Dialogue: 0,0:29:55.37,0:29:58.33,Default,,0,0,0,,Au début des années 2000, la Grande-Bretagne était reellement un asile psychiatrique.
+Dialogue: 0,0:29:58.62,0:30:02.08,Default,,0,0,0,, Je me sens vraiment mal pour les animaux, mais au final,
+Dialogue: 0,0:30:02.32,0:30:05.38,Default,,0,0,0,,Qu'est ce qui va arriver ? Je veux dire, il y a trop d'animaux sur cette planète,
 Dialogue: 0,0:30:05.38,0:30:08.20,Default,,0,0,0,,il y a plus d'animaux que d'être humains,
-Dialogue: 0,0:30:08.34,0:30:10.33,Default,,0,0,0,,donc tu vas devoir les tuer à un moment donné. Tu vois ?
-Dialogue: 0,0:30:10.74,0:30:15.28,Default,,0,0,0,,Le jour ou ça change, quand on dira "On va arrêter de tuer les animaux",
-Dialogue: 0,0:30:15.28,0:30:18.56,Default,,0,0,0,,c'est le joue où je renonce complètement à la vie.
-Dialogue: 0,0:30:18.98,0:30:22.74,Default,,0,0,0,,
+Dialogue: 0,0:30:08.34,0:30:10.33,Default,,0,0,0,,donc on va devoir les tuer à un moment donné. Vous voyez?
+Dialogue: 0,0:30:10.74,0:30:15.28,Default,,0,0,0,,Le jour où ça changera et qu'on dira "On arrête de tuer les animaux",
+Dialogue: 0,0:30:15.28,0:30:18.56,Default,,0,0,0,,c'est le jour où je renoncerai complètement à la vie.
+Dialogue: 0,0:30:18.98,0:30:22.74,Default,,0,0,0,,Et les pays n'auraient sûrement pas changé, \Nsi il n'y avait pas eu le réchauffement climatique.
+Dialogue: 0,0:30:22.78,0:30:28.38,Default,,0,0,0,,''Plusieurs des évènements de mercredi dernier\Nse sont focalisés sur l'impact des produits laitiers et de la viande sur notre climat''
+Dialogue: 0,0:30:28.46,0:30:33.26,Default,,0,0,0,,L'ONU annoncait meme que le véganisme etait le seul moyen de réduire le réchauffement climatique.
+Dialogue: 0,0:30:33.30,0:30:36.16,Default,,0,0,0,,Devrions nous manger moins de viande pour sauver la planète?
+Dialogue: 0,0:30:36.16,0:30:38.16,Default,,0,0,0,,Et quand je dis ''nous'', c'est moi, vous
+Dialogue: 0,0:30:38.22,0:30:40.52,Default,,0,0,0,,votre mère, votre grand-mère, vos nièces et neveux,
+Dialogue: 0,0:30:40.56,0:30:43.96,Default,,0,0,0,,Devriez-VOUS manger moins de viande pour sauver la planète?
+Dialogue: 0,0:30:43.96,0:30:47.46,Default,,0,0,0,,La Chine s'engagea à réduire sa consommation de viande de 50%,
+Dialogue: 0,0:30:47.46,0:30:51.82,Default,,0,0,0,,mais il était en effet plus simple de faire changer les gens avec un gouvernement si autoritaire.
+Dialogue: 0,0:30:52.00,0:30:54.88,Default,,0,0,0,,Le problème, c'est que la Grande Bretagne était une démocratie,
+Dialogue: 0,0:30:54.88,0:30:57.04,Default,,0,0,0,,et la plupart des gens ne songeaient même pas au changement climatique
+Dialogue: 0,0:30:57.04,0:30:59.04,Default,,0,0,0,,car cela présageait la fin de l'humanité toute entière.
+Dialogue: 0,0:31:01.96,0:31:06.70,Default,,0,0,0,,Rien de tout ca n'est en train d'arriver, qu'est-ce que de la glace qui fond à avoir\Navec le fait que je mange un cheeseburger ?
+Dialogue: 0,0:31:08.62,0:31:12.62,Default,,0,0,0,,Pour les îles de la Grande-Bretagne, le réchauffement climatique impliquait des crues.
+Dialogue: 0,0:31:12.62,0:31:14.62,Default,,0,0,0,,Comment la nation y ferait face?
+Dialogue: 0,0:31:16.34,0:31:20.02,Default,,0,0,0,,Bienvenue dans le ''One Show'' avec Matt Baker! \N-Et Alex Jones!
+Dialogue: 0,0:31:20.02,0:31:23.06,Default,,0,0,0,,''Nous voulons célébrer tous les héros de ces inondations,
+Dialogue: 0,0:31:23.06,0:31:26.02,Default,,0,0,0,,alors envoyez-nous vos photos! Enfin, si le courant passe toujours chez vous.
+Dialogue: 0,0:31:26.02,0:31:29.94,Default,,0,0,0,,Et c'est pendant cet épisode d'inondation \Nqu'une victime attachante fit surface/apparut/émergea.
+Dialogue: 0,0:31:29.94,0:31:33.40,Default,,0,0,0,,Tout le monde s'en fout de nous!\NTout le monde s'en fout qu'on vive dans ces conditions,
+Dialogue: 0,0:31:33.40,0:31:34.96,Default,,0,0,0,,C'est la troisième fois que ca arrive, 
+Dialogue: 0,0:31:34.96,0:31:38.20,Default,,0,0,0,,Personne ne m'écoute ! Personne n'écoute !
+Dialogue: 0,0:31:38.20,0:31:40.44,Default,,0,0,0,,Mes enfants sont à l'étage, ils sont trempés,
+Dialogue: 0,0:31:40.48,0:31:42.22,Default,,0,0,0,,ils sont frigorifiés, ils ont peur.
+Dialogue: 0,0:31:42.28,0:31:44.96,Default,,0,0,0,,Je ne sais pas quoi faire ! Comment tout cela est-il possible ?!
+Dialogue: 0,0:31:44.96,0:31:47.40,Default,,0,0,0,,''Votre histoire a fait pas mal de bruit''
+Dialogue: 0,0:31:47.40,0:31:49.98,Default,,0,0,0,,Lindsay Graber [...] what the fuck is she saying? we gotta ask Elisa
+Dialogue: 0,0:31:50.44,0:31:54.20,Default,,0,0,0,,La production de viande était une des causes majeures du réchauffement climatique.
+Dialogue: 0,0:31:55.06,0:31:58.36,Default,,0,0,0,,et Lindsay Graber essaya d'en avertir les gens avant qu'il ne soit trop tard.
+Dialogue: 0,0:31:58.36,0:32:00.68,Default,,0,0,0,,Manger ne serait-ce qu'un seul burger
+Dialogue: 0,0:32:00.72,0:32:06.36,Default,,0,0,0,,a le meme impact sur l'environnement qu'une douche prise chaque jour pendant un mois. Un mois entier !
+Dialogue: 0,0:32:06.36,0:32:08.36,Default,,0,0,0,,
