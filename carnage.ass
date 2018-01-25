@@ -98,12 +98,12 @@ Dialogue: 0,0:06:16.52,0:06:19.50,Default,,0,0,0,,Mais seulement une décennie p
 Dialogue: 0,0:06:19.50,0:06:22.85,Default,,0,0,0,,il était de nouveau accepté d'abattre les autres animaux.
 Dialogue: 0,0:06:24.85,0:06:28.87,Default,,0,0,0,,La viande, la dernière nourriture rationnée, est de nouveau en libre circulation après 14 ans.
 Dialogue: 0,0:06:28.87,0:06:32.22,Default,,0,0,0,,Et la fin du rationnement a également permis l'ascension d'un chef célèbre
-Dialogue: 0,0:06:33.12,0:06:35.20,Default,,0,0,0,,''S'il vous plaît, jetez un coup d'œil à votre programme!''
+Dialogue: 0,0:06:33.12,0:06:35.20,Default,,0,0,0,,"S'il vous plaît, jetez un coup d'œil à votre programme!"
 Dialogue: 0,0:06:35.20,0:06:38.87,Default,,0,0,0,,Le public peut voir tourner joyeusement dans un rôtissoir
 Dialogue: 0,0:06:38.87,0:06:41.87,Default,,0,0,0,,un cochon de lait, la nourriture la plus poétique qui soit.
 Dialogue: 0,0:06:41.87,0:06:45.10,Default,,0,0,0,,En 1956, Fanny Cradock faisait salle pleine au Royal Albert Hall
 Dialogue: 0,0:06:45.16,0:06:48.60,Default,,0,0,0,,Grâce à sa performance de découpe d'un cochon qu'elle disposa dans une grand plat.
-Dialogue: 0,0:06:48.60,0:06:51.57,Default,,0,0,0,,''Il est bel et bien farci!''
+Dialogue: 0,0:06:48.60,0:06:51.57,Default,,0,0,0,,"Il est bel et bien farci!"
 Dialogue: 0,0:06:51.57,0:06:54.64,Default,,0,0,0,,Allons y... Et nous y sommes !
 Dialogue: 0,0:06:54.64,0:06:58.98,Default,,0,0,0,,Les personnes mangeant encore des légumes dans les années 50 ne pouvaient pas se permettre d'aller à des représentations.
 Dialogue: 0,0:07:04.86,0:07:11.30,Default,,0,0,0,,Au cours des vingt années suivantes, Fanny consacra sa vie à amener le chic de la viande dans la maison de tous les Anglais.
@@ -132,22 +132,22 @@ Dialogue: 0,0:08:28.22,0:08:35.49,Default,,0,0,0,,Si vous souhaitez des recettes
 Dialogue: 0,0:08:35.92,0:08:37.01,Default,,0,0,0,,Pourtant personne n'en fit rien.
 Dialogue: 0,0:08:38.56,0:08:42.26,Default,,0,0,0,,Pendant les années 70 et 80, la vie devint encore plus dure pour le mouvement végane.
 Dialogue: 0,0:08:42.30,0:08:46.18,Default,,0,0,0,,En effet, les animaux consommés ne ressemblaient même plus des animaux...
-Dialogue: 0,0:08:46.37,0:08:49.00,Default,,0,0,0,,''Appétissant! À s'en lécher des doigts!''
+Dialogue: 0,0:08:46.37,0:08:49.00,Default,,0,0,0,,"Appétissant! À s'en lécher des doigts!"
 Dialogue: 0,0:08:49.00,0:08:54.30,Default,,0,0,0,,Les chaines de fast food des États-Unis trouvaient toujours de nouvelles façons de déguiser la chair animale en jouets comestibles
-Dialogue: 0,0:08:54.41,0:09:00.25,Default,,0,0,0,,''Nous aimons ce rap, il déchire!\NMais nous aimerions mieux sauter dans la sauce barbecue!''
-Dialogue: 0,0:09:00.25,0:09:03.46,Default,,0,0,0,,''Tu sais que tu veux manger Macdonald's!''
-Dialogue: 0,0:09:03.46,0:09:05.74,Default,,0,0,0,,''A l'abordage, mes p'tits poissons panés!"
+Dialogue: 0,0:08:54.41,0:09:00.25,Default,,0,0,0,,"Nous aimons ce rap, il déchire!\NMais nous aimerions mieux sauter dans la sauce barbecue!"
+Dialogue: 0,0:09:00.25,0:09:03.46,Default,,0,0,0,,"Tu sais que tu veux manger Macdonald's!"
+Dialogue: 0,0:09:03.46,0:09:05.74,Default,,0,0,0,,"A l'abordage, mes p'tits poissons panés!"
 Dialogue: 0,0:09:05.74,0:09:12.10,Default,,0,0,0,,Les enfants n'auraient surement pas mangé un poisson mort dans leur assiette, mais mangeaient sans problème les poissons pannées recommandés par le capitaine !
-Dialogue: 0,0:09:12.10,0:09:14.10,Default,,0,0,0,,''C'est très bon!''
-Dialogue: 0,0:09:15.41,0:09:17.60,Default,,0,0,0,,''Voici le merveilleux et magique Roi du Burger, il peut vraiment tout faire!''
-Dialogue: 0,0:09:17.60,0:09:22.56,Default,,0,0,0,,''Regardez moi les enfants, quand je tourne ma bague, c'est magique!''\N''Wow, nous sommes à Burger King!''
+Dialogue: 0,0:09:12.10,0:09:14.10,Default,,0,0,0,,"C'est très bon!"
+Dialogue: 0,0:09:15.41,0:09:17.60,Default,,0,0,0,,"Voici le merveilleux et magique Roi du Burger, il peut vraiment tout faire!"
+Dialogue: 0,0:09:17.60,0:09:22.56,Default,,0,0,0,,"Regardez moi les enfants, quand je tourne ma bague, c'est magique!"\N"Wow, nous sommes à Burger King!"
 Dialogue: 0,0:09:22.64,0:09:25.04,Default,,0,0,0,,Les parents étaient séduits par des personnages comme "Burger King" (Roi du burger)
 Dialogue: 0,0:09:25.04,0:09:27.18,Default,,0,0,0,,et préféraient l'imaginer comme un roi aux pouvoirs magiques
 Dialogue: 0,0:09:27.18,0:09:32.48,Default,,0,0,0,,plutôt que comme un homme déguisé pour détourner leur attention du génocide.
 Dialogue: 0,0:09:32.48,0:09:35.88,Default,,0,0,0,,Ok... Souris et dis "Cheeseburger !"
 Dialogue: 0,0:09:35.88,0:09:36.89,Default,,0,0,0,,"Cheeseburger !"
 Dialogue: 0,0:09:36.89,0:09:41.21,Default,,0,0,0,,Et les cheveux de Ronald Mc Donalds étaient rouges parce que c'était un clown, pas parce qu'il avait du sang sur les mains.
-Dialogue: 0,0:09:41.58,0:09:43.64,Default,,0,0,0,,''Pas avant que vous ne souriez!''
+Dialogue: 0,0:09:41.58,0:09:43.64,Default,,0,0,0,,"Pas avant que vous ne souriez!"
 Dialogue: 0,0:09:45.64,0:09:48.48,Default,,0,0,0,,Le clown, le capitaine, et le roi...
 Dialogue: 0,0:09:49.30,0:09:52.81,Default,,0,0,0,,Détournaient tous l'attention du public, de ceci:
 Dialogue: 0,0:10:06.80,0:10:13.42,Default,,0,0,0,,Dix ans plus tard, l'élevage intensif, qui rendait la production de viande bon marché, provoqua de nouvelles maladies.
@@ -166,18 +166,18 @@ Dialogue: 0,0:11:00.65,0:11:03.30,Default,,0,0,0,,"Babe mange du cochon ?"\N"Du 
 Dialogue: 0,0:11:03.82,0:11:08.13,Default,,0,0,0,,Donc, dans le film oscarisé Babe,
 Dialogue: 0,0:11:08.13,0:11:11.50,Default,,0,0,0,,Il était essentiel que le héros, qui était un cochon vivant dans une ferme
 Dialogue: 0,0:11:11.50,0:11:14.84,Default,,0,0,0,,échappe à la mort grâce à ses talents de berger.
-Dialogue: 0,0:11:16.68,0:11:27.37,Default,,0,0,0,,En 1995, emmener vos enfants voir un cochon échapper à la mort...\N(''C'est l'heure !'' ... ''Le Happy Meal "Babe" de Mc Donalds !'')\N...puis les emmener manger le célèbre ''Happy Meal'',
+Dialogue: 0,0:11:16.68,0:11:27.37,Default,,0,0,0,,En 1995, emmener vos enfants voir un cochon échapper à la mort...\N("C'est l'heure !" ... "Le Happy Meal "Babe" de Mc Donalds !")\N...puis les emmener manger le célèbre "Happy Meal",
 Dialogue: 0,0:11:28.53,0:11:30.12,Default,,0,0,0,,était totalement normal.
-Dialogue: 0,0:11:30.12,0:11:31.69,Default,,0,0,0,,''Merci beaucoup!''
+Dialogue: 0,0:11:30.12,0:11:31.69,Default,,0,0,0,,"Merci beaucoup!"
 Dialogue: 0,0:11:32.00,0:11:36.97,Default,,0,0,0,,En réalité, l'élevage intensif continuait, et des maladies continuaient à apparaître.
-Dialogue: 0,0:11:37.10,0:11:43.36,Default,,0,0,0,,''Sur les 3 derniers mois, 1607 cas ont été signalés en Grande-Bretagne.''
+Dialogue: 0,0:11:37.10,0:11:43.36,Default,,0,0,0,,"Sur les 3 derniers mois, 1607 cas ont été signalés en Grande-Bretagne."
 Dialogue: 0,0:11:45.82,0:11:51.40,Default,,0,0,0,,Et en 2001, dix millions d'animaux furent exterminés durant l'épidémie de fièvre aphteuse,
 Dialogue: 0,0:11:51.69,0:11:53.70,Default,,0,0,0,,privés de leur courte vie.
 Dialogue: 0,0:11:57.52,0:12:02.80,Default,,0,0,0,,Un cochon survécut, car 6 ans plus tôt, il avait commencé l'émission de télé-réalité "Pig at The Ritz".
 Dialogue: 0,0:12:03.32,0:12:06.42,Default,,0,0,0,,C'était deux poids, deux mesures: une pour les animaux ordinaires, et une autre pour les célébrités...
 Dialogue: 0,0:12:15.76,0:12:18.08,Default,,0,0,0,,Malgré tout cela, au commencement du nouveau millénaire,
 Dialogue: 0,0:12:18.32,0:12:22.13,Default,,0,0,0,,l'industrie de la viande régnait dans les coeurs et les esprits des Anglais,
-Dialogue: 0,0:12:22.13,0:12:24.24,Default,,0,0,0,,''Une viande de boeuf de qualité, ca se reconnaît!''
+Dialogue: 0,0:12:22.13,0:12:24.24,Default,,0,0,0,,"Une viande de boeuf de qualité, ca se reconnaît!"
 Dialogue: 0,0:12:24.24,0:12:29.86,Default,,0,0,0,,La majorité des gens considéraient la chair animale comme indispensable à leur bonne santé et leur bonheur.
 Dialogue: 0,0:12:31.21,0:12:35.65,Default,,0,0,0,,Il est très difficile de se débarrasser d'habitudes oppressives, surtout si vous n'êtes même pas conscients d'être opprimés.
 Dialogue: 0,0:12:36.88,0:12:39.28,Default,,0,0,0,,Les enfants alors habitués aux viandes transformées
@@ -186,12 +186,12 @@ Dialogue: 0,0:12:42.56,0:12:44.86,Default,,0,0,0,,souffraient subitement de nouv
 Dialogue: 0,0:12:45.18,0:12:47.25,Default,,0,0,0,,Il y eut une rapide augmentation de maladies cardiaques.
 Dialogue: 0,0:12:47.33,0:12:50.41,Default,,0,0,0,,Les scientifiques découvraient de fascinants nouveaux types de diabète.
 Dialogue: 0,0:12:50.68,0:12:53.00,Default,,0,0,0,,Et l'obésité était une épidémie...
-Dialogue: 0,0:12:55.40,0:13:01.50,Default,,0,0,0,,On entendait les véganes dire: ''pourquoi continuent-ils à consommer toute cette viande?''
+Dialogue: 0,0:12:55.40,0:13:01.50,Default,,0,0,0,,On entendait les véganes dire: "pourquoi continuent-ils à consommer toute cette viande?"
 Dialogue: 0,0:13:03.42,0:13:08.81,Default,,0,0,0,,Mais dans ce temps là, les gens mangeaient de la viande car ils pensaient alors que c'était tout ce qu'ils méritaient...
 Dialogue: 0,0:13:11.98,0:13:15.24,Default,,0,0,0,,Tout ce temps, il y avait une alternative...
-Dialogue: 0,0:13:16.40,0:13:20.37,Default,,0,0,0,,''Si tu prends du poids en mangeant trop d'bouffe, je ne te traiterais jamais de "vache".
+Dialogue: 0,0:13:16.40,0:13:20.37,Default,,0,0,0,,"Si tu prends du poids en mangeant trop d'bouffe, je ne te traiterais jamais de "vache".
 Dialogue: 0,0:13:20.44,0:13:22.46,Default,,0,0,0,,Je te respecte, toi et les vaches.
-Dialogue: 0,0:13:22.46,0:13:24.46,Default,,0,0,0,,N'utilise pas "vache" comme une insulte!''
+Dialogue: 0,0:13:22.46,0:13:24.46,Default,,0,0,0,,N'utilise pas "vache" comme une insulte!"
 Dialogue: 0,0:13:24.46,0:13:28.00,Default,,0,0,0,,Mais les véganes étaient toujours ridicules, et n'étaient pas souvent autorisés à passer à la télévision.
 Dialogue: 0,0:13:28.00,0:13:30.00,Default,,0,0,0,,Voici ce que Jackie mange.
 Dialogue: 0,0:13:30.00,0:13:32.08,Default,,0,0,0,,Êtes vous ballonnée ?\N Oui!
@@ -216,7 +216,7 @@ Dialogue: 0,0:14:34.46,0:14:36.20,Default,,0,0,0,,Pas de honte...
 Dialogue: 0,0:14:37.84,0:14:39.00,Default,,0,0,0,,Pas de honte !
 Dialogue: 0,0:14:39.29,0:15:01.52,Default,,0,0,0,,Pas de honte ! Pas de honte ! Pas de honte ! ...
 Dialogue: 0,0:15:03.78,0:15:05.17,Default,,0,0,0,,Bien joué !
-Dialogue: 0,0:15:11.08,0:15:15.05,Default,,0,0,0,,"Mangeeee-ez de la viaaaaaaaaaa-a-ande!''
+Dialogue: 0,0:15:11.08,0:15:15.05,Default,,0,0,0,,"Mangeeee-ez de la viaaaaaaaaaa-a-ande!"
 Dialogue: 0,0:15:15.14,0:15:19.12,Default,,0,0,0,,Dans les années 2010, manger de la viande et mourir prématurément était tellement normal,
 Dialogue: 0,0:15:19.12,0:15:23.12,Default,,0,0,0,,que pour gagner une éléction, les policitiens devaient organiser des évènements où la viande était à l'honneur
 Dialogue: 0,0:15:23.12,0:15:26.73,Default,,0,0,0,,pour montrer qu'ils étaient des gars comme tout le monde, à l'abri de problèmes cardiaques.
@@ -354,7 +354,7 @@ Dialogue: 0,0:24:37.81,0:24:42.50,Default,,0,0,0,,Tout juste 5 ans plus tard, Tr
 Dialogue: 0,0:24:43.86,0:24:45.76,Default,,0,0,0,,J'ai écrit ce livre quand j'étais gosse.
 Dialogue: 0,0:24:46.12,0:24:49.20,Default,,0,0,0,,J'étais très révolté pendant une grande partie de mon adolescence.
 Dialogue: 0,0:24:49.20,0:24:52.30,Default,,0,0,0,,et la plupart du temps c'était parce que je n'avais toujours pas de poils sous les bras.
-Dialogue: 0,0:24:52.30,0:24:57.53,Default,,0,0,0,,''Troy King Jones est une figure importante de la communauté végane,
+Dialogue: 0,0:24:52.30,0:24:57.53,Default,,0,0,0,,"Troy King Jones est une figure importante de la communauté végane,
 Dialogue: 0,0:24:57.53,0:25:01.94,Default,,0,0,0,,Ce soir nous recevons l'activiste, réalisateur et personnalité végane emblématique Troy King Jones,
 Dialogue: 0,0:25:01.94,0:25:04.65,Default,,0,0,0,,Mais avant, il est temps d'acheter une botte ? xD ??? putain je sais pas non plus faudra demander a elisa mdr
 Dialogue: 0,0:25:04.65,0:25:09.42,Default,,0,0,0,,Troy commença sa carrière chez PETA (People for the Ethical Treatment of Animals)
@@ -363,7 +363,7 @@ Dialogue: 0,0:25:16.61,0:25:19.68,Default,,0,0,0,,En fait, je ne suis pas resté
 Dialogue: 0,0:25:20.62,0:25:24.13,Default,,0,0,0,,Je me rappelle juste avoir souvent fait le mort et être ignoré par les passants.
 Dialogue: 0,0:25:29.94,0:25:32.80,Default,,0,0,0,,Troy montait des vidéos, qu'il diffusait sur le net.
 Dialogue: 0,0:25:32.82,0:25:38.10,Default,,0,0,0,,il y exposait des horreurs comme le broyage ou gazage systématique des poussins mâles dans l'industrie des oeufs.
-Dialogue: 0,0:25:38.21,0:25:42.44,Default,,0,0,0,,Je ne fais plus de vidéos comme ça, on m'a conseillé de faire des versions plus ''soft''.
+Dialogue: 0,0:25:38.21,0:25:42.44,Default,,0,0,0,,Je ne fais plus de vidéos comme ça, on m'a conseillé de faire des versions plus "soft".
 Dialogue: 0,0:25:44.66,0:25:49.86,Default,,0,0,0,,Pourtant, Troy réussit à marquer quelques esprits avec cette courte vidéo devenue virale: "Un jour dans la ferme de papa".
 Dialogue: 0,0:25:52.62,0:25:55.58,Default,,0,0,0,,Ohhh ils sont trop mignons, je peux en avoir un papa ?
 Dialogue: 0,0:25:55.58,0:25:57.54,Default,,0,0,0,,Non on ne peut garder aucun d'entre eux !
@@ -434,10 +434,10 @@ Dialogue: 0,0:30:08.34,0:30:10.33,Default,,0,0,0,,donc on va devoir les tuer à 
 Dialogue: 0,0:30:10.74,0:30:15.28,Default,,0,0,0,,Le jour où ça changera et qu'on dira "On arrête de tuer les animaux",
 Dialogue: 0,0:30:15.28,0:30:18.56,Default,,0,0,0,,c'est le jour où je renoncerai complètement à la vie.
 Dialogue: 0,0:30:18.98,0:30:22.74,Default,,0,0,0,,Et les pays n'auraient sûrement pas changé, \Nsi il n'y avait pas eu le réchauffement climatique.
-Dialogue: 0,0:30:22.78,0:30:28.38,Default,,0,0,0,,''Plusieurs des évènements de mercredi dernier\Nse sont focalisés sur l'impact des produits laitiers et de la viande sur notre climat''
+Dialogue: 0,0:30:22.78,0:30:28.38,Default,,0,0,0,,"Plusieurs des évènements de mercredi dernier\Nse sont focalisés sur l'impact des produits laitiers et de la viande sur notre climat"
 Dialogue: 0,0:30:28.46,0:30:33.26,Default,,0,0,0,,L'ONU annoncait meme que le véganisme etait le seul moyen de réduire le réchauffement climatique.
 Dialogue: 0,0:30:33.30,0:30:36.16,Default,,0,0,0,,Devrions nous manger moins de viande pour sauver la planète?
-Dialogue: 0,0:30:36.16,0:30:38.16,Default,,0,0,0,,Et quand je dis ''nous'', c'est moi, vous
+Dialogue: 0,0:30:36.16,0:30:38.16,Default,,0,0,0,,Et quand je dis "nous", c'est moi, vous
 Dialogue: 0,0:30:38.22,0:30:40.52,Default,,0,0,0,,votre mère, votre grand-mère, vos nièces et neveux,
 Dialogue: 0,0:30:40.56,0:30:43.96,Default,,0,0,0,,Devriez-VOUS manger moins de viande pour sauver la planète?
 Dialogue: 0,0:30:43.96,0:30:47.46,Default,,0,0,0,,La Chine s'engagea à réduire sa consommation de viande de 50%,
@@ -448,8 +448,8 @@ Dialogue: 0,0:30:57.04,0:30:59.04,Default,,0,0,0,,car cela présageait la fin de
 Dialogue: 0,0:31:01.96,0:31:06.70,Default,,0,0,0,,Rien de tout ca n'est en train d'arriver, qu'est-ce que de la glace qui fond à avoir\Navec le fait que je mange un cheeseburger ?
 Dialogue: 0,0:31:08.62,0:31:12.62,Default,,0,0,0,,Pour les îles de la Grande-Bretagne, le réchauffement climatique impliquait des crues.
 Dialogue: 0,0:31:12.62,0:31:14.62,Default,,0,0,0,,Comment la nation y ferait face?
-Dialogue: 0,0:31:16.34,0:31:20.02,Default,,0,0,0,,Bienvenue dans le ''One Show'' avec Matt Baker! \N-Et Alex Jones!
-Dialogue: 0,0:31:20.02,0:31:23.06,Default,,0,0,0,,''Nous voulons célébrer tous les héros de ces inondations,
+Dialogue: 0,0:31:16.34,0:31:20.02,Default,,0,0,0,,Bienvenue dans le "One Show" avec Matt Baker! \N-Et Alex Jones!
+Dialogue: 0,0:31:20.02,0:31:23.06,Default,,0,0,0,,"Nous voulons célébrer tous les héros de ces inondations,
 Dialogue: 0,0:31:23.06,0:31:26.02,Default,,0,0,0,,alors envoyez-nous vos photos! Enfin, si le courant passe toujours chez vous.
 Dialogue: 0,0:31:26.02,0:31:29.94,Default,,0,0,0,,Et c'est pendant cet épisode d'inondation \Nqu'une victime attachante fit surface/apparut/émergea.
 Dialogue: 0,0:31:29.94,0:31:33.40,Default,,0,0,0,,Tout le monde s'en fout de nous!\NTout le monde s'en fout qu'on vive dans ces conditions,
@@ -458,7 +458,7 @@ Dialogue: 0,0:31:34.96,0:31:38.20,Default,,0,0,0,,Personne ne m'écoute ! Person
 Dialogue: 0,0:31:38.20,0:31:40.44,Default,,0,0,0,,Mes enfants sont à l'étage, ils sont trempés,
 Dialogue: 0,0:31:40.48,0:31:42.22,Default,,0,0,0,,ils sont frigorifiés, ils ont peur.
 Dialogue: 0,0:31:42.28,0:31:44.96,Default,,0,0,0,,Je ne sais pas quoi faire ! Comment tout cela est-il possible ?!
-Dialogue: 0,0:31:44.96,0:31:47.40,Default,,0,0,0,,''Votre histoire a fait pas mal de bruit''
+Dialogue: 0,0:31:44.96,0:31:47.40,Default,,0,0,0,,"Votre histoire a fait pas mal de bruit"
 Dialogue: 0,0:31:47.40,0:31:49.98,Default,,0,0,0,,Lindsay Graber [...] what the fuck is she saying? we gotta ask Elisa
 Dialogue: 0,0:31:50.44,0:31:54.20,Default,,0,0,0,,La production de viande était une des causes majeures du réchauffement climatique.
 Dialogue: 0,0:31:55.06,0:31:58.36,Default,,0,0,0,,et Lindsay Graber essaya d'en avertir les gens avant qu'il ne soit trop tard.
@@ -467,11 +467,11 @@ Dialogue: 0,0:32:00.72,0:32:06.36,Default,,0,0,0,,a le meme impact sur l'environ
 Dialogue: 0,0:32:06.36,0:32:09.96,Default,,0,0,0,,Mais même si les gens aimaient se divertir de cette mère avec sa maison trempée,
 Dialogue: 0,0:32:09.96,0:32:11.72,Default,,0,0,0,,personne ne l'{\i1}écoutait {\i0}vraiment.
 Dialogue: 0,0:32:11.72,0:32:14.96,Default,,0,0,0,,Nous allons tous mourir noyés si on ne fait rien -du coup?...?'
-Dialogue: 0,0:32:14.96,0:32:19.10,Default,,0,0,0,,''La production de viande est responsable de 50% des émissions de CO2 [...]''
-Dialogue: 0,0:32:19.10,0:32:22.38,Default,,0,0,0,,Ils n'écoutaient pas meme le politicien et star de cinéma ''Arnie''
-Dialogue: 0,0:32:22.38,0:32:25.44,Default,,0,0,0,,''Moins de viande: moins de chaleur''
+Dialogue: 0,0:32:14.96,0:32:19.10,Default,,0,0,0,,"La production de viande est responsable de 50% des émissions de CO2 [...]"
+Dialogue: 0,0:32:19.10,0:32:22.38,Default,,0,0,0,,Ils n'écoutaient pas meme le politicien et star de cinéma "Arnie"
+Dialogue: 0,0:32:22.38,0:32:25.44,Default,,0,0,0,,"Moins de viande: moins de chaleur"
 Dialogue: 0,0:32:25.44,0:32:27.92,Default,,0,0,0,,Alors il se jeta du haut d'une falaise.
-Dialogue: 0,0:32:27.92,0:32:29.92,Default,,0,0,0,,''AAAAAAHHHHH !!''
+Dialogue: 0,0:32:27.92,0:32:29.92,Default,,0,0,0,,"AAAAAAHHHHH !!"
 Dialogue: 0,0:32:34.26,0:32:37.86,Default,,0,0,0,,Le climat continuait donc à se réchauffer\NEt les animaux, à souffrir.
 Dialogue: 0,0:32:38.42,0:32:43.40,Default,,0,0,0,,Le fossé entre les gens ordinaires mangeant de la viande, et les véganes, \Nparaissait désormais insurmontable.
 Dialogue: 0,0:32:45.76,0:32:48.86,Default,,0,0,0,,Un évènement illustra cela encore plus qu'aucun autre auparavant:
@@ -486,17 +486,17 @@ Dialogue: 0,0:33:21.34,0:33:23.34,Default,,0,0,0,,...ils seraient traumatisés.
 Dialogue: 0,0:33:24.04,0:33:25.72,Default,,0,0,0,,Comme tous les mammifères femelles,
 Dialogue: 0,0:33:25.72,0:33:28.92,Default,,0,0,0,,les vaches ne produisent du lait que lorsqu'elles ont un bébé à nourrir.
 Dialogue: 0,0:33:28.92,0:33:33.88,Default,,0,0,0,,Alors les hommes introduisaient de force du sperme \Ndans les vagins de chacune des vaches avec une tige,
-Dialogue: 0,0:33:33.94,0:33:38.64,Default,,0,0,0,,généralement attachées à ce qui était alors appelé  ''rack (structure) de viol''.
+Dialogue: 0,0:33:33.94,0:33:38.64,Default,,0,0,0,,généralement attachées à ce qui était alors appelé  "rack (structure) de viol".
 Dialogue: 0,0:33:38.64,0:33:40.64,Default,,0,0,0,,C'était totalement légal
-Dialogue: 0,0:33:40.64,0:33:42.64,Default,,0,0,0,,C'était ''bio''...
+Dialogue: 0,0:33:40.64,0:33:42.64,Default,,0,0,0,,C'était "bio"...
 Dialogue: 0,0:33:42.64,0:33:44.64,Default,,0,0,0,,de fister une vache.
 Dialogue: 0,0:33:45.52,0:33:47.72,Default,,0,0,0,,Puis, la vache est enceinte pendant neuf mois
 Dialogue: 0,0:33:47.72,0:33:50.86,Default,,0,0,0,,et elle a évidemment très hâte de voir son enfant.
 Dialogue: 0,0:33:50.86,0:33:53.20,Default,,0,0,0,,Mais cet enfant lui est pris à jamais.
 Dialogue: 0,0:33:54.00,0:33:57.58,Default,,0,0,0,,Le lien de la vache avec son petit est incroyablement fort,
 Dialogue: 0,0:33:57.58,0:33:59.58,Default,,0,0,0,,alors elle pleure pendant des jours
-Dialogue: 0,0:34:03.78,0:34:05.32,Default,,0,0,0,,''Comment ca, la vache souffre?''
-Dialogue: 0,0:34:05.32,0:34:08.60,Default,,0,0,0,,Une vache est traie ''humainement''
+Dialogue: 0,0:34:03.78,0:34:05.32,Default,,0,0,0,,"Comment ca, la vache souffre?"
+Dialogue: 0,0:34:05.32,0:34:08.60,Default,,0,0,0,,Une vache est traie "humainement"
 Dialogue: 0,0:34:08.60,0:34:11.16,Default,,0,0,0,,Si l'on ne trait pas les vaches, elles mourront de toute facon!
 Dialogue: 0,0:34:12.20,0:34:16.53,Default,,0,0,0,,Alors comment... - Oui, si on ne trait pas les vaches elles meurent...
 Dialogue: 0,0:34:16.84,0:34:20.77,Default,,0,0,0,,Parce qu'elles doivent être traites pour faire sortir le lait d'leur corps !
@@ -549,7 +549,73 @@ Dialogue: 0,0:37:05.50,0:37:06.65,Default,,0,0,0,,Vous voyez...
 Dialogue: 0,0:37:07.72,0:37:10.81,Default,,0,0,0,,Elle jouait de la clarinette...\NOwww...
 Dialogue: 0,0:37:10.81,0:37:15.32,Default,,0,0,0,,L'élevage intensif était beaucoup plus dangereux que ce que le public avait été amené à croire.
 Dialogue: 0,0:37:15.32,0:37:21.09,Default,,0,0,0,,Alors qu'avait été diffusé à la télé les images d'un politicien faisant manger un burger à sa fille,
-Dialogue: 0,0:37:21.09,0:37:25.62,Default,,0,0,0,,Le développement des réseaux sociaux accéléra la diffusion des découvertes scientifiques en ligne
+Dialogue: 0,0:37:21.12,0:37:23.86,Default,,0,0,0,,Les réseaux sociaux servirent à diffuser le savoir en ligne
+Dialogue: 0,0:37:23.90,0:37:27.62,Default,,0,0,0,,Le porc était maintenant percu comme dangereux, insalubre, et dégoûtant.
+Dialogue: 0,0:37:27.62,0:37:30.24,Default,,0,0,0,,Beaucoup de britanniques se mirent à lire la Torah et le Coran
+Dialogue: 0,0:37:30.24,0:37:33.36,Default,,0,0,0,,pour y trouver d'autres conseils de cuisine.
+Dialogue: 0,0:37:34.52,0:37:36.76,Default,,0,0,0,,"Nous allons annoncer ça tout de suite"
+Dialogue: 0,0:37:36.76,0:37:39.62,Default,,0,0,0,,L'industrie de l'élevage animal était dans un piètre état,
+Dialogue: 0,0:37:39.62,0:37:43.98,Default,,0,0,0,,mais malgré tout ça, la majorité des gens avaient toujours aussi envie de viandes.
+Dialogue: 0,0:37:43.98,0:37:50.02,Default,,0,0,0,,Les fermes furent sauvées, mais pour éviter d'autres épidémies,\Nde nouvelles lois strictes sur le bien-être animal furent votées.
+Dialogue: 0,0:37:51.50,0:37:53.94,Default,,0,0,0,,C'était la fin de l'élevage intensif.
+Dialogue: 0,0:37:54.32,0:37:57.76,Default,,0,0,0,,Beaucoup d'animaux purent voir le jour pour la première fois de leur vie,
+Dialogue: 0,0:37:57.76,0:38:06.14,Default,,0,0,0,,Mais hélas, les poulets que les gens avaient l'habitude de consommer étaient si génétiquement modifiés\Nqu'il était difficile pour eux de célébrer cette nouvelle.
+Dialogue: 0,0:38:08.14,0:38:13.94,Default,,0,0,0,,Désormais, puisque le prix de la viande grimpait, \N\Nsi les gens n'avaient pas peur d'en manger, ils étaient de toute manière trop pauvres.
+Dialogue: 0,0:38:13.94,0:38:18.38,Default,,0,0,0,,Personne ne savait quoi manger.\NLes britanniques étaient confus et démunis.
+Dialogue: 0,0:38:18.38,0:38:21.30,Default,,0,0,0,,Ils comptèrent sur la chanteuse Beyoncé pour les guider,
+Dialogue: 0,0:38:21.30,0:38:23.96,Default,,0,0,0,,Certains arrêterent tout simplement de manger.
+Dialogue: 0,0:38:27.68,0:38:32.92,Default,,0,0,0,,Commença alors ce que nous appelons aujourd'hui "l'ère de la Confusion"
+Dialogue: 0,0:38:32.92,0:38:36.82,Default,,0,0,0,,La population voulait arrêter le réchauffement climatique et améliorer leur santé,
+Dialogue: 0,0:38:36.88,0:38:41.98,Default,,0,0,0,,Ils ne voulaient pas être responsables de la souffrance d'autres animaux,\Nmais comment était-ce possible ?
+Dialogue: 0,0:38:41.98,0:38:44.60,Default,,0,0,0,,Vous auriez pu vous passer de tout ce qui provenait d'animaux,
+Dialogue: 0,0:38:44.60,0:38:46.40,Default,,0,0,0,,mais que faire si jamais avant de devenir végane,
+Dialogue: 0,0:38:46.40,0:38:50.02,Default,,0,0,0,,vous aviez légalement acheté un chat qui refusait de manger autre chose que du poisson ? 
+Dialogue: 0,0:38:50.02,0:38:54.50,Default,,0,0,0,,Vous tuiez désormais 50 poissons par mois pour faire vivre un seul chat,
+Dialogue: 0,0:38:54.50,0:38:58.00,Default,,0,0,0,,Un chat que, en y pensant, vous n'auriez jamais dû acheter
+Dialogue: 0,0:38:58.00,0:39:00.94,Default,,0,0,0,,car quel droit, en tant qu'animal, a-t-on d'en posséder un autre ?
+Dialogue: 0,0:39:05.64,0:39:11.12,Default,,0,0,0,,Beaucoup de gens eurent le sentiment qu'il était préférable de laisser "leurs" animaux mourir de faim.
+Dialogue: 0,0:39:13.52,0:39:14.96,Default,,0,0,0,,Et rongés par l'anxiété, 
+Dialogue: 0,0:39:14.96,0:39:20.18,Default,,0,0,0,,certains se retrouverent sujets à ce qui est désormais connu sous le nom de "cycle de boulimie de viande"
+Dialogue: 0,0:39:21.12,0:39:24.32,Default,,0,0,0,,Cette vidéo montre une femme écossaise ayant mangé tellement de keftas d'agneau,
+Dialogue: 0,0:39:24.32,0:39:27.88,Default,,0,0,0,,qu'elle fit un AVC et se réveilla en ne sachant parler plus que le danois.
+Dialogue: 0,0:39:27.88,0:39:33.30,Default,,0,0,0,,[speaking Danish]
+Dialogue: 0,0:39:33.30,0:39:36.28,Default,,0,0,0,,Debbie déménagea à Rotterdam et épousa un fleuriste.
+Dialogue: 0,0:39:38.18,0:39:41.36,Default,,0,0,0,,"L'ère de la Confusion" dura pendant encore deux ans.
+Dialogue: 0,0:39:43.84,0:39:47.50,Default,,0,0,0,,Jusqu'à que le premier chef végane branché, Freddy Jayashankar,
+Dialogue: 0,0:39:47.50,0:39:51.22,Default,,0,0,0,,montra aux gens comment utiliser des ingrédients qu'il n'avaient jamais goûté auparavant.
+Dialogue: 0,0:39:51.22,0:39:54.66,Default,,0,0,0,,"Aujourd'hui je vais préparer un de mes plats préférés\NJ'adore, c'est délicieux,
+Dialogue: 0,0:39:54.66,0:39:56.92,Default,,0,0,0,,C'est simple, et vraiment abordable:
+Dialogue: 0,0:39:56.96,0:39:58.92,Default,,0,0,0,,le naan peshwari.
+Dialogue: 0,0:39:58.92,0:40:02.52,Default,,0,0,0,,Freddy est certainement la personne la plus importante de cette révolution.
+Dialogue: 0,0:40:02.52,0:40:06.04,Default,,0,0,0,,Ma mère me dit souvent: "Ajoute juste du curcuma !"
+Dialogue: 0,0:40:07.22,0:40:10.00,Default,,0,0,0,,Sa cuisine végétalienne orientale semblait ultra-innovante
+Dialogue: 0,0:40:10.00,0:40:13.02,Default,,0,0,0,,bien qu'elle eût en réalité existé depuis 2500 ans.
+Dialogue: 0,0:40:13.02,0:40:15.06,Default,,0,0,0,,"Nous savions alors quoi faire.
+Dialogue: 0,0:40:15.06,0:40:19.96,Default,,0,0,0,,Quand tu peux voir combien de temps il faut faire bouillir du gombo,
+Dialogue: 0,0:40:19.96,0:40:21.96,Default,,0,0,0,,tu ne peux que faire bouillir du gombo !
+Dialogue: 0,0:40:22.92,0:40:25.98,Default,,0,0,0,,"Toc toc !" -Qui est là? \N"Le naan peshwari."
+Dialogue: 0,0:40:25.98,0:40:29.96,Default,,0,0,0,,Freddy était extrêmement passionnant.
+Dialogue: 0,0:40:32.84,0:40:36.50,Default,,0,0,0,,"La nourriture c'est toi ; la nourriture c'est moi\NLa nourriture, c'est un panais"
+Dialogue: 0,0:40:36.50,0:40:41.38,Default,,0,0,0,,Wow!\NCe gâteau est tellement bon que j'ai dû (prendre le temps de) m'asseoir.
+Dialogue: 0,0:40:41.38,0:40:45.32,Default,,0,0,0,,Il est juste... une personne incroyablement libre.
+Dialogue: 0,0:40:45.32,0:40:48.72,Default,,0,0,0,,"Et si intense. Mais raisonnablement!"
+Dialogue: 0,0:40:52.10,0:40:55.98,Default,,0,0,0,,Il était beau, mais il était aussi... pur.
+Dialogue: 0,0:40:56.92,0:40:58.56,Default,,0,0,0,,Il était comme un moine.
+Dialogue: 0,0:40:58.56,0:41:01.42,Default,,0,0,0,,Il était comme un moine que l'on pouvait baiser.
+Dialogue: 0,0:41:04.04,0:41:07.18,Default,,0,0,0,,"J'aurais aimé avoir deux bouches !"
+Dialogue: 0,0:41:07.18,0:41:11.22,Default,,0,0,0,,Vous voulez parler du travail de Freddy ou... de notre relation ?
+Dialogue: 0,0:41:11.22,0:41:15.68,Default,,0,0,0,,Grâce à la méditation, Freddy apprit à Troye à renoncer à la colère de sa jeunesse.
+Dialogue: 0,0:41:15.68,0:41:19.94,Default,,0,0,0,,"Tu veux manger un esclave, ou bien tu penses pouvoir essayer les aubergines ?"
+Dialogue: 0,0:41:20.92,0:41:22.20,Default,,0,0,0,,Jusque là, 
+Dialogue: 0,0:41:22.38,0:41:25.68,Default,,0,0,0,,Troye avait cru au changement opéré par tous les moyens nécessaires.
+Dialogue: 0,0:41:25.68,0:41:29.32,Default,,0,0,0,,du genre "on ne fait d'omelette sans casser d'oeufs", tout ça.
+Dialogue: 0,0:41:29.32,0:41:34.88,Default,,0,0,0,,Ce fut Freddy qui lui dit "tu n'as pas besoin de faire d'omelette."
+Dialogue: 0,0:41:35.10,0:41:42.58,Default,,0,0,0,,Tout a changé une fois que j'ai commencé à faire les choses avec amour, et non avec rage.
+Dialogue: 0,0:41:42.60,0:41:46.50,Default,,0,0,0,,J'ai pu sensibiliser des gens que je n'aurais même pas pu regarder auparavant.
+Dialogue: 0,0:41:46.50,0:41:48.50,Default,,0,0,0,,Tout ça, c'était Freddy.
+Dialogue: 0,0:41:50.02,0:41:55.52,Default,,0,0,0,,Inspiré par la capacité de son partenaire à toucher et aimer les mangeurs de viande,\NTroye participa courageusement à un festival de nourriture,
+Dialogue: 0,0:41:55.52,0:41:58.58,Default,,0,0,0,,pendant lequel il serrait dans ses bras les vendeurs de viande.
+Dialogue: 0,0:41:58.58,0:42:00.58,Default,,0,0,0,,"Merci, merci mec."
 Dialogue: 0,0:42:01.00,0:42:02.26,Default,,0,0,0,,Merci !
 Dialogue: 0,0:42:02.40,0:42:07.18,Default,,0,0,0,,Troy King Jones... Je pense qu'il est acerbe...
 Dialogue: 0,0:42:07.60,0:42:10.33,Default,,0,0,0,,Ce que nous voulons. Ce que nous avons fait.
