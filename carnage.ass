@@ -16,9 +16,9 @@ Video File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 507
-Active Line: 524
-Video Position: 56141
+Scroll Position: 587
+Active Line: 589
+Video Position: 63114
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -534,7 +534,7 @@ Dialogue: 0,0:35:52.49,0:35:57.01,Default,,0,0,0,,La grippe porcine de 2021 pous
 Dialogue: 0,0:35:57.01,0:36:01.16,Default,,0,0,0,,Cette pandémie doit être prise au sérieux.
 Dialogue: 0,0:36:01.18,0:36:06.26,Default,,0,0,0,,Et pour la première fois, les porcs étaient capables de porter des souches grippales d'oiseaux, d'humains et de porcs,
 Dialogue: 0,0:36:06.29,0:36:11.02,Default,,0,0,0,,qui, combinés, créèrent un super virus fatal aux 3 espèces.
-Dialogue: 0,0:36:11.02,0:36:14.10,Default,,0,0,0,,Ce matin dans la capitale, mes chers auditeurs, les infos : 
+Dialogue: 0,0:36:11.02,0:36:14.10,Default,,0,0,0,,Ce matin dans la capitale, mes chers auditeurs, les infos :
 Dialogue: 0,0:36:14.10,0:36:22.56,Default,,0,0,0,,Jusqu'à présent, 876 personnes à Londres sont mortes de ce qu'on nomme le "super virus porcin".
 Dialogue: 0,0:36:23.04,0:36:29.56,Default,,0,0,0,,Et vous vous demandez peut-être, alors que je vous parle, qu'est ce que vous avez d'autre dans votre cuisine qui pourrait vous tuer.
 Dialogue: 0,0:36:29.98,0:36:33.49,Default,,0,0,0,,Des dizaines de milliers d'humains moururent du "super virus porcin",
@@ -549,5 +549,70 @@ Dialogue: 0,0:37:05.50,0:37:06.65,Default,,0,0,0,,Vous voyez...
 Dialogue: 0,0:37:07.72,0:37:10.81,Default,,0,0,0,,Elle jouait de la clarinette...\NOwww...
 Dialogue: 0,0:37:10.81,0:37:15.32,Default,,0,0,0,,L'élevage intensif était beaucoup plus dangereux que ce que le public avait été amené à croire.
 Dialogue: 0,0:37:15.32,0:37:21.09,Default,,0,0,0,,Alors qu'avait été diffusé à la télé les images d'un politicien faisant manger un burger à sa fille,
-Dialogue: 0,0:37:21.09,0:37:25.62,Default,,0,0,0,,Le développement des réseaux sociaux accéléra la diffusion des découvertes scientifiques en ligne
-Dialogue: 0,0:37:25.62,0:37:27.62,Default,,0,0,0,,
+Dialogue: 0,0:37:21.12,0:37:23.86,Default,,0,0,0,,Les réseaux sociaux servirent à diffuser le savoir en ligne
+Dialogue: 0,0:37:23.90,0:37:27.62,Default,,0,0,0,,Le porc était maintenant percu comme dangereux, insalubre, et dégoûtant.
+Dialogue: 0,0:37:27.62,0:37:30.24,Default,,0,0,0,,Beaucoup de britanniques se mirent à lire la Torah et le Coran
+Dialogue: 0,0:37:30.24,0:37:33.36,Default,,0,0,0,,pour y trouver d'autres conseils de cuisine.
+Dialogue: 0,0:37:34.52,0:37:36.76,Default,,0,0,0,,''Nous allons annoncer ça tout de suite''
+Dialogue: 0,0:37:36.76,0:37:39.62,Default,,0,0,0,,L'industrie de l'élevage animal était dans un piètre état,
+Dialogue: 0,0:37:39.62,0:37:43.98,Default,,0,0,0,,mais malgré tout ça, la majorité des gens avaient toujours aussi envie de viandes.
+Dialogue: 0,0:37:43.98,0:37:50.02,Default,,0,0,0,,Les fermes furent sauvées, mais pour éviter d'autres épidémies,\Nde nouvelles lois strictes sur le bien-être animal furent votées.
+Dialogue: 0,0:37:51.50,0:37:53.94,Default,,0,0,0,,C'était la fin de l'élevage intensif.
+Dialogue: 0,0:37:54.32,0:37:57.76,Default,,0,0,0,,Beaucoup d'animaux purent voir le jour pour la première fois de leur vie,
+Dialogue: 0,0:37:57.76,0:38:06.14,Default,,0,0,0,,Mais hélas, les poulets que les gens avaient l'habitude de consommer étaient si génétiquement modifiés\Nqu'il était difficile pour eux de célébrer cette nouvelle.
+Dialogue: 0,0:38:08.14,0:38:13.94,Default,,0,0,0,,Désormais, puisque le prix de la viande grimpait, \N\Nsi les gens n'avaient pas peur d'en manger, ils étaient de toute manière trop pauvres.
+Dialogue: 0,0:38:13.94,0:38:18.38,Default,,0,0,0,,Personne ne savait quoi manger.\NLes britanniques étaient confus et démunis.
+Dialogue: 0,0:38:18.38,0:38:21.30,Default,,0,0,0,,Ils comptèrent sur la chanteuse Beyoncé pour les guider,
+Dialogue: 0,0:38:21.30,0:38:23.96,Default,,0,0,0,,Certains arrêterent tout simplement de manger.
+Dialogue: 0,0:38:27.68,0:38:32.92,Default,,0,0,0,,Commença alors ce que nous appelons aujourd'hui ''l'ère de la Confusion''
+Dialogue: 0,0:38:32.92,0:38:36.82,Default,,0,0,0,,La population voulait arrêter le réchauffement climatique et améliorer leur santé,
+Dialogue: 0,0:38:36.88,0:38:41.98,Default,,0,0,0,,Ils ne voulaient pas être responsables de la souffrance d'autres animaux,\Nmais comment était-ce possible ?
+Dialogue: 0,0:38:41.98,0:38:44.60,Default,,0,0,0,,Vous auriez pu vous passer de tout ce qui provenait d'animaux,
+Dialogue: 0,0:38:44.60,0:38:46.40,Default,,0,0,0,,mais que faire si jamais avant de devenir végane,
+Dialogue: 0,0:38:46.40,0:38:50.02,Default,,0,0,0,,vous aviez légalement acheté un chat qui refusait de manger autre chose que du poisson ? 
+Dialogue: 0,0:38:50.02,0:38:54.50,Default,,0,0,0,,Vous tuiez désormais 50 poissons par mois pour faire vivre un seul chat,
+Dialogue: 0,0:38:54.50,0:38:58.00,Default,,0,0,0,,Un chat que, en y pensant, vous n'auriez jamais dû acheter
+Dialogue: 0,0:38:58.00,0:39:00.94,Default,,0,0,0,,car quel droit, en tant qu'animal, a-t-on d'en posséder un autre ?
+Dialogue: 0,0:39:05.64,0:39:11.12,Default,,0,0,0,,Beaucoup de gens eurent le sentiment qu'il était préférable de laisser ''leurs'' animaux mourir de faim.
+Dialogue: 0,0:39:13.52,0:39:14.96,Default,,0,0,0,,Et rongés par l'anxiété, 
+Dialogue: 0,0:39:14.96,0:39:20.18,Default,,0,0,0,,certains se retrouverent sujets à ce qui est désormais connu sous le nom de ''cycle de boulimie de viande''
+Dialogue: 0,0:39:21.12,0:39:24.32,Default,,0,0,0,,Cette vidéo montre une femme écossaise ayant mangé tellement de keftas d'agneau,
+Dialogue: 0,0:39:24.32,0:39:27.88,Default,,0,0,0,,qu'elle fit un AVC et se réveilla en ne sachant parler plus que le danois.
+Dialogue: 0,0:39:27.88,0:39:33.30,Default,,0,0,0,,[speaking Danish]
+Dialogue: 0,0:39:33.30,0:39:36.28,Default,,0,0,0,,Debbie déménagea à Rotterdam et épousa un fleuriste.
+Dialogue: 0,0:39:38.18,0:39:41.36,Default,,0,0,0,,''L'ère de la Confusion'' dura pendant encore deux ans.
+Dialogue: 0,0:39:43.84,0:39:47.50,Default,,0,0,0,,Jusqu'à que le premier chef végane branché, Freddy Jayashankar,
+Dialogue: 0,0:39:47.50,0:39:51.22,Default,,0,0,0,,montra aux gens comment utiliser des ingrédients qu'il n'avaient jamais goûté auparavant.
+Dialogue: 0,0:39:51.22,0:39:54.66,Default,,0,0,0,,''Aujourd'hui je vais préparer un de mes plats préférés\NJ'adore, c'est délicieux,
+Dialogue: 0,0:39:54.66,0:39:56.92,Default,,0,0,0,,C'est simple, et vraiment abordable:
+Dialogue: 0,0:39:56.96,0:39:58.92,Default,,0,0,0,,le naan peshwari.
+Dialogue: 0,0:39:58.92,0:40:02.52,Default,,0,0,0,,Freddy est certainement la personne la plus importante de cette révolution.
+Dialogue: 0,0:40:02.52,0:40:06.04,Default,,0,0,0,,Ma mère me dit souvent: ''Ajoute juste du curcuma !''
+Dialogue: 0,0:40:07.22,0:40:10.00,Default,,0,0,0,,Sa cuisine végétalienne orientale semblait ultra-innovante
+Dialogue: 0,0:40:10.00,0:40:13.02,Default,,0,0,0,,bien qu'elle eût en réalité existé depuis 2500 ans.
+Dialogue: 0,0:40:13.02,0:40:15.06,Default,,0,0,0,,''Nous savions alors quoi faire.
+Dialogue: 0,0:40:15.06,0:40:19.96,Default,,0,0,0,,Quand tu peux voir combien de temps il faut faire bouillir du gombo,
+Dialogue: 0,0:40:19.96,0:40:21.96,Default,,0,0,0,,tu ne peux que faire bouillir du gombo !
+Dialogue: 0,0:40:22.92,0:40:25.98,Default,,0,0,0,,''Toc toc !'' -Qui est là? \N"Le naan peshwari.''
+Dialogue: 0,0:40:25.98,0:40:29.96,Default,,0,0,0,,Freddy était extrêmement passionnant.
+Dialogue: 0,0:40:32.84,0:40:36.50,Default,,0,0,0,,''La nourriture c'est toi ; la nourriture c'est moi\NLa nourriture, c'est un panais''
+Dialogue: 0,0:40:36.50,0:40:41.38,Default,,0,0,0,,Wow!\NCe gâteau est tellement bon que j'ai dû (prendre le temps de) m'asseoir.
+Dialogue: 0,0:40:41.38,0:40:45.32,Default,,0,0,0,,Il est juste... une personne incroyablement libre.
+Dialogue: 0,0:40:45.32,0:40:48.72,Default,,0,0,0,,''Et si intense. Mais raisonnablement!''
+Dialogue: 0,0:40:52.10,0:40:55.98,Default,,0,0,0,,Il était beau, mais il était aussi... pur.
+Dialogue: 0,0:40:56.92,0:40:58.56,Default,,0,0,0,,Il était comme un moine.
+Dialogue: 0,0:40:58.56,0:41:01.42,Default,,0,0,0,,Il était comme un moine que l'on pouvait baiser.
+Dialogue: 0,0:41:04.04,0:41:07.18,Default,,0,0,0,,''J'aurais aimé avoir deux bouches !''
+Dialogue: 0,0:41:07.18,0:41:11.22,Default,,0,0,0,,Vous voulez parler du travail de Freddy ou... de notre relation ?
+Dialogue: 0,0:41:11.22,0:41:15.68,Default,,0,0,0,,Grâce à la méditation, Freddy apprit à Troye à renoncer à la colère de sa jeunesse.
+Dialogue: 0,0:41:15.68,0:41:19.94,Default,,0,0,0,,''Tu veux manger un esclave, ou bien tu penses pouvoir essayer les aubergines ?''
+Dialogue: 0,0:41:20.92,0:41:22.20,Default,,0,0,0,,Jusque là, 
+Dialogue: 0,0:41:22.38,0:41:25.68,Default,,0,0,0,,Troye avait cru au changement opéré par tous les moyens nécessaires.
+Dialogue: 0,0:41:25.68,0:41:29.32,Default,,0,0,0,,du genre ''on ne fait d'omelette sans casser d'oeufs'', tout ça.
+Dialogue: 0,0:41:29.32,0:41:34.88,Default,,0,0,0,,Ce fut Freddy qui lui dit ''tu n'as pas besoin de faire d'omelette.''
+Dialogue: 0,0:41:35.10,0:41:42.58,Default,,0,0,0,,Tout a changé une fois que j'ai commencé à faire les choses avec amour, et non avec rage.
+Dialogue: 0,0:41:42.60,0:41:46.50,Default,,0,0,0,,J'ai pu sensibiliser des gens que je n'aurais même pas pu regarder auparavant.
+Dialogue: 0,0:41:46.50,0:41:48.50,Default,,0,0,0,,Tout ça, c'était Freddy.
+Dialogue: 0,0:41:50.02,0:41:55.52,Default,,0,0,0,,Inspiré par la capacité de son partenaire à toucher et aimer les mangeurs de viande,\NTroye participa courageusement à un festival de nourriture,
+Dialogue: 0,0:41:55.52,0:41:58.58,Default,,0,0,0,,pendant lequel il serrait dans ses bras les vendeurs de viande.
+Dialogue: 0,0:41:58.58,0:42:00.58,Default,,0,0,0,,''Merci, merci mec.''
