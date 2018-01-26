@@ -15,10 +15,10 @@ Audio File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
 Video File: ../../../../../Simon.Amstell.Carnage.2017.720p.WEB.h264-WaLMaRT.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 871
-Active Line: 875
-Video Position: 94070
+Video Zoom Percent: 0.875000
+Scroll Position: 872
+Active Line: 876
+Video Position: 94250
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,6 +26,7 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.64,0:00:06.84,Default,,0,0,0,,Journée "Troye King Jones" - 2067
 Dialogue: 0,0:00:08.72,0:00:10.67,Default,,0,0,0,,Quand on y pense,
 Dialogue: 0,0:00:10.75,0:00:15.97,Default,,0,0,0,,l'Angleterre crée actuellement la plus paisible et la plus heureuse des humanité jamais connue
 Dialogue: 0,0:00:15.97,0:00:18.90,Default,,0,0,0,,La violence a été remplacée par la compassion
@@ -623,8 +624,8 @@ Dialogue: 0,0:42:11.82,0:42:18.81,Default,,0,0,0,,As tu été éduqué en tant q
 Dialogue: 0,0:42:18.86,0:42:27.22,Default,,0,0,0,,Je pense que j'ai été vraiment très contrarié par toute cette... mort...
 Dialogue: 0,0:42:27.22,0:42:29.70,Default,,0,0,0,,Tellement de mort... TELLEMENT de mort !
 Dialogue: 0,0:42:30.52,0:42:34.53,Default,,0,0,0,,Mais alors que le chemin vers la compassion n'était pas facile, même pour Troye King Jones,
-Dialogue: 0,0:42:34.56,0:42:36.44,Default,,0,0,0,,''C'est un endroit horrible !
-Dialogue: 0,0:42:36.45,0:42:39.12,Default,,0,0,0,,Je ne peux pas... Je ne peux pas regarder une saucisse de plus.''
+Dialogue: 0,0:42:34.56,0:42:36.44,Default,,0,0,0,,"C'est un endroit horrible !
+Dialogue: 0,0:42:36.45,0:42:39.12,Default,,0,0,0,,Je ne peux pas... Je ne peux pas regarder une saucisse de plus."
 Dialogue: 0,0:42:39.34,0:42:43.48,Default,,0,0,0,,sa vulnérabilité et son empathie inspira une génération d'activistes.
 Dialogue: 0,0:42:44.28,0:42:48.45,Default,,0,0,0,,Nous allons choquer les gens avec l'amour, nous allons choquer les gens avec la compassion.
 Dialogue: 0,0:42:52.97,0:42:56.94,Default,,0,0,0,,Les véganes se mobilisant commencèrent à déposer des fleurs devant les boucheries,
@@ -639,7 +640,7 @@ Dialogue: 0,0:43:40.70,0:43:47.29,Default,,0,0,0,,L'amour inconditionnel donnait
 Dialogue: 0,0:43:47.72,0:43:53.61,Default,,0,0,0,, - Dorothée est toujours Dorothée -\NEt la même année, un film dramatique intense, oscarisé et diffusé sur la BBC, avec Martin Freeman et Eileen Atkins,
 Dialogue: 0,0:43:53.70,0:43:56.90,Default,,0,0,0,,nous montra à quoi ressemblerait la vie d'une femme atteinte d'Alzheimer,
 Dialogue: 0,0:43:56.90,0:43:59.70,Default,,0,0,0,,qui avait oublié qu'il était normal de manger un poulet.
-Dialogue: 0,0:44:00.25,0:44:04.68,Default,,0,0,0,,''Qu'est-ce que c'est ? Qu'est-ce que tu as fait ?
+Dialogue: 0,0:44:00.25,0:44:04.68,Default,,0,0,0,,"Qu'est-ce que c'est ? Qu'est-ce que tu as fait ?
 Dialogue: 0,0:44:05.26,0:44:06.36,Default,,0,0,0,,Maman s'il te plaît...
 Dialogue: 0,0:44:06.36,0:44:08.72,Default,,0,0,0,,Où est le reste de cette poule ? Qui a fait ça ?
 Dialogue: 0,0:44:08.72,0:44:10.05,Default,,0,0,0,,Personne n'a rien fait...
@@ -663,39 +664,39 @@ Dialogue: 0,0:45:02.46,0:45:08.57,Default,,0,0,0,,Puis, en 2024, une comédie mu
 Dialogue: 0,0:45:08.57,0:45:11.33,Default,,0,0,0,,menacait d'anéantir l'industrie des produits laitiers.
 Dialogue: 0,0:45:11.33,0:45:13.33,Default,,0,0,0,,"Enceinte pour 9 mois..."
 Dialogue: 0,0:45:13.33,0:45:19.02,Default,,0,0,0,,"J'étais en train d'accoucher, si excitée à l'idée de voir mon petit garçon !"
-Dialogue: 0,0:45:21.98,0:45:30.46,Default,,0,0,0,,''Où ? Où avez vous emmené mon bébéééé !''
-Dialogue: 0,0:45:30.46,0:45:38.02,Default,,0,0,0,,'Meeeeeeeeuh''!\NIl a aussi besoin de sa mère !
+Dialogue: 0,0:45:21.98,0:45:30.46,Default,,0,0,0,,"Où ? Où avez vous emmené mon bébéééé !"
+Dialogue: 0,0:45:30.46,0:45:38.02,Default,,0,0,0,,'Meeeeeeeeuh"!\NIl a aussi besoin de sa mère !
 Dialogue: 0,0:45:39.01,0:45:44.56,Default,,0,0,0,,Cette comédie musicale avait tout dit, mais avec cette musique magnifique et envoûtante.
 Dialogue: 0,0:45:45.20,0:45:54.00,Default,,0,0,0,,Il doit voir la douleur dans mes yeux !\NDites moi qu'il est toujours en vie !
 Dialogue: 0,0:45:54.02,0:46:03.09,Default,,0,0,0,,Arrêtez de me mettre enceinte !\NPourquoi m'abuser sexuellement pour ce lait dont vous n'avez pas besoin ?
 Dialogue: 0,0:46:03.13,0:46:05.82,Default,,0,0,0,,Arrêtez de me mettre enceinte !
 Dialogue: 0,0:46:05.82,0:46:12.00,Default,,0,0,0,,Pourquoi coller des tubes à mes mamelons, là où mon bébé devrait être !
-Dialogue: 0,0:46:12.00,0:46:15.20,Default,,0,0,0,,Pendant la première semaine, je crois que tout ce que nous avons fait c'était ''meuh''
+Dialogue: 0,0:46:12.00,0:46:15.20,Default,,0,0,0,,Pendant la première semaine, je crois que tout ce que nous avons fait c'était "meuh"
 Dialogue: 0,0:46:15.72,0:46:20.36,Default,,0,0,0,,Je ne suis pas une machineeeee !\NJe suis une mère.
-Dialogue: 0,0:46:20.36,0:46:22.36,Default,,0,0,0,,''Et mes mamelons, ils saaaignent !''
-Dialogue: 0,0:46:22.36,0:46:25.82,Default,,0,0,0,,C'est mon sang dans ''votre'' lait, et il y a du pus dans ''votre'' lait
-Dialogue: 0,0:46:25.82,0:46:27.82,Default,,0,0,0,,car ce n'est pas ''votre'' lait,
+Dialogue: 0,0:46:20.36,0:46:22.36,Default,,0,0,0,,"Et mes mamelons, ils saaaignent !"
+Dialogue: 0,0:46:22.36,0:46:25.82,Default,,0,0,0,,C'est mon sang dans "votre" lait, et il y a du pus dans "votre" lait
+Dialogue: 0,0:46:25.82,0:46:27.82,Default,,0,0,0,,car ce n'est pas "votre" lait,
 Dialogue: 0,0:46:27.82,0:46:29.82,Default,,0,0,0,,C'est le lait de mon bébé !
 Dialogue: 0,0:46:31.74,0:46:37.92,Default,,0,0,0,,Quel genre d'animal viole seulement pour du laaaaait
-Dialogue: 0,0:46:37.92,0:46:42.28,Default,,0,0,0,,''Quel genre d'animal viole seulement pour avoir du lait ?''
+Dialogue: 0,0:46:37.92,0:46:42.28,Default,,0,0,0,,"Quel genre d'animal viole seulement pour avoir du lait ?"
 Dialogue: 0,0:46:42.28,0:46:44.28,Default,,0,0,0,,[nods]
-Dialogue: 0,0:46:45.78,0:46:47.98,Default,,0,0,0,,''Laissez-moi mourir !''
+Dialogue: 0,0:46:45.78,0:46:47.98,Default,,0,0,0,,"Laissez-moi mourir !"
 Dialogue: 0,0:46:49.00,0:46:51.66,Default,,0,0,0,,Laissez-moi juste mourir..
 Dialogue: 0,0:46:53.00,0:46:55.62,Default,,0,0,0,,S'il vous plaît, laissez-moi mourir !
 Dialogue: 0,0:46:58.04,0:47:01.10,Default,,0,0,0,,Laissez-moi mourirrrrr !
 Dialogue: 0,0:47:01.10,0:47:03.76,Default,,0,0,0,,Laissez-mooi-\NLes gens sortaient de la salle
 Dialogue: 0,0:47:03.76,0:47:06.40,Default,,0,0,0,,et avaient le sentiment qu'ils {\i1}devaient {\i0}acheter du lait de riz.
-Dialogue: 0,0:47:06.40,0:47:14.12,Default,,0,0,0,,''Laissez-moi mourir !! S'il vous plaît laissez-moi mourirrr !!''
+Dialogue: 0,0:47:06.40,0:47:14.12,Default,,0,0,0,,"Laissez-moi mourir !! S'il vous plaît laissez-moi mourirrr !!"
 Dialogue: 0,0:47:14.22,0:47:17.80,Default,,0,0,0,,Laissez-mooooooi-
 Dialogue: 0,0:47:17.80,0:47:20.60,Default,,0,0,0,,Pendant les répétitions,
 Dialogue: 0,0:47:20.60,0:47:23.20,Default,,0,0,0,,mes propres tétons commencaient en effet à saigner,
 Dialogue: 0,0:47:23.20,0:47:27.08,Default,,0,0,0,,mes seins... gonflaient réellement.
 Dialogue: 0,0:47:27.08,0:47:29.26,Default,,0,0,0,,Et je ne peux pas expliquer ça.
 Dialogue: 0,0:47:32.14,0:47:35.94,Default,,0,0,0,,La BBC fut accusée d'avoir de très clairs penchants gaucho-véganes
-Dialogue: 0,0:47:36.24,0:47:40.82,Default,,0,0,0,,Ce sentiment fût confirmé par un épisode de ''Countryside'', co-présenté par un canard.
-Dialogue: 0,0:47:42.72,0:47:45.52,Default,,0,0,0,,''Végaaaaaaaaa-ane !''
+Dialogue: 0,0:47:36.24,0:47:40.82,Default,,0,0,0,,Ce sentiment fût confirmé par un épisode de "Countryside", co-présenté par un canard.
+Dialogue: 0,0:47:42.72,0:47:45.52,Default,,0,0,0,,"Végaaaaaaaaa-ane !"
 Dialogue: 0,0:47:45.52,0:47:50.76,Default,,0,0,0,,Mais personne ne put se plaindre auprès de la BBC \Nquand l'Albanie remporta l'Eurovision avec ça :
-Dialogue: 0,0:47:52.40,0:48:01.88,Default,,0,0,0,,''Végaaaaaaaaaaaaaaaaaa-a-ane !''
+Dialogue: 0,0:47:52.40,0:48:01.88,Default,,0,0,0,,"Végaaaaaaaaaaaaaaaaaa-a-ane !"
 Dialogue: 0,0:48:01.88,0:48:06.20,Default,,0,0,0,,Une chanson végane, remportant la première place dans un continent si végéphobique
 Dialogue: 0,0:48:06.20,0:48:10.30,Default,,0,0,0,,était la percée d'une tolérance dont beaucoup pensaient ne jamais voir la couleur/qu'elle n'arriverait jamais.
 Dialogue: 0,0:48:10.44,0:48:16.88,Default,,0,0,0,,Flairant que le vent était en train de tourner rapidement, \Ncet homme commenca à faire campagne pour remettre la viande dans les assiettes britanniques.
@@ -718,43 +719,43 @@ Dialogue: 0,0:48:59.38,0:49:02.58,Default,,0,0,0,,Oh mon dieu, rgardez combien c
 Dialogue: 0,0:49:02.58,0:49:05.42,Default,,0,0,0,,Devinez la première chose que je vois : une LENTILLE.
 Dialogue: 0,0:49:05.42,0:49:09.96,Default,,0,0,0,,Est-ce que -est ce que ceci est un gâteau, ou une blague ?! Hm?
 Dialogue: 0,0:49:10.56,0:49:13.34,Default,,0,0,0,,Qu'est-ce que c'est que ça ?!\NC'est un genre d'excréments ?
-Dialogue: 0,0:49:13.34,0:49:14.28,Default,,0,0,0,,''C'est du cacao !''
+Dialogue: 0,0:49:13.34,0:49:14.28,Default,,0,0,0,,"C'est du cacao !"
 Dialogue: 0,0:49:14.28,0:49:17.62,Default,,0,0,0,,Est-ce que vous pensez que c'est une manière pour vous d'avoir une personnalité ?
 Dialogue: 0,0:49:17.70,0:49:20.40,Default,,0,0,0,,Mangez-vous cela parce que vous pensez que vous n'avez pas assez l'air prétentieuse ?
 Dialogue: 0,0:49:20.40,0:49:23.82,Default,,0,0,0,,Si je n'étais pas végane, le monde serait ceeertainement détruit !
 Dialogue: 0,0:49:23.82,0:49:26.56,Default,,0,0,0,,Ne préferiez-vous pas une vie de plaisirs ?
 Dialogue: 0,0:49:27.60,0:49:32.94,Default,,0,0,0,,Et les patrons de l'industrie de la viande étaient maintenant prêts à tout \Npour persuader les enfants que la viande était cool et marrante.
-Dialogue: 0,0:49:32.94,0:49:34.94,Default,,0,0,0,,''Vite ! Attrape une saucisse !''
+Dialogue: 0,0:49:32.94,0:49:34.94,Default,,0,0,0,,"Vite ! Attrape une saucisse !"
 Dialogue: 0,0:49:34.94,0:49:37.86,Default,,0,0,0,,Entrez dans la Maison de la Viande de Mike !
-Dialogue: 0,0:49:37.86,0:49:39.86,Default,,0,0,0,,''Yeaaaaaaaaah !''
+Dialogue: 0,0:49:37.86,0:49:39.86,Default,,0,0,0,,"Yeaaaaaaaaah !"
 Dialogue: 0,0:49:39.88,0:49:42.40,Default,,0,0,0,,Attention au kebab !!
 Dialogue: 0,0:49:48.44,0:49:51.00,Default,,0,0,0,,Deux fois plus de points si vous frappez le végane !
 Dialogue: 0,0:49:51.00,0:49:53.00,Default,,0,0,0,,Frappez-la au visage !
 Dialogue: 0,0:49:54.58,0:49:59.64,Default,,0,0,0,,Sautez dans la piscine à lait !! \NVite, pressez le bouton, pressez le bouton !
-Dialogue: 0,0:49:59.64,0:50:04.42,Default,,0,0,0,,L'émission était sponsorisée par l'enseigne de la viande ''Birds Eye''\Net fut annulée au bout de quatre épisodes.
+Dialogue: 0,0:49:59.64,0:50:04.42,Default,,0,0,0,,L'émission était sponsorisée par l'enseigne de la viande "Birds Eye"\Net fut annulée au bout de quatre épisodes.
 Dialogue: 0,0:50:04.42,0:50:07.50,Default,,0,0,0,,Alors que l'opinion populaire qui était en jeu était disputée,
 Dialogue: 0,0:50:07.50,0:50:11.88,Default,,0,0,0,,personne ne pouvait convaincre la planète d'arrêter d'inonder le Royaume-Uni.
-Dialogue: 0,0:50:15.02,0:50:17.44,Default,,0,0,0,,''Que se passe-t-il, et peut on l'arrêter ?''
-Dialogue: 0,0:50:17.44,0:50:21.36,Default,,0,0,0,,Tout de suite, la ministre des inondations-''\NHeureusement, un visage familier venant tout droit du passé
-Dialogue: 0,0:50:21.36,0:50:24.50,Default,,0,0,0,,Militante pour le climat, ancienne victime, et maintenant ''tsar des inondations''
+Dialogue: 0,0:50:15.02,0:50:17.44,Default,,0,0,0,,"Que se passe-t-il, et peut on l'arrêter ?"
+Dialogue: 0,0:50:17.44,0:50:21.36,Default,,0,0,0,,Tout de suite, la ministre des inondations-"\NHeureusement, un visage familier venant tout droit du passé
+Dialogue: 0,0:50:21.36,0:50:24.50,Default,,0,0,0,,Militante pour le climat, ancienne victime, et maintenant "tsar des inondations"
 Dialogue: 0,0:50:24.50,0:50:26.84,Default,,0,0,0,,Lindsay Graber indiqua au Royaume-Uni la démarche à suivre.
 Dialogue: 0,0:50:26.84,0:50:31.82,Default,,0,0,0,,Okay alors la production de bœuf nécessite 28 fois plus de terres que le porc ou le poulet,
 Dialogue: 0,0:50:31.82,0:50:35.20,Default,,0,0,0,,c'est la première cause majeure de déforestation au monde,
 Dialogue: 0,0:50:35.20,0:50:39.14,Default,,0,0,0,,et comparé aux végétaux, cela nécessite156 fois plus de terres,
 Dialogue: 0,0:50:39.14,0:50:42.40,Default,,0,0,0,,et génère 11 fois plus de gaz à effet de serre.
 Dialogue: 0,0:50:42.40,0:50:44.88,Default,,0,0,0,,Il est temps de mettre un terme à la production de bœuf.
-Dialogue: 0,0:50:44.88,0:50:47.22,Default,,0,0,0,,''Bannir le bœuf ?! Mais c'est qui cette branleuse ?''
+Dialogue: 0,0:50:44.88,0:50:47.22,Default,,0,0,0,,"Bannir le bœuf ?! Mais c'est qui cette branleuse ?"
 Dialogue: 0,0:50:47.22,0:50:50.24,Default,,0,0,0,,Okay. Lindsay Graber, merci beaucoup de vous être jointe à nous.
 Dialogue: 0,0:50:52.86,0:50:55.74,Default,,0,0,0,,Malheureusement, la réalisation soudaine d'un manque de choix
 Dialogue: 0,0:50:55.74,0:50:58.80,Default,,0,0,0,,provoqua le retournement de beaucoup contre la très appréciée Graber.
 Dialogue: 0,0:50:58.80,0:51:00.84,Default,,0,0,0,,Euhh j'ai adoré quand sa maison fut inondée,
 Dialogue: 0,0:51:00.84,0:51:03.84,Default,,0,0,0,,mais maintenant elle se prend pour genre, une scientifique.
-Dialogue: 0,0:51:03.84,0:51:05.84,Default,,0,0,0,,''Le bœuf c'est ce qui fait toute notre culture britannique !''
+Dialogue: 0,0:51:03.84,0:51:05.84,Default,,0,0,0,,"Le bœuf c'est ce qui fait toute notre culture britannique !"
 Dialogue: 0,0:51:05.84,0:51:07.84,Default,,0,0,0,,WTF DOES HE SAY
 Dialogue: 0,0:51:08.70,0:51:10.40,Default,,0,0,0,,Des changements majeurs étaient dans l'air,
 Dialogue: 0,0:51:10.40,0:51:14.64,Default,,0,0,0,,mais le chemin pour en arriver à bannir le bœuf, et n'importe quelle viande, serait long et sanglant.
 Dialogue: 0,0:51:14.64,0:51:17.72,Default,,0,0,0,,On va s'énerver, ils ne nous écoutent pas !!
-Dialogue: 0,0:51:17.72,0:51:19.72,Default,,0,0,0,,''Tofu ! Polenta !
+Dialogue: 0,0:51:17.72,0:51:19.72,Default,,0,0,0,,"Tofu ! Polenta !
 Dialogue: 0,0:51:19.72,0:51:21.72,Default,,0,0,0,,Que des conneries, ces lentilles et ce tofu.
 Dialogue: 0,0:51:22.40,0:51:26.88,Default,,0,0,0,,Les animaux: devons-nous réellement nous arrêter de les manger tout de suite\Nou pouvons nous manger un dernier burger ?
 Dialogue: 0,0:51:26.88,0:51:29.38,Default,,0,0,0,,Mais le véganisme est juste..extrême.
@@ -766,15 +767,15 @@ Dialogue: 0,0:51:42.80,0:51:46.48,Default,,0,0,0,,L'animal humain n'est pas le s
 Dialogue: 0,0:51:46.52,0:51:51.38,Default,,0,0,0,,L'animal humain n'est pas le seul qui préfèrerait être aimé plutôt que d'être seul,
 Dialogue: 0,0:51:51.38,0:51:54.68,Default,,0,0,0,,qui préfèrerait être libre plutôt qu'esclave, \Net rester en vie plutôt que de se faire tuer
 Dialogue: 0,0:51:54.68,0:51:58.24,Default,,0,0,0,,Mais les véganes vont toujours devoir convaincre assez de gens pour-
-Dialogue: 0,0:51:58.24,0:52:01.76,Default,,0,0,0,,Vous devez {\i1}arrêter {\i0}de nous rabaisser, d'accord ?\NNous ne sommes pas ''véganes''
+Dialogue: 0,0:51:58.24,0:52:01.76,Default,,0,0,0,,Vous devez {\i1}arrêter {\i0}de nous rabaisser, d'accord ?\NNous ne sommes pas "véganes"
 Dialogue: 0,0:52:01.76,0:52:04.62,Default,,0,0,0,,Vous ÊTES véganes !\N-Non ne nous le sommes pas ! Nous sommes tous des {\i1}animaux{\i0}.
-Dialogue: 0,0:52:04.62,0:52:07.52,Default,,0,0,0,,C'est pour ça que l'idée d'une industrie de la ''viande'' est si médiocre.
-Dialogue: 0,0:52:07.52,0:52:10.66,Default,,0,0,0,,Regardez ce que ''l'industrie de la viande'' fait à notre planète.
+Dialogue: 0,0:52:04.62,0:52:07.52,Default,,0,0,0,,C'est pour ça que l'idée d'une industrie de la "viande" est si médiocre.
+Dialogue: 0,0:52:07.52,0:52:10.66,Default,,0,0,0,,Regardez ce que "l'industrie de la viande" fait à notre planète.
 Dialogue: 0,0:52:10.66,0:52:13.28,Default,,0,0,0,,Regardez ce qu'elle fait aux autres animaux. Et à nous.
 Dialogue: 0,0:52:13.28,0:52:15.28,Default,,0,0,0,,{\i1}ÇA, {\i0}c'est extrême.
-Dialogue: 0,0:52:15.28,0:52:19.64,Default,,0,0,0,,NOUS ne sommes pas des ''véganes'': ILS sont des carnistes.
+Dialogue: 0,0:52:15.28,0:52:19.64,Default,,0,0,0,,NOUS ne sommes pas des "véganes": ILS sont des carnistes.
 Dialogue: 0,0:52:19.64,0:52:22.46,Default,,0,0,0,,Pourquoi est-ce que les gens n'aiment pas les véganes ?
-Dialogue: 0,0:52:22.46,0:52:27.30,Default,,0,0,0,,Et ce fut le moment où nous avons arrêté d'être des véganes.\NOn n'avait plus {\i1}besoin{\i0} d'être ''véganes''.
+Dialogue: 0,0:52:22.46,0:52:27.30,Default,,0,0,0,,Et ce fut le moment où nous avons arrêté d'être des véganes.\NOn n'avait plus {\i1}besoin{\i0} d'être "véganes".
 Dialogue: 0,0:52:27.30,0:52:29.30,Default,,0,0,0,,Parce qu'ILS étaient des carnistes !
 Dialogue: 0,0:52:29.30,0:52:31.30,Default,,0,0,0,,C'est Troye qui a fait ça.
 Dialogue: 0,0:52:32.42,0:52:34.74,Default,,0,0,0,,Ce fut la dernière interview de Troye.
@@ -782,13 +783,13 @@ Dialogue: 0,0:52:34.74,0:52:41.12,Default,,0,0,0,,Nous venons d'apprendre que l'
 Dialogue: 0,0:52:41.12,0:52:44.28,Default,,0,0,0,,Je ne sais pas si je suis vraiment capable d'en parler.
 Dialogue: 0,0:52:45.72,0:52:47.48,Default,,0,0,0,,Voyons voir..
 Dialogue: 0,0:52:47.48,0:52:53.06,Default,,0,0,0,,Les forces de police ont arrêté Gavin Knowles, un électricien d'une quarantaine d'années\Nmais rien n'est encore confirmé.
-Dialogue: 0,0:52:53.06,0:52:57.80,Default,,0,0,0,,Certains rapports suggèrent qu'il puisse être un membre de la ''Grande Confédération Britannique de la Viande''
+Dialogue: 0,0:52:53.06,0:52:57.80,Default,,0,0,0,,Certains rapports suggèrent qu'il puisse être un membre de la "Grande Confédération Britannique de la Viande"
 Dialogue: 0,0:52:57.80,0:53:00.58,Default,,0,0,0,,Cet homme est entré par effraction dans l'appartement de Troye,
 Dialogue: 0,0:53:00.58,0:53:02.58,Default,,0,0,0,,et l'a poignardé à mort.
 Dialogue: 0,0:53:02.58,0:53:05.60,Default,,0,0,0,,Puis l'a mangé.
 Dialogue: 0,0:53:07.92,0:53:09.02,Default,,0,0,0,,Il le mangea.
 Dialogue: 0,0:53:10.50,0:53:14.40,Default,,0,0,0,,Et Gavin Knowles, l'éléctricien, que nous savons-nous de lui ?
-Dialogue: 0,0:53:14.40,0:53:19.08,Default,,0,0,0,,''Personne n'est un monstre.\NIl n'allait juste pas bien.
+Dialogue: 0,0:53:14.40,0:53:19.08,Default,,0,0,0,,"Personne n'est un monstre.\NIl n'allait juste pas bien.
 Dialogue: 0,0:53:19.08,0:53:23.98,Default,,0,0,0,,S'il avait été aimé, il n'aurait sûrement pas été si affamé,
 Dialogue: 0,0:53:23.98,0:53:27.40,Default,,0,0,0,,Freddy et moi avons tous deux disparus pendant un certain temps.
 Dialogue: 0,0:53:28.64,0:53:30.18,Default,,0,0,0,,Erm.. Salut.
@@ -800,46 +801,46 @@ Dialogue: 0,0:53:55.40,0:53:57.40,Default,,0,0,0,,Parce qu'il avait été mangé
 Dialogue: 0,0:54:02.38,0:54:05.78,Default,,0,0,0,,Après ces évènements, personne n'avait envie d'être vu comme un carniste.
 Dialogue: 0,0:54:05.78,0:54:09.52,Default,,0,0,0,,Manger une côtelette d'agneau, c'était tout à coup comme de mordre le Dalaï Lama.
 Dialogue: 0,0:54:09.52,0:54:16.66,Default,,0,0,0,,Cela ne faisait aucun doute: la bataille des véganes pour gagner l'opinion populaire \Navait été gagnée, comme le montre cette série télévisée.
-Dialogue: 0,0:54:16.66,0:54:20.28,Default,,0,0,0,,''Euhh, des œufs et du bacon, s'il te plaît.''
-Dialogue: 0,0:54:25.70,0:54:28.38,Default,,0,0,0,,Ironiquement, les plus grosses enseignes internationales 
+Dialogue: 0,0:54:16.66,0:54:20.28,Default,,0,0,0,,"Euhh, des œufs et du bacon, s'il te plaît."
+Dialogue: 0,0:54:25.70,0:54:28.38,Default,,0,0,0,,Ironiquement, les plus grosses enseignes internationales
 Dialogue: 0,0:54:28.38,0:54:32.94,Default,,0,0,0,,qui furent sur le devant de la scène lors de l'esssor de la viande bon marché, décidèrent de mettre à jour leur visuel:
-Dialogue: 0,0:54:32.94,0:54:34.94,Default,,0,0,0,,''Bonne Cuisine Amicale''
+Dialogue: 0,0:54:32.94,0:54:34.94,Default,,0,0,0,,"Bonne Cuisine Amicale"
 Dialogue: 0,0:54:35.94,0:54:42.40,Default,,0,0,0,,Mais le changement était moins facile pour les éleveurs et les bouchers britanniques \Nqui commencèrent à se sentir dépouillés de leur identité et de leur rôle.
 Dialogue: 0,0:54:42.40,0:54:46.60,Default,,0,0,0,,Ce que vous faites sonne aussi horrible que ca l'est,\Nvous charcutez des corps morts.
 Dialogue: 0,0:54:46.60,0:54:48.60,Default,,0,0,0,,-Mais je suis boucher ! \N-Oui.
 Dialogue: 0,0:54:52.12,0:54:56.76,Default,,0,0,0,,Mais même si 70% des britanniques étaient désormais au moins végétariens,
 Dialogue: 0,0:54:56.76,0:55:00.46,Default,,0,0,0,,il y a avait toujours une réticence à rendre illégal le fait de tuer des animaux.
 Dialogue: 0,0:55:05.12,0:55:09.90,Default,,0,0,0,,Cinq ans plus tard, l'empathie inspirée par Troye était toujours farouchement contestée.
-Dialogue: 0,0:55:09.90,0:55:13.42,Default,,0,0,0,,''Comment savez-vous si les animaux ressentent quoi que ce soit ?\NEst-ce que quelqu'un leur a déjà demandé ?
+Dialogue: 0,0:55:09.90,0:55:13.42,Default,,0,0,0,,"Comment savez-vous si les animaux ressentent quoi que ce soit ?\NEst-ce que quelqu'un leur a déjà demandé ?
 Dialogue: 0,0:55:13.42,0:55:16.28,Default,,0,0,0,,Avez-vous déjà vu un poisson pleurer ?\NConnaissez-vous un cochon en dépression ?
 Dialogue: 0,0:55:16.28,0:55:20.10,Default,,0,0,0,,Kevin nous dit que les plantes ont aussi des sentiments; pas vrai Kévin ?
-Dialogue: 0,0:55:20.10,0:55:24.64,Default,,0,0,0,,Ehem. J'ai lu sur internet que.. que 
+Dialogue: 0,0:55:20.10,0:55:24.64,Default,,0,0,0,,Ehem. J'ai lu sur internet que.. que
 Dialogue: 0,0:55:24.64,0:55:27.98,Default,,0,0,0,,si vous mettez un micro assez près d'une carotte,
 Dialogue: 0,0:55:27.98,0:55:31.12,Default,,0,0,0,,erm- erm- vous l'entendrez crier.
-Dialogue: 0,0:55:31.12,0:55:33.12,Default,,0,0,0,,''Eh bien, merci beaucoup Kévin !''
+Dialogue: 0,0:55:31.12,0:55:33.12,Default,,0,0,0,,"Eh bien, merci beaucoup Kévin !"
 Dialogue: 0,0:55:34.00,0:55:36.66,Default,,0,0,0,,Mais des arguments comme ceux-là tombèrent en miettes
-Dialogue: 0,0:55:36.66,0:55:39.26,Default,,0,0,0,,avec une avancée scientifique tellement énorme, 
+Dialogue: 0,0:55:36.66,0:55:39.26,Default,,0,0,0,,avec une avancée scientifique tellement énorme,
 Dialogue: 0,0:55:39.26,0:55:41.68,Default,,0,0,0,,que beaucoup refusaient même de croire que c'était possible.
 Dialogue: 0,0:55:41.68,0:55:47.44,Default,,0,0,0,,le Docteur Charles Grant inventa une machine qui pouvait lire les pensées et sentiments des autres animaux.
 Dialogue: 0,0:55:47.44,0:55:51.14,Default,,0,0,0,,Le mouton Lucy fut le catalyseur/déclencheur du changement que personne ne vit venir.
 Dialogue: 0,0:55:51.14,0:55:54.08,Default,,0,0,0,,La voix suivante va certainement vous paraître familière:
 Dialogue: 0,0:55:54.08,0:55:57.10,Default,,0,0,0,,c'est en effet la voix de l'actrice célèbre Joanna Lumley
 Dialogue: 0,0:55:57.10,0:56:01.90,Default,,0,0,0,,qui s'est enregistrée en train de dire tous les mots de la langue anglaise\N avant de mourir, avec beaucoup de charme.
-Dialogue: 0,0:56:01.90,0:56:06.38,Default,,0,0,0,,{\i1}''Pourquoi - continuez-vous - de - me - tondre ?\NJ'ai - froid ''{\i0}
+Dialogue: 0,0:56:01.90,0:56:06.38,Default,,0,0,0,,{\i1}"Pourquoi - continuez-vous - de - me - tondre ?\NJ'ai - froid "{\i0}
 Dialogue: 0,0:56:06.38,0:56:09.72,Default,,0,0,0,,Ce fut à ce moment que tout le monde put voir et entendre
 Dialogue: 0,0:56:09.72,0:56:12.54,Default,,0,0,0,,que d'autres animaux avaient, comme eux, des sentiments.
-Dialogue: 0,0:56:12.54,0:56:14.48,Default,,0,0,0,,Au fur et à mesure que cette technologie s'améliorait, 
+Dialogue: 0,0:56:12.54,0:56:14.48,Default,,0,0,0,,Au fur et à mesure que cette technologie s'améliorait,
 Dialogue: 0,0:56:14.48,0:56:17.68,Default,,0,0,0,,tous les animaux furent dotés d'un dispositif interne de traduction.
-Dialogue: 0,0:56:17.68,0:56:21.90,Default,,0,0,0,,{\i1}''Je - ne - suis - pas - une - machine - à = fromage\NJe - suis - une - chèvre! !''{\i0}
-Dialogue: 0,0:56:21.90,0:56:26.10,Default,,0,0,0,,{\i1}''Pourquoi - insérez-vous- constamment - votre - poing \Ndans - mon - derrière ? ''{\i0}
-Dialogue: 0,0:56:26.10,0:56:29.98,Default,,0,0,0,,{\i1}''Pourquoi - continuez-vous- à - essayer - de - me - faire - éjaculer ?''{\i0}
+Dialogue: 0,0:56:17.68,0:56:21.90,Default,,0,0,0,,{\i1}"Je - ne - suis - pas - une - machine - à = fromage\NJe - suis - une - chèvre! !"{\i0}
+Dialogue: 0,0:56:21.90,0:56:26.10,Default,,0,0,0,,{\i1}"Pourquoi - insérez-vous- constamment - votre - poing \Ndans - mon - derrière ? "{\i0}
+Dialogue: 0,0:56:26.10,0:56:29.98,Default,,0,0,0,,{\i1}"Pourquoi - continuez-vous- à - essayer - de - me - faire - éjaculer ?"{\i0}
 Dialogue: 0,0:56:29.98,0:56:33.80,Default,,0,0,0,,Il était désormais clair qu'être végétarien n'était vraiment pas suffisant.
 Dialogue: 0,0:56:33.80,0:56:37.34,Default,,0,0,0,,Les humains ne pouvaient plus ignorer ce que les autres animaux leur disaient,
 Dialogue: 0,0:56:37.34,0:56:41.70,Default,,0,0,0,,particulièrement à propos du vol de leur lait, et de leurs potentiels futurs enfants.
 Dialogue: 0,0:56:41.70,0:56:45.00,Default,,0,0,0,,Je pense que les gens {\i1}savaient{\i0} que les œufs étaient des menstruations de poules.
 Dialogue: 0,0:56:45.00,0:56:47.58,Default,,0,0,0,,Mais pourquoi pas manger un ovule au petit-déjeuner ?
 Dialogue: 0,0:56:47.58,0:56:52.00,Default,,0,0,0,,Je ne pense par contre pas que les gens \Nsavaient que les poules sauvages n'avaient leurs règles que 20 fois par an.
-Dialogue: 0,0:56:52.00,0:56:57.42,Default,,0,0,0,,Imaginez être forcée à avoir vos règles 10 à 15 fois de plus que vous n'êtes supposée avoir,  
+Dialogue: 0,0:56:52.00,0:56:57.42,Default,,0,0,0,,Imaginez être forcée à avoir vos règles 10 à 15 fois de plus que vous n'êtes supposée avoir,
 Dialogue: 0,0:56:57.42,0:56:59.42,Default,,0,0,0,,et d'être ensuite tuée pour manque de règles.
 Dialogue: 0,0:56:59.42,0:57:01.42,Default,,0,0,0,,Ca allait au-delà même du sexisme.
 Dialogue: 0,0:57:01.82,0:57:05.22,Default,,0,0,0,,Dans les années 2030, les véganes de la jeune génération avaient grandis,
@@ -867,7 +868,7 @@ Dialogue: 0,0:58:12.96,0:58:17.14,Default,,0,0,0,,qui criminalisa l'esclavage, l
 Dialogue: 0,0:58:22.28,0:58:26.46,Default,,0,0,0,,...ainsi que la manipulation ou la consommation de tout ce qui pouvait provenir d'eux.
 Dialogue: 0,0:58:43.36,0:58:47.14,Default,,0,0,0,,Les survivants de l'exploitation animale furent envoyés dans des centres de rétablissement,
 Dialogue: 0,0:58:47.20,0:58:52.80,Default,,0,0,0,,où ils furent libres de rester pour le restant de leurs jours\Net s'occuper de leurs enfants sans avoir peur qu'on ne leur enlève.
-Dialogue: 0,0:58:57.62,0:59:00.42,Default,,0,0,0,,Pour les humains qui ressentaient toujours le besoin de prétendre tuer, 
+Dialogue: 0,0:58:57.62,0:59:00.42,Default,,0,0,0,,Pour les humains qui ressentaient toujours le besoin de prétendre tuer,
 Dialogue: 0,0:59:00.42,0:59:02.78,Default,,0,0,0,,cela était possible grâce à la réalité virtuelle.
 Dialogue: 0,0:59:08.12,0:59:13.36,Default,,0,0,0,,Et pour ceux qui ne pouvaient vraiment pas se passer de lait, \Ndes femmes humaines commencèrent à vendre leur lait dans la rue.
 Dialogue: 0,0:59:20.04,0:59:22.00,Default,,0,0,0,,Qu'est-ce que vous voulez que je vous dise !
@@ -888,7 +889,7 @@ Dialogue: 0,1:00:45.74,1:00:50.06,Default,,0,0,0,,Un artefact effrayant venant t
 Dialogue: 0,1:00:50.06,1:00:52.96,Default,,0,0,0,,pour en faire un objet en forme d'œuf de poule.
 Dialogue: 0,1:01:00.50,1:01:04.24,Default,,0,0,0,,Et concernant ceux qui ont toujours du mal à accepter leur passé de mangeur de viande,
 Dialogue: 0,1:01:04.24,1:01:09.30,Default,,0,0,0,,les méthodes du Dr. Yasmine Vonderburgen peut leur sauver la vie.
-Dialogue: 0,1:01:09.34,1:01:11.54,Default,,0,0,0,,''Merci.''
+Dialogue: 0,1:01:09.34,1:01:11.54,Default,,0,0,0,,"Merci."
 Dialogue: 0,1:01:29.82,1:01:33.70,Default,,0,0,0,,[...????] Je sais, je sais, je sais. Bien sûr-
 Dialogue: 0,1:01:33.76,1:01:37.82,Default,,0,0,0,,Bien sûr que tu mangeais des cochons. Bien sûr.
 Dialogue: 0,1:01:42.58,1:01:47.72,Default,,0,0,0,,Cela prit un certain temps aux humain.e.s de Grande-Bretagne \Nde réellement aimer leurs compagnons animaux.
@@ -898,7 +899,7 @@ Dialogue: 0,1:02:04.08,1:02:12.86,Default,,0,0,0,,Désolé...\NDésolé !
 Dialogue: 0,1:02:25.04,1:02:26.70,Default,,0,0,0,,Saumon....
 Dialogue: 0,1:02:26.70,1:02:28.70,Default,,0,0,0,,Oui.
 Dialogue: 0,1:02:32.10,1:02:34.38,Default,,0,0,0,,Morue.
-Dialogue: 0,1:02:34.38,1:02:36.84,Default,,0,0,0,,Merci. 
+Dialogue: 0,1:02:34.38,1:02:36.84,Default,,0,0,0,,Merci.
 Dialogue: 0,1:02:36.84,1:02:38.84,Default,,0,0,0,,Aiglefin...
 Dialogue: 0,1:02:38.84,1:02:40.84,Default,,0,0,0,,Mh.
-Dialogue: 0,1:02:40.84,1:02:42.84,Default,,0,0,0,,
+Dialogue: 0,1:02:42.12,1:02:50.02,Default,,0,0,0,,Sous-titres : \NMathis DUPUY\NNaëlle ZAYANI
